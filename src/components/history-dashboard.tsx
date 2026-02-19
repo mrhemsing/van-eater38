@@ -261,6 +261,18 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           </section>
         </main>
       </div>
+
+      <footer className="mt-8 text-left text-sm text-neutral-500">
+        © 2026{' '}
+        <a
+          href="https://www.b-average.com/"
+          target="_blank"
+          rel="noreferrer"
+          className="text-neutral-400 hover:text-neutral-200"
+        >
+          B Average
+        </a>
+      </footer>
     </div>
   );
 }
