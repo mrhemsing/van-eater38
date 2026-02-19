@@ -158,21 +158,6 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                       {isExpanded ? (
                         <div className="border-t border-neutral-800 bg-neutral-950/60 px-3 py-2 text-sm text-neutral-200">
                           <DetailRow
-                            icon="📍"
-                            label={restaurant.address || 'Address not available from source'}
-                            href={restaurant.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.address)}` : undefined}
-                          />
-                          <DetailRow
-                            icon="☎"
-                            label={restaurant.phone || 'Not available'}
-                            href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
-                          />
-                          <DetailRow
-                            icon="🌐"
-                            label={restaurant.website ? 'Visit website' : 'Website not available from source'}
-                            href={restaurant.website || undefined}
-                          />
-                          <DetailRow
                             icon="🍽"
                             label={restaurant.openFor ? `Open for: ${restaurant.openFor}` : 'Open for: Not available'}
                           />
@@ -191,6 +176,21 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               Description: Not available
                             </div>
                           )}
+                          <DetailRow
+                            icon="📍"
+                            label={restaurant.address || 'Address not available from source'}
+                            href={restaurant.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.address)}` : undefined}
+                          />
+                          <DetailRow
+                            icon="☎"
+                            label={restaurant.phone || 'Not available'}
+                            href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
+                          />
+                          <DetailRow
+                            icon="🌐"
+                            label={restaurant.website ? 'Visit website' : 'Website not available from source'}
+                            href={restaurant.website || undefined}
+                          />
                         </div>
                       ) : null}
                     </article>
