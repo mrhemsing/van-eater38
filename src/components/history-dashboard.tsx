@@ -102,7 +102,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             <button
               type="button"
               onClick={() => setShowAllInVersions((v) => !v)}
-              className="rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-0.5 text-xs text-orange-300 hover:border-neutral-600 hover:text-orange-200"
+              className={`rounded-md border px-2 py-0.5 text-xs transition ${
+                showAllInVersions
+                  ? 'border-orange-400 bg-orange-500/20 text-orange-200'
+                  : 'border-neutral-700 bg-neutral-900/70 text-orange-300 hover:border-neutral-600 hover:text-orange-200'
+              }`}
             >
               View all
             </button>
@@ -135,7 +139,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               <button
                 type="button"
                 onClick={() => setShowAllInVersions((v) => !v)}
-                className="rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-0.5 text-xs text-orange-300 hover:border-neutral-600 hover:text-orange-200"
+                className={`rounded-md border px-2 py-0.5 text-xs transition ${
+                  showAllInVersions
+                    ? 'border-orange-400 bg-orange-500/20 text-orange-200'
+                    : 'border-neutral-700 bg-neutral-900/70 text-orange-300 hover:border-neutral-600 hover:text-orange-200'
+                }`}
               >
                 View all
               </button>
