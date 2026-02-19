@@ -24,6 +24,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [selectedId, setSelectedId] = useState(versions[0]?.id);
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
   const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
+  const [showAllInVersions, setShowAllInVersions] = useState(false);
 
   const selectedIndex = versions.findIndex((v) => v.id === selectedId);
   const selectedVersion = versions[selectedIndex] ?? versions[0];
@@ -31,6 +32,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
 
   const frequencies = useMemo(() => buildFrequency(versions), [versions]);
   const { added, removed } = versionDiff(selectedVersion, previousVersion);
+
+  const allRestaurants = useMemo(
+    () => [...frequencies.entries()].map(([slug, v]) => ({ slug, name: v.name })).sort((a, b) => a.name.localeCompare(b.name)),
+    [frequencies],
+  );
 
   const totalUnique = frequencies.size;
 
@@ -74,7 +80,16 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
 
       <div className="grid gap-5 lg:grid-cols-[280px_1fr]">
         <aside className="hidden rounded-2xl border border-neutral-800 bg-neutral-950/70 p-4 lg:block">
-          <h2 className="mb-3 text-sm uppercase tracking-[0.18em] text-neutral-400">Versions</h2>
+          <div className="mb-3 flex items-center justify-between gap-2">
+            <h2 className="text-sm uppercase tracking-[0.18em] text-neutral-400">Versions</h2>
+            <button
+              type="button"
+              onClick={() => setShowAllInVersions((v) => !v)}
+              className="text-xs text-orange-300 hover:text-orange-200"
+            >
+              {showAllInVersions ? 'View changes' : 'View all'}
+            </button>
+          </div>
           <div className="space-y-2">
             {versions.map((version) => {
               const isActive = version.id === selectedVersion.id;
@@ -119,11 +134,24 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             </div>
           </section>
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
-            <h3 className="text-lg font-semibold text-white">{toMonthYear(selectedVersion.date)}</h3>
-            <div className="mt-4 grid gap-4 md:grid-cols-2">
-              <ChangeCard title="Added" color="text-emerald-300" restaurants={added} emptyText="No new additions in this snapshot" />
-              <ChangeCard title="Retired" color="text-rose-300" restaurants={removed} emptyText="No retirements in this snapshot" />
+            <div className="flex items-center justify-between gap-3">
+              <h3 className="text-lg font-semibold text-white">{toMonthYear(selectedVersion.date)}</h3>
             </div>
+
+            {showAllInVersions ? (
+              <div className="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+                {allRestaurants.map((r) => (
+                  <div key={r.slug} className="rounded-lg border border-neutral-800 bg-neutral-900/60 px-3 py-2 text-sm text-neutral-200">
+                    {r.name}
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div className="mt-4 grid gap-4 md:grid-cols-2">
+                <ChangeCard title="Added" color="text-emerald-300" restaurants={added} emptyText="No new additions in this snapshot" />
+                <ChangeCard title="Retired" color="text-rose-300" restaurants={removed} emptyText="No retirements in this snapshot" />
+              </div>
+            )}
           </section>
 
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
