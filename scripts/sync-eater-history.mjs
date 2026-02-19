@@ -25,6 +25,11 @@ const CANONICAL_RESTAURANTS = {
   'suyo-modern-peruvian': { slug: 'suyo', name: 'Suyo' },
 };
 
+const PHONE_OVERRIDES = {
+  'bar-tartare': '(604) 893-7832',
+  'the-515-bar': '(604) 428-8226',
+};
+
 function normalizeAddress(address) {
   if (!address) return '';
 
@@ -49,8 +54,16 @@ function normalizeAddress(address) {
   out = out.replace(/\b([A-Za-z.'-]+(?:\s+[A-Za-z.'-]+)*)\s+BC\b/g, '$1, BC');
   out = out.replace(/,\s*,\s*BC\b/g, ', BC');
 
+  // If address ends with ", BC" but has no explicit city segment, default to Vancouver.
+  // Example: "3388 Main Street, BC" -> "3388 Main Street, Vancouver, BC"
   // Final trim of trailing separators/spaces.
   out = out.replace(/[\s,]+$/g, '');
+
+  // After cleanup, if address still has only street + province, inject Vancouver.
+  const commaCount = (out.match(/,/g) || []).length;
+  if (/,[\s]*BC$/i.test(out) && commaCount === 1) {
+    out = out.replace(/,[\s]*BC$/i, ', Vancouver, BC');
+  }
 
   return out;
 }
@@ -62,13 +75,15 @@ function normalizeRestaurants(items) {
       const rawSlug = slugify(rawName);
       const canonical = CANONICAL_RESTAURANTS[rawSlug];
 
+      const normalizedSlug = canonical?.slug || rawSlug;
+
       return {
         name: canonical?.name || rawName,
-        slug: canonical?.slug || rawSlug,
+        slug: normalizedSlug,
         address: normalizeAddress(item?.address?.trim() || ''),
         eaterUrl: item?.eaterUrl || '',
         website: item?.website || '',
-        phone: item?.phone || '',
+        phone: PHONE_OVERRIDES[normalizedSlug] || item?.phone || '',
       };
     })
     .filter((r) => r.name);
