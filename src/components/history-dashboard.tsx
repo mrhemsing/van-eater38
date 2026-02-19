@@ -113,7 +113,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           </div>
           <div className="space-y-2">
             {versions.map((version) => {
-              const isActive = version.id === selectedVersion.id;
+              const isActive = !showAllInVersions && version.id === selectedVersion.id;
               return (
                 <button
                   key={version.id}
@@ -150,7 +150,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             </div>
             <div className="mt-2 flex gap-2 overflow-x-auto pb-4">
               {versions.map((version) => {
-                const isActive = version.id === selectedVersion.id;
+                const isActive = !showAllInVersions && version.id === selectedVersion.id;
                 return (
                   <button
                     key={`mobile-${version.id}`}
