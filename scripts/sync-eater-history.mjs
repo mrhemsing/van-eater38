@@ -17,18 +17,51 @@ function slugify(value) {
     .replace(/-+/g, '-');
 }
 
+const CANONICAL_RESTAURANTS = {
+  'hawksworth-bar': { slug: 'hawksworth-restaurant', name: 'Hawksworth Restaurant' },
+  'homer-st-cafe-and-bar': { slug: 'homer-street-cafe-and-bar', name: 'Homer Street Cafe and Bar' },
+  'maruhachi-ra-men-canada-westend': { slug: 'maruhachi-ra-men', name: 'Maruhachi Ra-men' },
+  'pidgin-restaurant': { slug: 'pidgin', name: 'Pidgin' },
+  'suyo-modern-peruvian': { slug: 'suyo', name: 'Suyo' },
+};
+
 function normalizeRestaurants(items) {
-  return items
-    .map((item) => ({
-      name: item?.name?.trim(),
-      slug: slugify(item?.name || ''),
-      address: item?.address?.trim() || '',
-      eaterUrl: item?.eaterUrl || '',
-      website: item?.website || '',
-      phone: item?.phone || '',
-    }))
-    .filter((r) => r.name)
-    .sort((a, b) => a.name.localeCompare(b.name));
+  const canonicalized = items
+    .map((item) => {
+      const rawName = item?.name?.trim() || '';
+      const rawSlug = slugify(rawName);
+      const canonical = CANONICAL_RESTAURANTS[rawSlug];
+
+      return {
+        name: canonical?.name || rawName,
+        slug: canonical?.slug || rawSlug,
+        address: item?.address?.trim() || '',
+        eaterUrl: item?.eaterUrl || '',
+        website: item?.website || '',
+        phone: item?.phone || '',
+      };
+    })
+    .filter((r) => r.name);
+
+  // De-duplicate by canonical slug inside each version.
+  const bySlug = new Map();
+  for (const r of canonicalized) {
+    const existing = bySlug.get(r.slug);
+    if (!existing) {
+      bySlug.set(r.slug, r);
+      continue;
+    }
+
+    bySlug.set(r.slug, {
+      ...existing,
+      address: existing.address || r.address,
+      eaterUrl: existing.eaterUrl || r.eaterUrl,
+      website: existing.website || r.website,
+      phone: existing.phone || r.phone,
+    });
+  }
+
+  return [...bySlug.values()].sort((a, b) => a.name.localeCompare(b.name));
 }
 
 function extractJsonArrayByKey(html, key) {
