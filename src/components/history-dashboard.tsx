@@ -167,11 +167,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                             dense
                           />
                           {restaurant.descriptionText ? (
-                            <div className="border-b border-neutral-800/80 py-2 text-neutral-300 lg:pr-20 lg:text-[15px]">
+                            <div className="border-b border-neutral-800/80 py-2 text-neutral-300 text-[15px] leading-relaxed lg:pr-20 lg:text-[15px]">
                               {restaurant.descriptionText}
                             </div>
                           ) : (
-                            <div className="border-b border-neutral-800/80 py-2 text-neutral-500 lg:pr-20 lg:text-[15px]">
+                            <div className="border-b border-neutral-800/80 py-2 text-neutral-500 text-[15px] leading-relaxed lg:pr-20 lg:text-[15px]">
                               Description: Not available
                             </div>
                           )}
