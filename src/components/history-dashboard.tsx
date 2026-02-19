@@ -129,13 +129,12 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
             <div className="flex flex-wrap items-center gap-2 text-lg font-semibold text-white">
               <h3>The 38 Best Restaurants in Vancouver</h3>
-              <span className="text-neutral-500">|</span>
               <button
                 type="button"
                 onClick={() => setViewMode(viewMode === 'list' ? 'map' : 'list')}
                 className="text-base font-medium text-orange-300 hover:text-orange-200"
               >
-                {viewMode === 'list' ? 'Map view' : 'List view'}
+                {viewMode === 'list' ? '(View map)' : '(View list)'}
               </button>
             </div>
 
