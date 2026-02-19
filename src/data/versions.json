@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T17:50:09.241Z",
+  "generatedAt": "2026-02-19T17:54:29.945Z",
   "source": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
   "versions": [
     {
@@ -3742,7 +3742,7 @@
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
-          "address": "3388 Main St, Vancouver BC V5V 3M7",
+          "address": "3388 Main St, Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.anhandchi.com/",
           "phone": "(604) 878-8883"
@@ -3750,7 +3750,7 @@
         {
           "name": "Baan Lao Fine Thai Cuisine",
           "slug": "baan-lao-fine-thai-cuisine",
-          "address": "4100 Bayview Street, Richmond, British Columbia V7E 0B3, Canada",
+          "address": "4100 Bayview Street, Richmond, BC",
           "eaterUrl": "",
           "website": "http://baanlao.ca",
           "phone": "(778) 839-5711"
@@ -3758,7 +3758,7 @@
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
-          "address": "163 Keefer St (btwn Columbia & Main), Vancouver BC V6A 1X3",
+          "address": "163 Keefer St (btwn Columbia & Main), Vancouver BC",
           "eaterUrl": "",
           "website": "http://bao-bei.ca/",
           "phone": "(604) 688-0876"
@@ -3766,7 +3766,7 @@
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
-          "address": "54 Alexander Street, Vancouver, British Columbia V6A 1B4, Canada",
+          "address": "54 Alexander Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.bartartareyvr.ca/",
           "phone": ""
@@ -3774,7 +3774,7 @@
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
-          "address": "2702 Main St (at E 11th Ave), Vancouver BC V5T 3E8",
+          "address": "2702 Main St (at E 11th Ave), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.burdockandco.com/",
           "phone": "(604) 879-0077"
@@ -3782,7 +3782,7 @@
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
-          "address": "635 Commercial Dr, Vancouver BC V5L 3W3",
+          "address": "635 Commercial Dr, Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.caffelatana.ca/",
           "phone": "(604) 428-5462"
@@ -3790,7 +3790,7 @@
         {
           "name": "Cómo Taperia",
           "slug": "como-taperia",
-          "address": "201 7th Ave E, Vancouver BC V5T 0J2",
+          "address": "201 7th Ave E, Vancouver BC",
           "eaterUrl": "",
           "website": "https://www.comotaperia.com/",
           "phone": "(604) 879-3100"
@@ -3798,7 +3798,7 @@
         {
           "name": "Dachi",
           "slug": "dachi",
-          "address": "2297 Hastings St E, Vancouver BC V5L 1V3",
+          "address": "2297 Hastings St E, Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.dachivancouver.com",
           "phone": "(604) 569-0456"
@@ -3806,7 +3806,7 @@
         {
           "name": "Dante Italian Sandwich",
           "slug": "dante-italian-sandwich",
-          "address": "360 Robson Street, Vancouver, British Columbia V6B 2B2, Canada",
+          "address": "360 Robson Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.dantesandwich.com/",
           "phone": "604-336-0044"
@@ -3814,7 +3814,7 @@
         {
           "name": "Dosanko",
           "slug": "dosanko",
-          "address": "566 Powell St, Vancouver BC V6A 1G9",
+          "address": "566 Powell St, Vancouver BC",
           "eaterUrl": "",
           "website": "http://dosankorestaurant.ca",
           "phone": "(604) 251-2020"
@@ -3822,7 +3822,7 @@
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
-          "address": "108-777 West Broadway, BC V5Z 4J7",
+          "address": "108-777 West Broadway, BC",
           "eaterUrl": "",
           "website": "http://www.dynasty-restaurant.ca/",
           "phone": "(604) 876-8388"
@@ -3830,7 +3830,7 @@
         {
           "name": "El Gato Gab Gab",
           "slug": "el-gato-gab-gab",
-          "address": "2650 Main Street, Vancouver, British Columbia V5T 3E6, Canada",
+          "address": "2650 Main Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://elgatogabgab.com/",
           "phone": ""
@@ -3838,7 +3838,7 @@
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
-          "address": "8071 Park Rd, Richmond BC V6Y 1S8",
+          "address": "8071 Park Rd, Richmond BC",
           "eaterUrl": "",
           "website": "https://www.goldenparamount.com/",
           "phone": "(604) 278-0873"
@@ -3846,7 +3846,7 @@
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
-          "address": "1689 Johnston St (in Granville Island Public Market), Vancouver BC V6H 3R9",
+          "address": "1689 Johnston St (in Granville Island Public Market), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.granvilleisland.com/",
           "phone": "(604) 666-6655"
@@ -3854,7 +3854,7 @@
         {
           "name": "Homer Street Cafe and Bar",
           "slug": "homer-street-cafe-and-bar",
-          "address": "898 Homer St (at Smithe St.), Vancouver BC V6B 2W5",
+          "address": "898 Homer St (at Smithe St.), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.homerstreetcafebar.com",
           "phone": "(604) 428-4299"
@@ -3862,7 +3862,7 @@
         {
           "name": "Hundy",
           "slug": "hundy",
-          "address": "1144 Homer St, Vancouver BC V6B 2X6",
+          "address": "1144 Homer St, Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.hundy.ca",
           "phone": "(604) 800-5884"
@@ -3870,7 +3870,7 @@
         {
           "name": "Japadog",
           "slug": "japadog",
-          "address": "899 Burrard St (at Smithe St.), Vancouver BC V6Z 1X9",
+          "address": "899 Burrard St (at Smithe St.), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.japadog.com",
           "phone": "(604) 569-1158"
@@ -3878,7 +3878,7 @@
         {
           "name": "Kapow Burger",
           "slug": "kapow-burger",
-          "address": "20 East 4th Avenue, Vancouver, British Columbia V5T 1E8, Canada",
+          "address": "20 East 4th Avenue, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.instagram.com/kapow_burger/?hl=en",
           "phone": ""
@@ -3886,7 +3886,7 @@
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
-          "address": "263 Pender St E, Vancouver BC V6A 1T8",
+          "address": "263 Pender St E, Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.kissatanto.com/",
           "phone": "(778) 379-8078"
@@ -3894,7 +3894,7 @@
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
-          "address": "7 East 7th Avenue, Vancouver, British Columbia V5T 1M4, Canada",
+          "address": "7 East 7th Avenue, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.fabriquestgeorge.com/",
           "phone": "778-945-1677"
@@ -3902,7 +3902,7 @@
         {
           "name": "Lila",
           "slug": "lila",
-          "address": "3941 Main St, Vancouver BC V5V 3P3",
+          "address": "3941 Main St, Vancouver BC",
           "eaterUrl": "",
           "website": "https://www.lilarestaurant.ca/",
           "phone": "(604) 620-3256"
@@ -3910,7 +3910,7 @@
         {
           "name": "Maenam",
           "slug": "maenam",
-          "address": "1938 4th Ave W (btwn Maple & Cypress), Vancouver BC V6J 1M5",
+          "address": "1938 4th Ave W (btwn Maple & Cypress), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.maenam.ca/",
           "phone": "(604) 730-5579"
@@ -3918,7 +3918,7 @@
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
-          "address": "780 Bidwell St (at Robson St), Vancouver BC V6G 2J6",
+          "address": "780 Bidwell St (at Robson St), Vancouver BC",
           "eaterUrl": "",
           "website": "https://maruhachi.ca/",
           "phone": "(604) 688-8837"
@@ -3926,7 +3926,7 @@
         {
           "name": "Maxine’s Cafe & Bar",
           "slug": "maxines-cafe-bar",
-          "address": "1325 Burrard St, Vancouver BC V6Z 1Z7",
+          "address": "1325 Burrard St, Vancouver BC",
           "eaterUrl": "",
           "website": "http://maxinescafebar.com/",
           "phone": "(604) 707-7224"
@@ -3934,7 +3934,7 @@
         {
           "name": "Miso Taco",
           "slug": "miso-taco",
-          "address": "3456 Cambie Street, Vancouver, British Columbia V5Z 2W8, Canada",
+          "address": "3456 Cambie Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://misotaco.ca",
           "phone": "(604) 336-4757"
@@ -3942,7 +3942,7 @@
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
-          "address": "1725 Powell St (btwn Commercial & Salisbury), Vancouver BC V5L 1H6",
+          "address": "1725 Powell St (btwn Commercial & Salisbury), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.oddsocietyspirits.com/",
           "phone": "(604) 559-6745"
@@ -3950,7 +3950,7 @@
         {
           "name": "Ophelia",
           "slug": "ophelia",
-          "address": "165 2nd Ave W, Vancouver BC V5Y 1B8",
+          "address": "165 2nd Ave W, Vancouver BC",
           "eaterUrl": "",
           "website": "https://www.opheliakitchen.ca/",
           "phone": "(604) 800-5253"
@@ -3958,7 +3958,7 @@
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
-          "address": "244 E. Georgia St (at Main St), Vancouver BC V6A 1Z7",
+          "address": "244 E. Georgia St (at Main St), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.phnompenhrestaurant.ca",
           "phone": "6046825777"
@@ -3966,7 +3966,7 @@
         {
           "name": "Pidgin",
           "slug": "pidgin",
-          "address": "350 Carrall St (btwn Cordova & Hastings), Vancouver BC V6B 2J3",
+          "address": "350 Carrall St (btwn Cordova & Hastings), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.pidginvancouver.com/",
           "phone": "604 620 9400"
@@ -3974,7 +3974,7 @@
         {
           "name": "Published on Main",
           "slug": "published-on-main",
-          "address": "3593 Main St, Vancouver BC V5V 3N4",
+          "address": "3593 Main St, Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.publishedonmain.com/",
           "phone": "(604) 423-4840"
@@ -3982,7 +3982,7 @@
         {
           "name": "Reflections",
           "slug": "reflections",
-          "address": "801 Georgia St W (in the Hotel Georgia), Vancouver BC V6C 1P7",
+          "address": "801 Georgia St W (in the Hotel Georgia), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.rosewoodhotels.com/en/hotelgeorgia/dining/reflections_lounge",
           "phone": "(604) 682-5566"
@@ -3990,7 +3990,7 @@
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
-          "address": "1330 Hornby St (Drake Street), Vancouver BC V6Z 1W5",
+          "address": "1330 Hornby St (Drake Street), Vancouver BC",
           "eaterUrl": "",
           "website": "http://sashimiya.ca/",
           "phone": "(604) 689-0088"
@@ -3998,7 +3998,7 @@
         {
           "name": "Straight Brooklyn Pizza",
           "slug": "straight-brooklyn-pizza",
-          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC V6B 2B2",
+          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.straightouttabrooklynpizza.com",
           "phone": "(604) 559-3500"
@@ -4006,7 +4006,7 @@
         {
           "name": "Suyo",
           "slug": "suyo",
-          "address": "3475 Main Street, BC V5V 3M9",
+          "address": "3475 Main Street, BC",
           "eaterUrl": "",
           "website": "http://www.suyo.ca/",
           "phone": "(604) 322-1588"
@@ -4014,7 +4014,7 @@
         {
           "name": "The 515 Bar",
           "slug": "the-515-bar",
-          "address": "521 Seymour Street, Vancouver, British Columbia V6B 3J5, Canada",
+          "address": "521 Seymour Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.the515bar.ca/",
           "phone": ""
@@ -4022,7 +4022,7 @@
         {
           "name": "The Acorn",
           "slug": "the-acorn",
-          "address": "3995 Main St (24th Ave), Vancouver BC V5V 3P3",
+          "address": "3995 Main St (24th Ave), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.theacornrestaurant.ca",
           "phone": "6045669001"
@@ -4030,7 +4030,7 @@
         {
           "name": "Vij’s",
           "slug": "vijs",
-          "address": "3106 Cambie St (at W 15th Ave), Vancouver BC V5Z 2W2",
+          "address": "3106 Cambie St (at W 15th Ave), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.vijsrestaurant.ca/",
           "phone": "(604) 736-6664"
@@ -4038,7 +4038,7 @@
         {
           "name": "Wicked Cafe",
           "slug": "wicked-cafe",
-          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC V6H 1B8",
+          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.wickedcafe.ca",
           "phone": "(604) 733-9425"
@@ -4053,7 +4053,7 @@
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
-          "address": "3388 Main Street, BC, V5V 3M7",
+          "address": "3388 Main Street, BC",
           "eaterUrl": "",
           "website": "http://www.anhandchi.com/",
           "phone": "(604) 878-8883"
@@ -4061,7 +4061,7 @@
         {
           "name": "Baan Lao Fine Thai Cuisine",
           "slug": "baan-lao-fine-thai-cuisine",
-          "address": "4100 Bayview Street, Richmond, British Columbia V7E 0B3, Canada",
+          "address": "4100 Bayview Street, Richmond, BC",
           "eaterUrl": "",
           "website": "http://baanlao.ca",
           "phone": "(778) 839-5711"
@@ -4069,7 +4069,7 @@
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
-          "address": "163 Keefer Street, BC, V6A 1X4",
+          "address": "163 Keefer Street, BC",
           "eaterUrl": "",
           "website": "http://bao-bei.ca/",
           "phone": "(604) 688-0876"
@@ -4077,7 +4077,7 @@
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
-          "address": "54 Alexander Street, Vancouver, British Columbia V6A 1B4, Canada",
+          "address": "54 Alexander Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.bartartareyvr.ca/",
           "phone": ""
@@ -4085,7 +4085,7 @@
         {
           "name": "Breeze Bar",
           "slug": "breeze-bar",
-          "address": "213 Carrall Street, Vancouver, British Columbia V6B 2J2, Canada",
+          "address": "213 Carrall Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.instagram.com/breezebaryvr/",
           "phone": ""
@@ -4093,7 +4093,7 @@
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
-          "address": "2702 Main Street, BC, V5T 3E8",
+          "address": "2702 Main Street, BC",
           "eaterUrl": "",
           "website": "http://www.burdockandco.com/",
           "phone": "(604) 879-0077"
@@ -4101,7 +4101,7 @@
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
-          "address": "635 Commercial Drive, BC, V5L 3W3",
+          "address": "635 Commercial Drive, BC",
           "eaterUrl": "",
           "website": "http://www.caffelatana.ca/",
           "phone": "(604) 428-5462"
@@ -4109,7 +4109,7 @@
         {
           "name": "Coast",
           "slug": "coast",
-          "address": "1054 Alberni Street, Vancouver, British Columbia V6E 1A3, Canada",
+          "address": "1054 Alberni Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.glowbalgroup.com/coast/",
           "phone": "(604) 685-5010"
@@ -4117,7 +4117,7 @@
         {
           "name": "Cómo Taperia",
           "slug": "como-taperia",
-          "address": "201 East 7th Avenue, BC, V5T 0B4",
+          "address": "201 East 7th Avenue, BC",
           "eaterUrl": "",
           "website": "https://www.comotaperia.com/",
           "phone": "(604) 879-3100"
@@ -4125,7 +4125,7 @@
         {
           "name": "Dachi",
           "slug": "dachi",
-          "address": "2297 Hastings St E, Vancouver BC V5L 1V3",
+          "address": "2297 Hastings St E, Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.dachivancouver.com",
           "phone": "(604) 569-0456"
@@ -4133,7 +4133,7 @@
         {
           "name": "Dante Italian Sandwich",
           "slug": "dante-italian-sandwich",
-          "address": "360 Robson Street, Vancouver, British Columbia V6B 2B2, Canada",
+          "address": "360 Robson Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.dantesandwich.com/",
           "phone": "604-336-0044"
@@ -4141,7 +4141,7 @@
         {
           "name": "Dosanko",
           "slug": "dosanko",
-          "address": "566 Powell St, Vancouver BC V6A 1G9",
+          "address": "566 Powell St, Vancouver BC",
           "eaterUrl": "",
           "website": "http://dosankorestaurant.ca",
           "phone": "(604) 251-2020"
@@ -4149,7 +4149,7 @@
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
-          "address": "108-777 West Broadway, BC V5Z 4J7",
+          "address": "108-777 West Broadway, BC",
           "eaterUrl": "",
           "website": "http://www.dynasty-restaurant.ca/",
           "phone": "(604) 876-8388"
@@ -4157,7 +4157,7 @@
         {
           "name": "El Gato Gab Gab",
           "slug": "el-gato-gab-gab",
-          "address": "2650 Main Street, Vancouver, British Columbia V5T 3E6, Canada",
+          "address": "2650 Main Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://elgatogabgab.com/",
           "phone": ""
@@ -4165,7 +4165,7 @@
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
-          "address": "8111 Anderson Road, BC, V6Y 3Z8",
+          "address": "8111 Anderson Road, BC",
           "eaterUrl": "",
           "website": "https://www.goldenparamount.com/",
           "phone": "(604) 278-0873"
@@ -4173,7 +4173,7 @@
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
-          "address": "1669 Johnston Street, BC, V6H 3R9",
+          "address": "1669 Johnston Street, BC",
           "eaterUrl": "",
           "website": "http://www.granvilleisland.com/",
           "phone": "(604) 666-6655"
@@ -4181,7 +4181,7 @@
         {
           "name": "It’s Okay",
           "slug": "its-okay",
-          "address": "2481 East Hastings Street, Vancouver, British Columbia V5K 1Y8, Canada",
+          "address": "2481 East Hastings Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.itsokay.ca/",
           "phone": "(604) 423-4229"
@@ -4189,7 +4189,7 @@
         {
           "name": "Japadog",
           "slug": "japadog",
-          "address": "899 Burrard St (at Smithe St.), Vancouver BC V6Z 1X9",
+          "address": "899 Burrard St (at Smithe St.), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.japadog.com",
           "phone": "(604) 569-1158"
@@ -4197,7 +4197,7 @@
         {
           "name": "Kapow Burger",
           "slug": "kapow-burger",
-          "address": "20 East 4th Avenue, Vancouver, British Columbia V5T 1E8, Canada",
+          "address": "20 East 4th Avenue, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.instagram.com/kapow_burger/?hl=en",
           "phone": ""
@@ -4205,7 +4205,7 @@
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
-          "address": "263 East Pender Street, BC, V6A 1T8",
+          "address": "263 East Pender Street, BC",
           "eaterUrl": "",
           "website": "http://www.kissatanto.com/",
           "phone": "(778) 379-8078"
@@ -4213,7 +4213,7 @@
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
-          "address": "7 East 7th Avenue, Vancouver, British Columbia V5T 1M4, Canada",
+          "address": "7 East 7th Avenue, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.fabriquestgeorge.com/",
           "phone": "778-945-1677"
@@ -4221,7 +4221,7 @@
         {
           "name": "Lila",
           "slug": "lila",
-          "address": "3941 Main St, Vancouver BC V5V 3P3",
+          "address": "3941 Main St, Vancouver BC",
           "eaterUrl": "",
           "website": "https://www.lilarestaurant.ca/",
           "phone": "(604) 620-3256"
@@ -4229,7 +4229,7 @@
         {
           "name": "Maenam",
           "slug": "maenam",
-          "address": "1938 West 4th Avenue, BC, V6J 1M5",
+          "address": "1938 West 4th Avenue, BC",
           "eaterUrl": "",
           "website": "http://www.maenam.ca/",
           "phone": "(604) 730-5579"
@@ -4237,7 +4237,7 @@
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
-          "address": "780 Bidwell Street, BC, V6G 2J6",
+          "address": "780 Bidwell Street, BC",
           "eaterUrl": "",
           "website": "https://maruhachi.ca/",
           "phone": "(604) 688-8837"
@@ -4245,7 +4245,7 @@
         {
           "name": "Miso Taco",
           "slug": "miso-taco",
-          "address": "3456 Cambie Street, Vancouver, British Columbia V5Z 2W8, Canada",
+          "address": "3456 Cambie Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://misotaco.ca",
           "phone": "(604) 336-4757"
@@ -4253,7 +4253,7 @@
         {
           "name": "Noah’s Cafe",
           "slug": "noahs-cafe",
-          "address": "1096 Denman Street, Vancouver, British Columbia V6G 2M8, Canada",
+          "address": "1096 Denman Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://noahscafe604.com",
           "phone": "(604) 559-1096"
@@ -4261,7 +4261,7 @@
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
-          "address": "1725 Powell Street, BC, V5L 1H6",
+          "address": "1725 Powell Street, BC",
           "eaterUrl": "",
           "website": "http://www.oddsocietyspirits.com/",
           "phone": "(604) 559-6745"
@@ -4269,7 +4269,7 @@
         {
           "name": "Ophelia",
           "slug": "ophelia",
-          "address": "165 West 2nd Avenue, BC, V5Y 1B8",
+          "address": "165 West 2nd Avenue, BC",
           "eaterUrl": "",
           "website": "https://www.opheliakitchen.ca/",
           "phone": "(604) 800-5253"
@@ -4277,7 +4277,7 @@
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
-          "address": "244 East Georgia Street, Vancouver, BC, V6A 1Z7",
+          "address": "244 East Georgia Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://www.phnompenhrestaurant.ca",
           "phone": "6046825777"
@@ -4285,7 +4285,7 @@
         {
           "name": "Pho In Love",
           "slug": "pho-in-love",
-          "address": "1725 Davie Street, Vancouver, British Columbia V6G 1W5, Canada",
+          "address": "1725 Davie Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://phoinlove.ca",
           "phone": "(604) 609-7010"
@@ -4293,7 +4293,7 @@
         {
           "name": "Pidgin",
           "slug": "pidgin",
-          "address": "350 Carrall Street, Vancouver, BC, V6B2J3",
+          "address": "350 Carrall Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://www.pidginvancouver.com/",
           "phone": "604 620 9400"
@@ -4301,7 +4301,7 @@
         {
           "name": "Published on Main",
           "slug": "published-on-main",
-          "address": "3593 Main Street, BC, V5V 3N4",
+          "address": "3593 Main Street, BC",
           "eaterUrl": "",
           "website": "http://www.publishedonmain.com/",
           "phone": "(604) 423-4840"
@@ -4309,7 +4309,7 @@
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
-          "address": "1348 Hornby Street, BC, V6Z 1W5",
+          "address": "1348 Hornby Street, BC",
           "eaterUrl": "",
           "website": "http://sashimiya.ca/",
           "phone": "(604) 689-0088"
@@ -4317,7 +4317,7 @@
         {
           "name": "Straight Brooklyn Pizza",
           "slug": "straight-brooklyn-pizza",
-          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC V6B 2B2",
+          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.straightouttabrooklynpizza.com",
           "phone": "(604) 559-3500"
@@ -4325,7 +4325,7 @@
         {
           "name": "The 515 Bar",
           "slug": "the-515-bar",
-          "address": "521 Seymour Street, Vancouver, British Columbia V6B 3J5, Canada",
+          "address": "521 Seymour Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.the515bar.ca/",
           "phone": ""
@@ -4333,7 +4333,7 @@
         {
           "name": "The Acorn",
           "slug": "the-acorn",
-          "address": "3995 Main Street, Vancouver, BC, V5V 3P3",
+          "address": "3995 Main Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://www.theacornrestaurant.ca",
           "phone": "6045669001"
@@ -4341,7 +4341,7 @@
         {
           "name": "Vij’s",
           "slug": "vijs",
-          "address": "3106 Cambie Street, BC, V5Z 2W2",
+          "address": "3106 Cambie Street, BC",
           "eaterUrl": "",
           "website": "http://www.vijsrestaurant.ca/",
           "phone": "(604) 736-6664"
@@ -4349,7 +4349,7 @@
         {
           "name": "Wicked Cafe",
           "slug": "wicked-cafe",
-          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC V6H 1B8",
+          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.wickedcafe.ca",
           "phone": "(604) 733-9425"
@@ -4364,7 +4364,7 @@
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
-          "address": "3388 Main Street, BC, V5V 3M7",
+          "address": "3388 Main Street, BC",
           "eaterUrl": "",
           "website": "http://www.anhandchi.com/",
           "phone": "(604) 878-8883"
@@ -4372,7 +4372,7 @@
         {
           "name": "Baan Lao Fine Thai Cuisine",
           "slug": "baan-lao-fine-thai-cuisine",
-          "address": "4100 Bayview Street, Richmond, British Columbia V7E 0B3, Canada",
+          "address": "4100 Bayview Street, Richmond, BC",
           "eaterUrl": "",
           "website": "http://baanlao.ca",
           "phone": "(778) 839-5711"
@@ -4380,7 +4380,7 @@
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
-          "address": "163 Keefer Street, BC, V6A 1X4",
+          "address": "163 Keefer Street, BC",
           "eaterUrl": "",
           "website": "http://bao-bei.ca/",
           "phone": "(604) 688-0876"
@@ -4388,7 +4388,7 @@
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
-          "address": "54 Alexander Street, Vancouver, British Columbia V6A 1B4, Canada",
+          "address": "54 Alexander Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.bartartareyvr.ca/",
           "phone": ""
@@ -4396,7 +4396,7 @@
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
-          "address": "1095 Hamilton St (at Helmcken St), Vancouver BC V6B 5T4",
+          "address": "1095 Hamilton St (at Helmcken St), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.bluewatercafe.com/",
           "phone": "(218) 387-1597"
@@ -4404,7 +4404,7 @@
         {
           "name": "Breeze Bar",
           "slug": "breeze-bar",
-          "address": "213 Carrall Street, Vancouver, British Columbia V6B 2J2, Canada",
+          "address": "213 Carrall Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.instagram.com/breezebaryvr/",
           "phone": ""
@@ -4412,7 +4412,7 @@
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
-          "address": "2702 Main Street, BC, V5T 3E8",
+          "address": "2702 Main Street, BC",
           "eaterUrl": "",
           "website": "http://www.burdockandco.com/",
           "phone": "(604) 879-0077"
@@ -4420,7 +4420,7 @@
         {
           "name": "Cafe Medina",
           "slug": "cafe-medina",
-          "address": "780 Richards St (btwn W Georgia & Robson), Vancouver BC V6B 3A4",
+          "address": "780 Richards St (btwn W Georgia & Robson), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.medinacafe.com",
           "phone": "(604) 879-3114"
@@ -4428,7 +4428,7 @@
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
-          "address": "635 Commercial Drive, BC, V5L 3W3",
+          "address": "635 Commercial Drive, BC",
           "eaterUrl": "",
           "website": "http://www.caffelatana.ca/",
           "phone": "(604) 428-5462"
@@ -4436,7 +4436,7 @@
         {
           "name": "Coast",
           "slug": "coast",
-          "address": "1054 Alberni Street, Vancouver, British Columbia V6E 1A3, Canada",
+          "address": "1054 Alberni Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.glowbalgroup.com/coast/",
           "phone": "(604) 685-5010"
@@ -4444,7 +4444,7 @@
         {
           "name": "Cómo Taperia",
           "slug": "como-taperia",
-          "address": "201 East 7th Avenue, BC, V5T 0B4",
+          "address": "201 East 7th Avenue, BC",
           "eaterUrl": "",
           "website": "https://www.comotaperia.com/",
           "phone": "(604) 879-3100"
@@ -4452,7 +4452,7 @@
         {
           "name": "Dachi",
           "slug": "dachi",
-          "address": "2297 Hastings St E, Vancouver BC V5L 1V3",
+          "address": "2297 Hastings St E, Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.dachivancouver.com",
           "phone": "(604) 569-0456"
@@ -4460,7 +4460,7 @@
         {
           "name": "Dante Italian Sandwich",
           "slug": "dante-italian-sandwich",
-          "address": "360 Robson Street, Vancouver, British Columbia V6B 2B2, Canada",
+          "address": "360 Robson Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.dantesandwich.com/",
           "phone": "604-336-0044"
@@ -4468,7 +4468,7 @@
         {
           "name": "Dosanko",
           "slug": "dosanko",
-          "address": "566 Powell St, Vancouver BC V6A 1G9",
+          "address": "566 Powell St, Vancouver BC",
           "eaterUrl": "",
           "website": "http://dosankorestaurant.ca",
           "phone": "(604) 251-2020"
@@ -4476,7 +4476,7 @@
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
-          "address": "108-777 West Broadway, BC V5Z 4J7",
+          "address": "108-777 West Broadway, BC",
           "eaterUrl": "",
           "website": "http://www.dynasty-restaurant.ca/",
           "phone": "(604) 876-8388"
@@ -4484,7 +4484,7 @@
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
-          "address": "8111 Anderson Road, BC, V6Y 3Z8",
+          "address": "8111 Anderson Road, BC",
           "eaterUrl": "",
           "website": "https://www.goldenparamount.com/",
           "phone": "(604) 278-0873"
@@ -4492,7 +4492,7 @@
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
-          "address": "1669 Johnston Street, BC, V6H 3R9",
+          "address": "1669 Johnston Street, BC",
           "eaterUrl": "",
           "website": "http://www.granvilleisland.com/",
           "phone": "(604) 666-6655"
@@ -4500,7 +4500,7 @@
         {
           "name": "It’s Okay",
           "slug": "its-okay",
-          "address": "2481 East Hastings Street, Vancouver, British Columbia V5K 1Y8, Canada",
+          "address": "2481 East Hastings Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.itsokay.ca/",
           "phone": "(604) 423-4229"
@@ -4508,7 +4508,7 @@
         {
           "name": "Japadog",
           "slug": "japadog",
-          "address": "899 Burrard St (at Smithe St.), Vancouver BC V6Z 1X9",
+          "address": "899 Burrard St (at Smithe St.), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.japadog.com",
           "phone": "(604) 569-1158"
@@ -4516,7 +4516,7 @@
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
-          "address": "263 East Pender Street, BC, V6A 1T8",
+          "address": "263 East Pender Street, BC",
           "eaterUrl": "",
           "website": "http://www.kissatanto.com/",
           "phone": "(778) 379-8078"
@@ -4524,7 +4524,7 @@
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
-          "address": "7 East 7th Avenue, Vancouver, British Columbia V5T 1M4, Canada",
+          "address": "7 East 7th Avenue, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.fabriquestgeorge.com/",
           "phone": "778-945-1677"
@@ -4532,7 +4532,7 @@
         {
           "name": "Lila",
           "slug": "lila",
-          "address": "3941 Main St, Vancouver BC V5V 3P3",
+          "address": "3941 Main St, Vancouver BC",
           "eaterUrl": "",
           "website": "https://www.lilarestaurant.ca/",
           "phone": "(604) 620-3256"
@@ -4540,7 +4540,7 @@
         {
           "name": "Maenam",
           "slug": "maenam",
-          "address": "1938 West 4th Avenue, BC, V6J 1M5",
+          "address": "1938 West 4th Avenue, BC",
           "eaterUrl": "",
           "website": "http://www.maenam.ca/",
           "phone": "(604) 730-5579"
@@ -4548,7 +4548,7 @@
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
-          "address": "780 Bidwell Street, BC, V6G 2J6",
+          "address": "780 Bidwell Street, BC",
           "eaterUrl": "",
           "website": "https://maruhachi.ca/",
           "phone": "(604) 688-8837"
@@ -4556,7 +4556,7 @@
         {
           "name": "Miso Taco",
           "slug": "miso-taco",
-          "address": "3456 Cambie Street, Vancouver, British Columbia V5Z 2W8, Canada",
+          "address": "3456 Cambie Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://misotaco.ca",
           "phone": "(604) 336-4757"
@@ -4564,7 +4564,7 @@
         {
           "name": "Noah’s Cafe",
           "slug": "noahs-cafe",
-          "address": "1096 Denman Street, Vancouver, British Columbia V6G 2M8, Canada",
+          "address": "1096 Denman Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://noahscafe604.com",
           "phone": "(604) 559-1096"
@@ -4572,7 +4572,7 @@
         {
           "name": "Ophelia",
           "slug": "ophelia",
-          "address": "165 West 2nd Avenue, BC, V5Y 1B8",
+          "address": "165 West 2nd Avenue, BC",
           "eaterUrl": "",
           "website": "https://www.opheliakitchen.ca/",
           "phone": "(604) 800-5253"
@@ -4580,7 +4580,7 @@
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
-          "address": "244 East Georgia Street, Vancouver, BC, V6A 1Z7",
+          "address": "244 East Georgia Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://www.phnompenhrestaurant.ca",
           "phone": "6046825777"
@@ -4588,7 +4588,7 @@
         {
           "name": "Pho In Love",
           "slug": "pho-in-love",
-          "address": "1725 Davie Street, Vancouver, British Columbia V6G 1W5, Canada",
+          "address": "1725 Davie Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://phoinlove.ca",
           "phone": "(604) 609-7010"
@@ -4596,7 +4596,7 @@
         {
           "name": "Pidgin",
           "slug": "pidgin",
-          "address": "350 Carrall Street, Vancouver, BC, V6B2J3",
+          "address": "350 Carrall Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://www.pidginvancouver.com/",
           "phone": "604 620 9400"
@@ -4604,7 +4604,7 @@
         {
           "name": "Published on Main",
           "slug": "published-on-main",
-          "address": "3593 Main Street, BC, V5V 3N4",
+          "address": "3593 Main Street, BC",
           "eaterUrl": "",
           "website": "http://www.publishedonmain.com/",
           "phone": "(604) 423-4840"
@@ -4612,7 +4612,7 @@
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
-          "address": "1348 Hornby Street, BC, V6Z 1W5",
+          "address": "1348 Hornby Street, BC",
           "eaterUrl": "",
           "website": "http://sashimiya.ca/",
           "phone": "(604) 689-0088"
@@ -4620,7 +4620,7 @@
         {
           "name": "Straight Brooklyn Pizza",
           "slug": "straight-brooklyn-pizza",
-          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC V6B 2B2",
+          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.straightouttabrooklynpizza.com",
           "phone": "(604) 559-3500"
@@ -4628,7 +4628,7 @@
         {
           "name": "The 515 Bar",
           "slug": "the-515-bar",
-          "address": "521 Seymour Street, Vancouver, British Columbia V6B 3J5, Canada",
+          "address": "521 Seymour Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "https://www.the515bar.ca/",
           "phone": ""
@@ -4636,7 +4636,7 @@
         {
           "name": "The Acorn",
           "slug": "the-acorn",
-          "address": "3995 Main Street, Vancouver, BC, V5V 3P3",
+          "address": "3995 Main Street, Vancouver, BC",
           "eaterUrl": "",
           "website": "http://www.theacornrestaurant.ca",
           "phone": "6045669001"
@@ -4644,7 +4644,7 @@
         {
           "name": "Vij’s",
           "slug": "vijs",
-          "address": "3106 Cambie Street, BC, V5Z 2W2",
+          "address": "3106 Cambie Street, BC",
           "eaterUrl": "",
           "website": "http://www.vijsrestaurant.ca/",
           "phone": "(604) 736-6664"
@@ -4652,7 +4652,7 @@
         {
           "name": "Wicked Cafe",
           "slug": "wicked-cafe",
-          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC V6H 1B8",
+          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC",
           "eaterUrl": "",
           "website": "http://www.wickedcafe.ca",
           "phone": "(604) 733-9425"
@@ -4660,7 +4660,7 @@
         {
           "name": "Zabu Chicken",
           "slug": "zabu-chicken",
-          "address": "1635 Robson St, Vancouver BC V6G 1C8",
+          "address": "1635 Robson St, Vancouver BC",
           "eaterUrl": "",
           "website": "https://www.zabuchicken.com/",
           "phone": "(604) 602-0021"

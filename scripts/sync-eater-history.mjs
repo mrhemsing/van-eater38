@@ -25,6 +25,30 @@ const CANONICAL_RESTAURANTS = {
   'suyo-modern-peruvian': { slug: 'suyo', name: 'Suyo' },
 };
 
+function normalizeAddress(address) {
+  if (!address) return '';
+
+  let out = address.trim();
+
+  // Standardize province naming.
+  out = out.replace(/\bBritish\s+Columbia\b/gi, 'BC');
+
+  // Remove explicit country references.
+  out = out.replace(/,?\s*Canada\b/gi, '');
+
+  // Remove Canadian postal codes (e.g., V6G 2J6 or V6G2J6).
+  out = out.replace(/\b[ABCEGHJ-NPRSTVXY]\d[ABCEGHJ-NPRSTV-Z][ -]?\d[ABCEGHJ-NPRSTV-Z]\d\b/gi, '');
+
+  // Cleanup extra separators/spacing left by removals.
+  out = out.replace(/\s{2,}/g, ' ');
+  out = out.replace(/\s+,/g, ',');
+  out = out.replace(/,{2,}/g, ',');
+  out = out.replace(/,\s*,/g, ', ');
+  out = out.replace(/[\s,]+$/g, '');
+
+  return out;
+}
+
 function normalizeRestaurants(items) {
   const canonicalized = items
     .map((item) => {
@@ -35,7 +59,7 @@ function normalizeRestaurants(items) {
       return {
         name: canonical?.name || rawName,
         slug: canonical?.slug || rawSlug,
-        address: item?.address?.trim() || '',
+        address: normalizeAddress(item?.address?.trim() || ''),
         eaterUrl: item?.eaterUrl || '',
         website: item?.website || '',
         phone: item?.phone || '',
