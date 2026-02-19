@@ -3,11 +3,13 @@
 
 import { Fragment } from 'react';
 import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet';
-import type { Restaurant } from '@/lib/history';
+import { isClosed, type Restaurant } from '@/lib/history';
 import 'leaflet/dist/leaflet.css';
 
 export function RestaurantMap({ restaurants }: { restaurants: Restaurant[] }) {
-  const points = restaurants.filter((r) => typeof r.latitude === 'number' && typeof r.longitude === 'number');
+  const points = restaurants.filter(
+    (r) => typeof r.latitude === 'number' && typeof r.longitude === 'number' && !isClosed(r.slug),
+  );
 
   return (
     <div className="mt-4 overflow-hidden rounded-xl border border-neutral-800">
