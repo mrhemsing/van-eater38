@@ -44,6 +44,12 @@ function normalizeAddress(address) {
   out = out.replace(/\s+,/g, ',');
   out = out.replace(/,{2,}/g, ',');
   out = out.replace(/,\s*,/g, ', ');
+
+  // Normalize city/province punctuation, e.g. "Vancouver BC" -> "Vancouver, BC".
+  out = out.replace(/\b([A-Za-z.'-]+(?:\s+[A-Za-z.'-]+)*)\s+BC\b/g, '$1, BC');
+  out = out.replace(/,\s*,\s*BC\b/g, ', BC');
+
+  // Final trim of trailing separators/spaces.
   out = out.replace(/[\s,]+$/g, '');
 
   return out;
