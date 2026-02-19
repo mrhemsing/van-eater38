@@ -29,3 +29,14 @@ body {
   color: var(--foreground);
   font-family: var(--font-geist-sans), Inter, system-ui, sans-serif;
 }
+
+.eater-bg {
+  background-color: #0e1013;
+  background-image:
+    radial-gradient(circle at center, rgba(0, 0, 0, 0.14) 0%, rgba(0, 0, 0, 0.56) 100%),
+    linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)),
+    url('/images/kitchen-bg.jpg');
+  background-size: auto, auto, 640px 640px;
+  background-repeat: no-repeat, no-repeat, repeat;
+  background-position: center, center, center;
+}

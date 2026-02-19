@@ -1,4 +1,5 @@
 import raw from '@/data/versions.json';
+import closedSlugs from '@/data/closed-slugs.json';
 
 export type Restaurant = {
   name: string;
@@ -15,7 +16,13 @@ export type Version = {
 };
 
 export function getVersions(): Version[] {
-  return [...raw.versions].sort((a, b) => a.date.localeCompare(b.date));
+  return [...raw.versions].sort((a, b) => b.date.localeCompare(a.date));
+}
+
+const closedSet = new Set((closedSlugs as string[]).map((s) => s.toLowerCase()));
+
+export function isClosed(slug: string) {
+  return closedSet.has(slug.toLowerCase());
 }
 
 export function buildFrequency(versions: Version[]) {

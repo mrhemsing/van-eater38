@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960" fill="none">
+  <defs>
+    <style>
+      .d {
+        stroke: #252a31;
+        stroke-width: 2.2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        fill: none;
+      }
+    </style>
+
+    <g id="burger" class="d">
+      <path d="M6 22c6-10 38-10 44 0"/>
+      <path d="M4 28h48"/>
+      <path d="M5 37h46"/>
+      <path d="M10 45h36"/>
+    </g>
+
+    <g id="pizza" class="d">
+      <path d="M4 8l44 70-58-10z"/>
+      <circle cx="20" cy="39" r="2.8"/>
+      <circle cx="30" cy="50" r="2.8"/>
+    </g>
+
+    <g id="donut" class="d">
+      <circle cx="24" cy="24" r="18"/>
+      <circle cx="24" cy="24" r="6"/>
+    </g>
+
+    <g id="coffee" class="d">
+      <path d="M4 16h36v28H4z"/>
+      <path d="M40 20c9 0 9 20 0 20"/>
+      <path d="M10 10c0-6 8-6 8 0M20 10c0-6 8-6 8 0"/>
+    </g>
+
+    <g id="fries" class="d">
+      <path d="M4 18h38l-4 28H8z"/>
+      <path d="M10 10l2 8M18 10l1 8M26 10v8M34 10l-1 8"/>
+    </g>
+
+    <g id="bottle" class="d">
+      <path d="M16 4h12"/>
+      <path d="M18 4v10l-6 12v34c0 5 4 9 9 9s9-4 9-9V26l-6-12V4"/>
+    </g>
+
+    <g id="ramen" class="d">
+      <path d="M2 24h50c-4 14-12 22-25 22S6 38 2 24z"/>
+      <path d="M8 16h38"/>
+      <path d="M16 8v8M24 7v9M32 8v8"/>
+    </g>
+
+    <g id="taco" class="d">
+      <path d="M3 26c8-16 46-16 54 0"/>
+      <path d="M2 26h56"/>
+    </g>
+
+    <g id="fork" class="d">
+      <path d="M8 4v16M14 4v16M20 4v16M14 20v34"/>
+    </g>
+
+    <g id="knife" class="d">
+      <path d="M6 4c12 5 16 18 12 30l-2 18"/>
+    </g>
+  </defs>
+
+  <g opacity="0.9">
+    <use href="#burger" transform="translate(34 52) rotate(-13)"/>
+    <use href="#pizza" transform="translate(168 36) rotate(8)"/>
+    <use href="#donut" transform="translate(310 48) rotate(-10)"/>
+    <use href="#coffee" transform="translate(444 40) rotate(7)"/>
+    <use href="#fries" transform="translate(574 46) rotate(-8)"/>
+    <use href="#bottle" transform="translate(706 36) rotate(11)"/>
+    <use href="#ramen" transform="translate(830 44) rotate(-9)"/>
+
+    <use href="#taco" transform="translate(64 184) rotate(9)"/>
+    <use href="#fork" transform="translate(202 170) rotate(-12)"/>
+    <use href="#knife" transform="translate(252 166) rotate(10)"/>
+    <use href="#burger" transform="translate(318 176) rotate(5)"/>
+    <use href="#pizza" transform="translate(460 170) rotate(-14)"/>
+    <use href="#donut" transform="translate(604 176) rotate(6)"/>
+    <use href="#coffee" transform="translate(730 170) rotate(-10)"/>
+    <use href="#fries" transform="translate(854 182) rotate(8)"/>
+
+    <use href="#bottle" transform="translate(46 316) rotate(-7)"/>
+    <use href="#ramen" transform="translate(170 318) rotate(12)"/>
+    <use href="#taco" transform="translate(324 318) rotate(-11)"/>
+    <use href="#fork" transform="translate(470 310) rotate(9)"/>
+    <use href="#knife" transform="translate(520 304) rotate(-8)"/>
+    <use href="#burger" transform="translate(586 318) rotate(12)"/>
+    <use href="#pizza" transform="translate(730 308) rotate(-9)"/>
+    <use href="#donut" transform="translate(858 314) rotate(10)"/>
+
+    <use href="#coffee" transform="translate(40 450) rotate(11)"/>
+    <use href="#fries" transform="translate(174 448) rotate(-10)"/>
+    <use href="#bottle" transform="translate(304 438) rotate(7)"/>
+    <use href="#ramen" transform="translate(442 450) rotate(-12)"/>
+    <use href="#taco" transform="translate(586 452) rotate(6)"/>
+    <use href="#fork" transform="translate(724 440) rotate(-9)"/>
+    <use href="#knife" transform="translate(780 438) rotate(13)"/>
+    <use href="#burger" transform="translate(844 446) rotate(-8)"/>
+
+    <use href="#pizza" transform="translate(56 586) rotate(-6)"/>
+    <use href="#donut" transform="translate(196 580) rotate(12)"/>
+    <use href="#coffee" transform="translate(326 578) rotate(-11)"/>
+    <use href="#fries" transform="translate(454 588) rotate(8)"/>
+    <use href="#bottle" transform="translate(584 574) rotate(-7)"/>
+    <use href="#ramen" transform="translate(720 584) rotate(10)"/>
+    <use href="#taco" transform="translate(852 590) rotate(-10)"/>
+
+    <use href="#fork" transform="translate(72 714) rotate(8)"/>
+    <use href="#knife" transform="translate(122 706) rotate(-12)"/>
+    <use href="#burger" transform="translate(188 718) rotate(11)"/>
+    <use href="#pizza" transform="translate(334 704) rotate(-9)"/>
+    <use href="#donut" transform="translate(466 714) rotate(7)"/>
+    <use href="#coffee" transform="translate(600 708) rotate(-11)"/>
+    <use href="#fries" transform="translate(724 716) rotate(9)"/>
+    <use href="#bottle" transform="translate(854 702) rotate(-8)"/>
+
+    <use href="#ramen" transform="translate(40 842) rotate(-9)"/>
+    <use href="#taco" transform="translate(182 850) rotate(10)"/>
+    <use href="#fork" transform="translate(330 836) rotate(-12)"/>
+    <use href="#knife" transform="translate(382 830) rotate(11)"/>
+    <use href="#burger" transform="translate(452 846) rotate(-8)"/>
+    <use href="#pizza" transform="translate(592 836) rotate(9)"/>
+    <use href="#donut" transform="translate(724 844) rotate(-10)"/>
+    <use href="#coffee" transform="translate(850 836) rotate(8)"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Eater E favicon">
+  <rect width="128" height="128" rx="24" fill="#111317"/>
+  <path
+    d="M30 24 H98 V42 H52 V56 H90 V74 H52 V88 H98 V106 H30 Z"
+    fill="none"
+    stroke="#FF4400"
+    stroke-width="8"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+</svg>

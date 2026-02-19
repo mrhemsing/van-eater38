@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Van Eater 38 Archive",
+  title: "Eater Vancouver 38 Archive",
   description: "Track every historical Vancouver Eater 38 list, additions, removals, and repeat selections.",
 };
 
