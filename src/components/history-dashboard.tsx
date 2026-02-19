@@ -166,11 +166,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                             label={restaurant.priceRange ? `Price range: ${restaurant.priceRange}` : 'Price range: Not available'}
                           />
                           {restaurant.descriptionText ? (
-                            <div className="border-b border-neutral-800/80 py-2 text-neutral-300">
+                            <div className="border-b border-neutral-800/80 py-2 text-neutral-300 lg:pr-10">
                               {restaurant.descriptionText}
                             </div>
                           ) : (
-                            <div className="border-b border-neutral-800/80 py-2 text-neutral-500">
+                            <div className="border-b border-neutral-800/80 py-2 text-neutral-500 lg:pr-10">
                               Description: Not available
                             </div>
                           )}
