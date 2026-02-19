@@ -159,10 +159,12 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                           <DetailRow
                             icon="🍽"
                             label={restaurant.openFor ? `Open for: ${restaurant.openFor}` : 'Open for: Not available'}
+                            dense
                           />
                           <DetailRow
                             icon="💲"
                             label={restaurant.priceRange ? `Price range: ${restaurant.priceRange}` : 'Price range: Not available'}
+                            dense
                           />
                           {restaurant.descriptionText ? (
                             <div className="border-b border-neutral-800/80 py-2 text-neutral-300 lg:pr-10">
@@ -220,9 +222,9 @@ function Stat({ label, value }: { label: string; value: string }) {
   );
 }
 
-function DetailRow({ icon, label, href }: { icon: string; label: string; href?: string }) {
+function DetailRow({ icon, label, href, dense = false }: { icon: string; label: string; href?: string; dense?: boolean }) {
   const content = (
-    <div className="flex items-center justify-between gap-3 py-2">
+    <div className={`flex items-center justify-between gap-3 ${dense ? 'py-1' : 'py-2'}`}>
       <div className="flex items-center gap-2">
         <span className="w-5 text-center text-base text-neutral-300">{icon}</span>
         <span>{label}</span>
