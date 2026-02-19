@@ -138,7 +138,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                         className="flex w-full items-start justify-between gap-3 p-3 text-left"
                       >
                         <div>
-                          <p className="text-lg font-medium text-neutral-100 md:text-xl">
+                          <p className="text-lg font-medium uppercase text-neutral-100 md:text-xl">
                             {restaurant.name}{' '}
                             {isClosed(restaurant.slug) ? (
                               <span className="ml-1 rounded bg-rose-500/20 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide text-rose-200">
