@@ -17,7 +17,7 @@ function toMonthYear(dateStr: string) {
 
 export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [selectedId, setSelectedId] = useState(versions[0]?.id);
-  const [expandedSlug, setExpandedSlug] = useState<string | null>(null);
+  const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
 
   const selectedIndex = versions.findIndex((v) => v.id === selectedId);
   const selectedVersion = versions[selectedIndex] ?? versions[0];
@@ -123,13 +123,18 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 })
                 .map((restaurant) => {
                   const appearances = frequencies.get(restaurant.slug)?.count ?? 0;
-                  const isExpanded = expandedSlug === restaurant.slug;
+                  const isExpanded = !!expandedSlugs[restaurant.slug];
 
                   return (
                     <article key={restaurant.slug} className="overflow-hidden rounded-xl border border-neutral-800 bg-neutral-900/80">
                       <button
                         type="button"
-                        onClick={() => setExpandedSlug(isExpanded ? null : restaurant.slug)}
+                        onClick={() =>
+                          setExpandedSlugs((prev) => ({
+                            ...prev,
+                            [restaurant.slug]: !prev[restaurant.slug],
+                          }))
+                        }
                         className="flex w-full items-start justify-between gap-3 p-3 text-left"
                       >
                         <div>
