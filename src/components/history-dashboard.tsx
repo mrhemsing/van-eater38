@@ -53,7 +53,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             href="https://www.eater.com/maps/best-vancouver-restaurants-bc-canada"
             target="_blank"
             rel="noreferrer"
-            className="text-neutral-400 underline decoration-neutral-600 underline-offset-2 hover:text-neutral-200"
+            className="text-neutral-400 hover:text-neutral-200"
           >
             12-10-2025
           </a>
