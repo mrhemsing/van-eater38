@@ -157,7 +157,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               </div>
             </div>
 
-            <p className="mt-1 text-sm text-neutral-400">{toMonthYear(selectedVersion.date)}</p>
+            <p className="mt-0.5 text-sm text-neutral-400">{toMonthYear(selectedVersion.date)}</p>
 
             {viewMode === 'map' ? (
               <RestaurantMap restaurants={selectedVersion.restaurants} />
