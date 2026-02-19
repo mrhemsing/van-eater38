@@ -5766,7 +5766,7 @@
           "eaterUrl": "",
           "website": "http://www.homerstreetcafebar.com",
           "phone": "(604) 428-4299",
-          "openFor": "Lunch and dinner, with brunch on weekends",
+          "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Thankfully, the Covid-era patio remains at this ever-popular Yaletown neighborhood rotisserie cafe and bar, offering the chance to bask in the sun as you consider decent European wine picks, some of the city’s most consistently excellent roast chicken, and tasty sides. Inside, watch the handsome red Rotisol Grande Flamme Olympia rotisserie spit-roast perfect free-range chickens and other proteins, and briefly ponder whether you should give in to the Full Monty (a waistband-tightening set menu that carves through some of Homer Street’s favorites). Ponder no more — of course you should. Must-try dish: Grab so many napkins and faceplant into the gloriously messy HSCB burger.",
           "imageUrl": "/images/restaurants/homer-street-cafe-and-bar.jpg",
@@ -5906,7 +5906,7 @@
           "eaterUrl": "",
           "website": "https://misotaco.ca",
           "phone": "(604) 336-4757",
-          "openFor": "Lunch and dinner, with brunch on weekends",
+          "openFor": "Lunch and dinner",
           "priceRange": "$",
           "descriptionText": "This loudly bustling spot on Cambie blends Japanese and Mexican cuisines. Chashu-style carnitas shine in gloriously messy tacos thanks to meltingly tender, just-fatty-enough pork and zippy pineapple relish. Load up the kimchi-nacho fries with birria and a fried egg, and obviously add instant ramen to your birria-dilla consomé. There’s also a daily happy hour, which offers well-priced cocktails, tacos, and an intriguing combo of shrimp crackers and guacamole. Must try dish: It’s almost worth having a hangover just to enjoy the reviving properties of the Mexican Oyakodon at brunch.",
           "imageUrl": "/images/restaurants/miso-taco.jpg",
@@ -6207,7 +6207,7 @@
           "eaterUrl": "",
           "website": "https://www.glowbalgroup.com/coast/",
           "phone": "(604) 685-5010",
-          "openFor": "Lunch and dinner, with brunch on weekends",
+          "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Coast may not be the freshest face on the block, but after a recent brunch and subsequent lunch there, it’s at the top of my recommendation list. The restaurant has been doing a roaring trade on Alberni Street for more than a decade with its seafood-forward, upmarket vibes; if you want consistently excellent seafood, polished service, and a buzzy room in the heart of downtown, it’s a crowd-pleasing choice. And their outstanding weekend happy hour runs from 11:30 a.m. - 5 p.m., including generous portions of favorites such as lobster and prawn rolls, crisp calamari, super-cute fish and chip tempura cones, and sushi at excellent prices. Best for: Group friends and family brunch hangs on the jewel-colored velvet banquettes.",
           "imageUrl": "",
@@ -6445,7 +6445,7 @@
           "eaterUrl": "",
           "website": "https://misotaco.ca",
           "phone": "(604) 336-4757",
-          "openFor": "Lunch and dinner, with brunch on weekends",
+          "openFor": "Lunch and dinner",
           "priceRange": "$",
           "descriptionText": "This loudly bustling spot on Cambie blends Japanese and Mexican cuisines. Chashu-style carnitas shine in gloriously messy tacos thanks to meltingly tender, just-fatty-enough pork and zippy pineapple relish. Load up the kimchi-nacho fries with birria and a fried egg, and obviously add instant ramen to your birria-dilla consomé. There’s also a daily happy hour, which offers well-priced cocktails, tacos, and an intriguing combo of shrimp crackers and guacamole. Must try dish: It’s almost worth having a hangover just to enjoy the reviving properties of the Mexican Oyakodon at brunch.",
           "imageUrl": "/images/restaurants/miso-taco.jpg",
@@ -6774,7 +6774,7 @@
           "eaterUrl": "",
           "website": "https://www.glowbalgroup.com/coast/",
           "phone": "(604) 685-5010",
-          "openFor": "Lunch and dinner, with brunch on weekends",
+          "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Coast may not be the freshest face on the block, but after a recent brunch and subsequent lunch there, it’s at the top of my recommendation list. The restaurant has been doing a roaring trade on Alberni Street for more than a decade with its seafood-forward, upmarket vibes; if you want consistently excellent seafood, polished service, and a buzzy room in the heart of downtown, it’s a crowd-pleasing choice. And their outstanding weekend happy hour runs from 11:30 a.m. - 5 p.m., including generous portions of favorites such as lobster and prawn rolls, crisp calamari, super-cute fish and chip tempura cones, and sushi at excellent prices. Best for: Group friends and family brunch hangs on the jewel-colored velvet banquettes.",
           "imageUrl": "",
@@ -6984,7 +6984,7 @@
           "eaterUrl": "",
           "website": "https://misotaco.ca",
           "phone": "(604) 336-4757",
-          "openFor": "Lunch and dinner, with brunch on weekends",
+          "openFor": "Lunch and dinner",
           "priceRange": "$",
           "descriptionText": "This loudly bustling spot on Cambie blends Japanese and Mexican cuisines. Chashu-style carnitas shine in gloriously messy tacos thanks to meltingly tender, just-fatty-enough pork and zippy pineapple relish. Load up the kimchi-nacho fries with birria and a fried egg, and obviously add instant ramen to your birria-dilla consomé. There’s also a daily happy hour, which offers well-priced cocktails, tacos, and an intriguing combo of shrimp crackers and guacamole. Must try dish: It’s almost worth having a hangover just to enjoy the reviving properties of the Mexican Oyakodon at brunch.",
           "imageUrl": "/images/restaurants/miso-taco.jpg",
@@ -7177,3 +7177,4 @@
     }
   ]
 }
+

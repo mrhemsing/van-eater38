@@ -169,6 +169,11 @@ function extractJsonArrayByKey(html, key) {
   return null;
 }
 
+function normalizeOpenFor(value) {
+  if (!value) return '';
+  return value.replace(/^Lunch and dinner, with brunch on weekends$/i, 'Lunch and dinner').trim();
+}
+
 function parseMapDescription(description) {
   const parts = Array.isArray(description)
     ? description.map((d) => d?.plaintext || '').filter(Boolean)
@@ -180,7 +185,7 @@ function parseMapDescription(description) {
 
   for (const part of parts) {
     if (/^Open for:/i.test(part)) {
-      openFor = part.replace(/^Open for:\s*/i, '').trim();
+      openFor = normalizeOpenFor(part.replace(/^Open for:\s*/i, '').trim());
       continue;
     }
     if (/^Price range:/i.test(part)) {
