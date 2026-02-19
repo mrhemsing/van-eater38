@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import dynamic from 'next/dynamic';
-import { useMemo, useState } from 'react';
+import { useMemo, useState, type ReactNode } from 'react';
 import type { Version } from '@/lib/history';
 import { buildFrequency, isClosed, versionDiff } from '@/lib/history';
 
@@ -209,7 +209,20 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                           <div className="border-t border-neutral-800 bg-neutral-950/60 px-3 py-2 text-sm text-neutral-200">
                             <DetailRow
                               icon="🍽"
-                              label={restaurant.openFor ? `Open for: ${restaurant.openFor}` : 'Open for: Not available'}
+                              label={
+                                restaurant.openFor ? (
+                                  /lunch and dinner.*brunch on weekends/i.test(restaurant.openFor) ? (
+                                    <>
+                                      <span className="md:hidden">Open for: Lunch and dinner</span>
+                                      <span className="hidden md:inline">Open for: {restaurant.openFor}</span>
+                                    </>
+                                  ) : (
+                                    `Open for: ${restaurant.openFor}`
+                                  )
+                                ) : (
+                                  'Open for: Not available'
+                                )
+                              }
                               dense
                             />
                             <DetailRow
@@ -286,7 +299,7 @@ function Stat({ label, value }: { label: string; value: string }) {
   );
 }
 
-function DetailRow({ icon, label, href, dense = false }: { icon: string; label: string; href?: string; dense?: boolean }) {
+function DetailRow({ icon, label, href, dense = false }: { icon: string; label: ReactNode; href?: string; dense?: boolean }) {
   const content = (
     <div className={`flex items-center justify-between gap-3 ${dense ? 'py-0.5' : 'py-2'}`}>
       <div className="flex items-center gap-2">
