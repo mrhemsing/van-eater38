@@ -189,6 +189,16 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                             label={restaurant.website ? 'Visit website' : 'Website not available from source'}
                             href={restaurant.website || undefined}
                           />
+                          {restaurant.imageUrl ? (
+                            <div className="py-3">
+                              <img
+                                src={restaurant.imageUrl}
+                                alt={`${restaurant.name} photo`}
+                                className="h-auto w-full rounded-lg border border-neutral-800 object-cover"
+                                loading="lazy"
+                              />
+                            </div>
+                          ) : null}
                         </div>
                       ) : null}
                     </article>

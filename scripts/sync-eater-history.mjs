@@ -87,6 +87,7 @@ function normalizeRestaurants(items) {
         openFor: item?.openFor || '',
         priceRange: item?.priceRange || '',
         descriptionText: item?.descriptionText || '',
+        imageUrl: item?.imageUrl || '',
       };
     })
     .filter((r) => r.name);
@@ -106,6 +107,10 @@ function normalizeRestaurants(items) {
       eaterUrl: existing.eaterUrl || r.eaterUrl,
       website: existing.website || r.website,
       phone: existing.phone || r.phone,
+      openFor: existing.openFor || r.openFor,
+      priceRange: existing.priceRange || r.priceRange,
+      descriptionText: existing.descriptionText || r.descriptionText,
+      imageUrl: existing.imageUrl || r.imageUrl,
     });
   }
 
@@ -202,6 +207,11 @@ function parseFromMapPoints(html) {
         openFor: parsed.openFor,
         priceRange: parsed.priceRange,
         descriptionText: parsed.descriptionText,
+        imageUrl:
+          point?.ledeMedia?.image?.thumbnails?.horizontal?.url ||
+          point?.ledeMedia?.image?.thumbnails?.square?.url ||
+          point?.ledeMedia?.image?.thumbnails?.vertical?.url ||
+          '',
       };
     }),
   );

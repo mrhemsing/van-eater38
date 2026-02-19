@@ -11,6 +11,7 @@ export type Restaurant = {
   openFor?: string;
   priceRange?: string;
   descriptionText?: string;
+  imageUrl?: string;
 };
 
 export type Version = {
