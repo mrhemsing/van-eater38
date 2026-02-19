@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import dynamic from 'next/dynamic';
-import { useMemo, useState, type ReactNode } from 'react';
+import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import type { Version } from '@/lib/history';
 import { buildFrequency, isClosed, versionDiff } from '@/lib/history';
 
@@ -56,6 +56,10 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   );
 
   const totalUnique = frequencies.size;
+
+  useEffect(() => {
+    setExpandedSlugs({});
+  }, [selectedId, showAllInVersions]);
 
   return (
     <div className="mx-auto max-w-7xl overflow-x-hidden px-[14px] pt-6 pb-10 md:px-7">
