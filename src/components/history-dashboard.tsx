@@ -224,7 +224,7 @@ function Stat({ label, value }: { label: string; value: string }) {
 
 function DetailRow({ icon, label, href, dense = false }: { icon: string; label: string; href?: string; dense?: boolean }) {
   const content = (
-    <div className={`flex items-center justify-between gap-3 ${dense ? 'py-1' : 'py-2'}`}>
+    <div className={`flex items-center justify-between gap-3 ${dense ? 'py-0.5' : 'py-2'}`}>
       <div className="flex items-center gap-2">
         <span className="w-5 text-center text-base text-neutral-300">{icon}</span>
         <span>{label}</span>
