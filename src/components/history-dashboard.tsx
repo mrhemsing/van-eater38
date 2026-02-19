@@ -33,9 +33,26 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const frequencies = useMemo(() => buildFrequency(versions), [versions]);
   const { added, removed } = versionDiff(selectedVersion, previousVersion);
 
+  const latestRestaurantBySlug = useMemo(() => {
+    const map = new Map<string, Version['restaurants'][number]>();
+    for (const version of versions) {
+      for (const restaurant of version.restaurants) {
+        if (!map.has(restaurant.slug)) map.set(restaurant.slug, restaurant);
+      }
+    }
+    return map;
+  }, [versions]);
+
   const allRestaurants = useMemo(
-    () => [...frequencies.entries()].map(([slug, v]) => ({ slug, name: v.name })).sort((a, b) => a.name.localeCompare(b.name)),
-    [frequencies],
+    () =>
+      [...frequencies.entries()]
+        .map(([slug, v]) => ({
+          ...(latestRestaurantBySlug.get(slug) || { slug, name: v.name }),
+          slug,
+          name: v.name,
+        }))
+        .sort((a, b) => a.name.localeCompare(b.name)),
+    [frequencies, latestRestaurantBySlug],
   );
 
   const totalUnique = frequencies.size;
@@ -147,27 +164,21 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               <h3 className="text-lg font-semibold text-white">{toMonthYear(selectedVersion.date)}</h3>
             </div>
 
-            {showAllInVersions ? (
-              <div className="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
-                {allRestaurants.map((r) => (
-                  <div key={r.slug} className="rounded-lg border border-neutral-800 bg-neutral-900/60 px-3 py-2 text-sm text-neutral-200">
-                    {r.name}
-                  </div>
-                ))}
-              </div>
-            ) : (
-              <div className="mt-4 grid gap-4 md:grid-cols-2">
-                <ChangeCard title="Added" color="text-emerald-300" restaurants={added} emptyText="No new additions in this snapshot" />
-                <ChangeCard title="Retired" color="text-rose-300" restaurants={removed} emptyText="No retirements in this snapshot" />
-              </div>
-            )}
+            <div className="mt-4 grid gap-4 md:grid-cols-2">
+              <ChangeCard title="Added" color="text-emerald-300" restaurants={added} emptyText="No new additions in this snapshot" />
+              <ChangeCard title="Retired" color="text-rose-300" restaurants={removed} emptyText="No retirements in this snapshot" />
+            </div>
           </section>
 
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
-            <p className="mb-1 text-sm text-neutral-400 md:hidden">{toMonthYear(selectedVersion.date)}</p>
+            <p className="mb-1 text-sm text-neutral-400 md:hidden">
+              {showAllInVersions ? 'May 2022 - December 2025' : toMonthYear(selectedVersion.date)}
+            </p>
 
             <div className="flex flex-wrap items-center justify-between gap-3">
-              <h3 className="text-lg font-semibold text-white">The 38 Best Restaurants in Vancouver</h3>
+              <h3 className="text-lg font-semibold text-white">
+                {showAllInVersions ? 'All Eater Vancouver 38 Restaurants' : 'The 38 Best Restaurants in Vancouver'}
+              </h3>
               <div className="relative inline-flex rounded-full border border-neutral-700 bg-neutral-900/70 p-1">
                 <div
                   className={`pointer-events-none absolute top-1 bottom-1 w-[calc(50%-4px)] rounded-full bg-orange-500/20 transition-transform duration-300 ease-out ${
@@ -196,13 +207,15 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               </div>
             </div>
 
-            <p className="-mt-0.5 mb-2 hidden text-sm text-neutral-400 md:block">{toMonthYear(selectedVersion.date)}</p>
+            <p className="-mt-0.5 mb-2 hidden text-sm text-neutral-400 md:block">
+              {showAllInVersions ? 'May 2022 - December 2025' : toMonthYear(selectedVersion.date)}
+            </p>
 
             {viewMode === 'map' ? (
-              <RestaurantMap restaurants={selectedVersion.restaurants} />
+              <RestaurantMap restaurants={showAllInVersions ? allRestaurants : selectedVersion.restaurants} />
             ) : (
               <div className="mt-4 grid grid-cols-1 gap-3">
-                {[...selectedVersion.restaurants]
+                {[...(showAllInVersions ? allRestaurants : selectedVersion.restaurants)]
                   .sort((a, b) => {
                     const aCount = frequencies.get(a.slug)?.count ?? 0;
                     const bCount = frequencies.get(b.slug)?.count ?? 0;
