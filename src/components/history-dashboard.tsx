@@ -159,7 +159,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                           />
                           <DetailRow
                             icon="☎"
-                            label={restaurant.phone || 'Phone not available from source'}
+                            label={restaurant.phone || 'Not available'}
                             href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
                           />
                           <DetailRow
