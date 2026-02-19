@@ -14,7 +14,7 @@ export function RestaurantMap({ restaurants }: { restaurants: Restaurant[] }) {
       <MapContainer
         {...({
           center: [49.2827, -123.1207],
-          zoom: 14,
+          zoom: 13,
           style: { height: 620, width: '100%' },
           scrollWheelZoom: true,
         } as any)}
