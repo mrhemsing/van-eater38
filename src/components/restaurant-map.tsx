@@ -29,7 +29,7 @@ export function RestaurantMap({ restaurants }: { restaurants: Restaurant[] }) {
             <CircleMarker
               center={[r.latitude as number, r.longitude as number]}
               radius={7}
-              pathOptions={{ color: '#D61', fillColor: '#D61', fillOpacity: 1, weight: 1 }}
+              pathOptions={{ color: '#c20000', fillColor: '#c20000', fillOpacity: 1, weight: 1 }}
             >
               <Popup>
                 <div className="min-w-[180px]">
