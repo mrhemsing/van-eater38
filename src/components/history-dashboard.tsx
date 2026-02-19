@@ -45,7 +45,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           <Stat label="Unique restaurants" value={String(totalUnique)} />
         </div>
 
-        <p className="text-xs uppercase tracking-[0.22em] text-orange-300">Old Eater 38 entries, saved for posterity</p>
+        <p className="text-xs uppercase tracking-[0.22em] text-orange-300 leading-relaxed sm:leading-none">Old Eater 38 entries, saved for posterity</p>
         <h1 className="mt-3 whitespace-nowrap text-[1.45rem] font-semibold text-white sm:text-3xl md:text-5xl">Eater Vancouver 38 Archive</h1>
         <p className="mt-4 max-w-2xl text-neutral-300">
           See every archived list, what changed each update, and which restaurants are perennial picks. (Last updated: <span className="text-neutral-400">12-10-2025</span>)
@@ -138,7 +138,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                         className="flex w-full items-start justify-between gap-3 p-3 text-left"
                       >
                         <div>
-                          <p className="font-medium text-neutral-100">
+                          <p className="text-lg font-medium text-neutral-100 md:text-xl">
                             {restaurant.name}{' '}
                             {isClosed(restaurant.slug) ? (
                               <span className="ml-1 rounded bg-rose-500/20 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide text-rose-200">
@@ -146,7 +146,6 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               </span>
                             ) : null}
                           </p>
-                          <p className="mt-1 text-xs text-neutral-500">Click to view address, phone, and website</p>
                         </div>
 
                         <div className="flex items-center gap-2">
