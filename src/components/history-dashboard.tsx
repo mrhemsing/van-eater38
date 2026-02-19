@@ -113,7 +113,16 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
 
         <main className="min-w-0 space-y-6">
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-3 lg:hidden">
-            <div className="mb-3 text-xs uppercase tracking-[0.16em] text-neutral-400">Versions</div>
+            <div className="mb-3 flex items-center justify-between gap-2">
+              <div className="text-xs uppercase tracking-[0.16em] text-neutral-400">Versions</div>
+              <button
+                type="button"
+                onClick={() => setShowAllInVersions((v) => !v)}
+                className="text-xs text-orange-300 hover:text-orange-200"
+              >
+                {showAllInVersions ? 'View changes' : 'View all'}
+              </button>
+            </div>
             <div className="mt-2 flex gap-2 overflow-x-auto pb-4">
               {versions.map((version) => {
                 const isActive = version.id === selectedVersion.id;
