@@ -1,6 +1,7 @@
 "use client";
 
 import Image from 'next/image';
+import dynamic from 'next/dynamic';
 import { useMemo, useState } from 'react';
 import type { Version } from '@/lib/history';
 import { buildFrequency, isClosed, versionDiff } from '@/lib/history';
@@ -15,9 +16,14 @@ function toMonthYear(dateStr: string) {
   });
 }
 
+const RestaurantMap = dynamic(() => import('@/components/restaurant-map').then((m) => m.RestaurantMap), {
+  ssr: false,
+});
+
 export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [selectedId, setSelectedId] = useState(versions[0]?.id);
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
+  const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
 
   const selectedIndex = versions.findIndex((v) => v.id === selectedId);
   const selectedVersion = versions[selectedIndex] ?? versions[0];
@@ -121,101 +127,117 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           </section>
 
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
-            <h3 className="text-lg font-semibold text-white">The 38 Best Restaurants in Vancouver</h3>
-            <p className="mt-1 text-sm text-neutral-400">{toMonthYear(selectedVersion.date)}</p>
-            <div className="mt-4 grid gap-3 grid-cols-1">
-              {[...selectedVersion.restaurants]
-                .sort((a, b) => {
-                  const aCount = frequencies.get(a.slug)?.count ?? 0;
-                  const bCount = frequencies.get(b.slug)?.count ?? 0;
-                  if (bCount !== aCount) return bCount - aCount;
-                  return a.name.localeCompare(b.name);
-                })
-                .map((restaurant) => {
-                  const appearances = frequencies.get(restaurant.slug)?.count ?? 0;
-                  const isExpanded = !!expandedSlugs[restaurant.slug];
-
-                  return (
-                    <article key={restaurant.slug} className="overflow-hidden rounded-xl border border-neutral-800 bg-neutral-900/80">
-                      <button
-                        type="button"
-                        onClick={() =>
-                          setExpandedSlugs((prev) => ({
-                            ...prev,
-                            [restaurant.slug]: !prev[restaurant.slug],
-                          }))
-                        }
-                        className="flex w-full items-start justify-between gap-3 p-3 text-left"
-                      >
-                        <div>
-                          <p className="text-lg font-medium uppercase text-neutral-100 md:text-xl">
-                            {restaurant.name}{' '}
-                            {isClosed(restaurant.slug) ? (
-                              <span className="ml-1 inline-flex -translate-y-[3px] items-center rounded bg-rose-500/20 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide text-rose-200">
-                                CLOSED
-                              </span>
-                            ) : null}
-                          </p>
-                        </div>
-
-                        <div className="flex items-center gap-2">
-                          <span className="shrink-0 rounded-full bg-orange-500/20 px-2 py-1 text-xs text-orange-200">{appearances}x</span>
-                          <span className="text-neutral-400">{isExpanded ? '▴' : '▾'}</span>
-                        </div>
-                      </button>
-
-                      {isExpanded ? (
-                        <div className="border-t border-neutral-800 bg-neutral-950/60 px-3 py-2 text-sm text-neutral-200">
-                          <DetailRow
-                            icon="🍽"
-                            label={restaurant.openFor ? `Open for: ${restaurant.openFor}` : 'Open for: Not available'}
-                            dense
-                          />
-                          <DetailRow
-                            icon="💲"
-                            label={restaurant.priceRange ? `Price range: ${restaurant.priceRange}` : 'Price range: Not available'}
-                            dense
-                          />
-                          {restaurant.descriptionText ? (
-                            <div className="border-b border-neutral-800/80 py-2 text-neutral-300 text-[15px] leading-relaxed lg:pr-20 lg:text-[15px]">
-                              {restaurant.descriptionText}
-                            </div>
-                          ) : (
-                            <div className="border-b border-neutral-800/80 py-2 text-neutral-500 text-[15px] leading-relaxed lg:pr-20 lg:text-[15px]">
-                              Description: Not available
-                            </div>
-                          )}
-                          <DetailRow
-                            icon="📍"
-                            label={restaurant.address || 'Address not available from source'}
-                            href={restaurant.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.address)}` : undefined}
-                          />
-                          <DetailRow
-                            icon="☎"
-                            label={restaurant.phone || 'Not available'}
-                            href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
-                          />
-                          <DetailRow
-                            icon="🌐"
-                            label={restaurant.website ? 'Visit website' : 'Website not available from source'}
-                            href={restaurant.website || undefined}
-                          />
-                          {restaurant.imageUrl ? (
-                            <div className="py-3">
-                              <img
-                                src={restaurant.imageUrl}
-                                alt={`${restaurant.name} photo`}
-                                className="h-auto w-full max-w-[500px] rounded-lg border border-neutral-800 object-cover"
-                                loading="lazy"
-                              />
-                            </div>
-                          ) : null}
-                        </div>
-                      ) : null}
-                    </article>
-                  );
-                })}
+            <div className="flex flex-wrap items-center gap-2 text-lg font-semibold text-white">
+              <h3>The 38 Best Restaurants in Vancouver</h3>
+              <span className="text-neutral-500">|</span>
+              <button
+                type="button"
+                onClick={() => setViewMode(viewMode === 'list' ? 'map' : 'list')}
+                className="text-base font-medium text-orange-300 hover:text-orange-200"
+              >
+                {viewMode === 'list' ? 'Map view' : 'List view'}
+              </button>
             </div>
+
+            <p className="mt-1 text-sm text-neutral-400">{toMonthYear(selectedVersion.date)}</p>
+
+            {viewMode === 'map' ? (
+              <RestaurantMap restaurants={selectedVersion.restaurants} />
+            ) : (
+              <div className="mt-4 grid grid-cols-1 gap-3">
+                {[...selectedVersion.restaurants]
+                  .sort((a, b) => {
+                    const aCount = frequencies.get(a.slug)?.count ?? 0;
+                    const bCount = frequencies.get(b.slug)?.count ?? 0;
+                    if (bCount !== aCount) return bCount - aCount;
+                    return a.name.localeCompare(b.name);
+                  })
+                  .map((restaurant) => {
+                    const appearances = frequencies.get(restaurant.slug)?.count ?? 0;
+                    const isExpanded = !!expandedSlugs[restaurant.slug];
+
+                    return (
+                      <article key={restaurant.slug} className="overflow-hidden rounded-xl border border-neutral-800 bg-neutral-900/80">
+                        <button
+                          type="button"
+                          onClick={() =>
+                            setExpandedSlugs((prev) => ({
+                              ...prev,
+                              [restaurant.slug]: !prev[restaurant.slug],
+                            }))
+                          }
+                          className="flex w-full items-start justify-between gap-3 p-3 text-left"
+                        >
+                          <div>
+                            <p className="text-lg font-medium uppercase text-neutral-100 md:text-xl">
+                              {restaurant.name}{' '}
+                              {isClosed(restaurant.slug) ? (
+                                <span className="ml-1 inline-flex -translate-y-[3px] items-center rounded bg-rose-500/20 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide text-rose-200">
+                                  CLOSED
+                                </span>
+                              ) : null}
+                            </p>
+                          </div>
+
+                          <div className="flex items-center gap-2">
+                            <span className="shrink-0 rounded-full bg-orange-500/20 px-2 py-1 text-xs text-orange-200">{appearances}x</span>
+                            <span className="text-neutral-400">{isExpanded ? '▴' : '▾'}</span>
+                          </div>
+                        </button>
+
+                        {isExpanded ? (
+                          <div className="border-t border-neutral-800 bg-neutral-950/60 px-3 py-2 text-sm text-neutral-200">
+                            <DetailRow
+                              icon="🍽"
+                              label={restaurant.openFor ? `Open for: ${restaurant.openFor}` : 'Open for: Not available'}
+                              dense
+                            />
+                            <DetailRow
+                              icon="💲"
+                              label={restaurant.priceRange ? `Price range: ${restaurant.priceRange}` : 'Price range: Not available'}
+                              dense
+                            />
+                            {restaurant.descriptionText ? (
+                              <div className="border-b border-neutral-800/80 py-2 text-[15px] leading-relaxed text-neutral-300 lg:pr-20 lg:text-[15px]">
+                                {restaurant.descriptionText}
+                              </div>
+                            ) : (
+                              <div className="border-b border-neutral-800/80 py-2 text-[15px] leading-relaxed text-neutral-500 lg:pr-20 lg:text-[15px]">
+                                Description: Not available
+                              </div>
+                            )}
+                            <DetailRow
+                              icon="📍"
+                              label={restaurant.address || 'Address not available from source'}
+                              href={restaurant.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.address)}` : undefined}
+                            />
+                            <DetailRow
+                              icon="☎"
+                              label={restaurant.phone || 'Not available'}
+                              href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
+                            />
+                            <DetailRow
+                              icon="🌐"
+                              label={restaurant.website ? 'Visit website' : 'Website not available from source'}
+                              href={restaurant.website || undefined}
+                            />
+                            {restaurant.imageUrl ? (
+                              <div className="py-3">
+                                <img
+                                  src={restaurant.imageUrl}
+                                  alt={`${restaurant.name} photo`}
+                                  className="h-auto w-full max-w-[500px] rounded-lg border border-neutral-800 object-cover"
+                                  loading="lazy"
+                                />
+                              </div>
+                            ) : null}
+                          </div>
+                        ) : null}
+                      </article>
+                    );
+                  })}
+              </div>
+            )}
           </section>
         </main>
       </div>

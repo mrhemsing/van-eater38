@@ -12,6 +12,8 @@ export type Restaurant = {
   priceRange?: string;
   descriptionText?: string;
   imageUrl?: string;
+  latitude?: number;
+  longitude?: number;
 };
 
 export type Version = {
