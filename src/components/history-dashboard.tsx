@@ -80,7 +80,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
 
       <div className="grid gap-5 lg:grid-cols-[280px_1fr]">
         <aside className="hidden rounded-2xl border border-neutral-800 bg-neutral-950/70 p-4 lg:block">
-          <div className="mb-3 flex items-center justify-between gap-2">
+          <div className="mb-3 flex items-center gap-2">
             <h2 className="text-sm uppercase tracking-[0.18em] text-neutral-400">Versions</h2>
             <button
               type="button"
@@ -113,7 +113,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
 
         <main className="min-w-0 space-y-6">
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-3 lg:hidden">
-            <div className="mb-3 flex items-center justify-between gap-2">
+            <div className="mb-3 flex items-center gap-2">
               <div className="text-xs uppercase tracking-[0.16em] text-neutral-400">Versions</div>
               <button
                 type="button"
