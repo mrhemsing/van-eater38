@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T19:20:57.674Z",
+  "generatedAt": "2026-02-19T19:59:46.094Z",
   "source": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
   "versions": [
     {
@@ -17,7 +17,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Ancora Waterfront Dining and Patio",
@@ -65,7 +65,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Blue Water Cafe",
@@ -77,7 +77,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg"
         },
         {
           "name": "Botanist",
@@ -137,7 +137,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Chambar Restaurant",
@@ -185,7 +185,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Fat Mao Noodles",
@@ -221,7 +221,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -233,7 +233,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Guu Garden",
@@ -305,7 +305,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Nancy Go Yaya Eating House",
@@ -329,7 +329,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -341,7 +341,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -353,7 +353,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "RawBar",
@@ -389,7 +389,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -461,7 +461,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -480,7 +480,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Ancora Waterfront Dining and Patio",
@@ -528,7 +528,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Blue Water Cafe",
@@ -540,7 +540,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg"
         },
         {
           "name": "Botanist",
@@ -600,7 +600,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Chambar Restaurant",
@@ -648,7 +648,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Fat Mao Noodles",
@@ -684,7 +684,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -696,7 +696,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Guu with Garlic",
@@ -768,7 +768,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Nancy Go Yaya Eating House",
@@ -792,7 +792,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -804,7 +804,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -816,7 +816,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "RawBar",
@@ -852,7 +852,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -924,7 +924,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -943,7 +943,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Au Comptoir",
@@ -991,7 +991,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Susu",
@@ -1015,7 +1015,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg"
         },
         {
           "name": "Botanist",
@@ -1075,7 +1075,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Chambar Restaurant",
@@ -1123,7 +1123,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Fat Mao Noodles",
@@ -1159,7 +1159,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -1171,7 +1171,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Guu with Garlic",
@@ -1243,7 +1243,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -1255,7 +1255,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -1267,7 +1267,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -1279,7 +1279,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "R&B Ale & Pizza House",
@@ -1327,7 +1327,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -1387,7 +1387,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -1406,7 +1406,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Bacaro",
@@ -1430,7 +1430,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Susu",
@@ -1454,7 +1454,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg"
         },
         {
           "name": "Botanist",
@@ -1502,7 +1502,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -1562,7 +1562,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Fat Mao Noodles",
@@ -1598,7 +1598,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -1610,7 +1610,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Guu with Garlic",
@@ -1706,7 +1706,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -1718,7 +1718,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -1730,7 +1730,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -1742,7 +1742,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "R&B Ale & Pizza House",
@@ -1778,7 +1778,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -1850,7 +1850,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -1869,7 +1869,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Anh and Chi",
@@ -1881,7 +1881,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg"
         },
         {
           "name": "Bacaro",
@@ -1905,7 +1905,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Susu",
@@ -1929,7 +1929,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg"
         },
         {
           "name": "Botanist",
@@ -1977,7 +1977,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -2013,7 +2013,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Fat Mao Noodles",
@@ -2049,7 +2049,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -2061,7 +2061,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Harvest Community Foods",
@@ -2145,7 +2145,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -2157,7 +2157,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -2169,7 +2169,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -2181,7 +2181,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "Published on Main",
@@ -2193,7 +2193,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/published-on-main.jpg"
         },
         {
           "name": "R&B Ale & Pizza House",
@@ -2229,7 +2229,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -2253,7 +2253,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/suyo.jpg"
         },
         {
           "name": "The Arbor Restaurant",
@@ -2313,7 +2313,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -2332,7 +2332,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Anh and Chi",
@@ -2344,7 +2344,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg"
         },
         {
           "name": "Bacaro",
@@ -2368,7 +2368,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Susu",
@@ -2392,7 +2392,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg"
         },
         {
           "name": "Botanist",
@@ -2428,7 +2428,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -2452,7 +2452,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dachi.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -2464,7 +2464,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Elephant Garden Creamery",
@@ -2512,7 +2512,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -2524,7 +2524,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Harvest Community Foods",
@@ -2584,7 +2584,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg"
         },
         {
           "name": "Maenam",
@@ -2596,7 +2596,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maenam.jpg"
         },
         {
           "name": "Maruhachi Ra-men",
@@ -2608,7 +2608,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg"
         },
         {
           "name": "Maxine's Cafe & Bar",
@@ -2620,7 +2620,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -2632,7 +2632,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -2644,7 +2644,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -2656,7 +2656,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "Published on Main",
@@ -2668,7 +2668,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/published-on-main.jpg"
         },
         {
           "name": "R&B Ale & Pizza House",
@@ -2704,7 +2704,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -2728,7 +2728,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/suyo.jpg"
         },
         {
           "name": "The Arbor Restaurant",
@@ -2776,7 +2776,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -2795,7 +2795,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Anh and Chi",
@@ -2807,7 +2807,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg"
         },
         {
           "name": "Bacaro",
@@ -2831,7 +2831,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Gobo",
@@ -2867,7 +2867,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg"
         },
         {
           "name": "Botanist",
@@ -2891,7 +2891,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -2915,7 +2915,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dachi.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -2927,7 +2927,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Elephant Garden Creamery",
@@ -2951,7 +2951,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -2963,7 +2963,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Havana Vancouver",
@@ -2999,7 +2999,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/homer-street-cafe-and-bar.jpg"
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
@@ -3035,7 +3035,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg"
         },
         {
           "name": "Maenam",
@@ -3047,7 +3047,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maenam.jpg"
         },
         {
           "name": "Maruhachi Ra-men",
@@ -3059,7 +3059,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg"
         },
         {
           "name": "Maxine's Cafe & Bar",
@@ -3071,7 +3071,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -3083,7 +3083,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Ophelia",
@@ -3095,7 +3095,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/ophelia.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -3107,7 +3107,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -3119,7 +3119,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "Published on Main",
@@ -3131,7 +3131,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/published-on-main.jpg"
         },
         {
           "name": "R&B Ale & Pizza House",
@@ -3167,7 +3167,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -3191,7 +3191,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/suyo.jpg"
         },
         {
           "name": "The Arbor Restaurant",
@@ -3239,7 +3239,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -3258,7 +3258,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg"
         },
         {
           "name": "Bacaro",
@@ -3282,7 +3282,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Gobo",
@@ -3318,7 +3318,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg"
         },
         {
           "name": "Botanist",
@@ -3342,7 +3342,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -3366,7 +3366,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dachi",
@@ -3378,7 +3378,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dachi.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -3390,7 +3390,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
@@ -3402,7 +3402,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -3414,7 +3414,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Havana Vancouver",
@@ -3450,7 +3450,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/homer-street-cafe-and-bar.jpg"
         },
         {
           "name": "Is That French",
@@ -3474,7 +3474,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/japadog.jpg"
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
@@ -3498,7 +3498,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg"
         },
         {
           "name": "Maenam",
@@ -3510,7 +3510,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maenam.jpg"
         },
         {
           "name": "Maruhachi Ra-men",
@@ -3522,7 +3522,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg"
         },
         {
           "name": "Maxine's Cafe & Bar",
@@ -3534,7 +3534,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -3546,7 +3546,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Ophelia",
@@ -3558,7 +3558,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/ophelia.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -3570,7 +3570,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -3582,7 +3582,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "Published on Main",
@@ -3594,7 +3594,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/published-on-main.jpg"
         },
         {
           "name": "R&B Ale & Pizza House",
@@ -3630,7 +3630,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -3654,7 +3654,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/suyo.jpg"
         },
         {
           "name": "The Arbor Restaurant",
@@ -3702,7 +3702,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -3721,7 +3721,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg"
         },
         {
           "name": "Bacaro",
@@ -3745,7 +3745,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Gobo",
@@ -3793,7 +3793,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bar-tartare.jpg"
         },
         {
           "name": "Burdock & Co",
@@ -3805,7 +3805,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -3829,7 +3829,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dachi",
@@ -3841,7 +3841,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dachi.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -3853,7 +3853,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
@@ -3865,7 +3865,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -3877,7 +3877,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Havana Vancouver",
@@ -3913,7 +3913,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/homer-street-cafe-and-bar.jpg"
         },
         {
           "name": "Is That French",
@@ -3937,7 +3937,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/japadog.jpg"
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
@@ -3961,7 +3961,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kapow-burger.jpg"
         },
         {
           "name": "Kissa Tanto",
@@ -3973,7 +3973,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg"
         },
         {
           "name": "Maenam",
@@ -3985,7 +3985,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maenam.jpg"
         },
         {
           "name": "Maruhachi Ra-men",
@@ -3997,7 +3997,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg"
         },
         {
           "name": "Maxine's Cafe & Bar",
@@ -4009,7 +4009,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -4021,7 +4021,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Ophelia",
@@ -4033,7 +4033,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/ophelia.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -4045,7 +4045,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -4057,7 +4057,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "Published on Main",
@@ -4069,7 +4069,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/published-on-main.jpg"
         },
         {
           "name": "Remi Patisserie",
@@ -4093,7 +4093,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -4117,7 +4117,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/suyo.jpg"
         },
         {
           "name": "The Arbor Restaurant",
@@ -4165,7 +4165,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -4184,7 +4184,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg"
         },
         {
           "name": "Bacaro",
@@ -4208,7 +4208,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Gobo",
@@ -4256,7 +4256,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bar-tartare.jpg"
         },
         {
           "name": "Burdock & Co",
@@ -4268,7 +4268,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -4292,7 +4292,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dachi",
@@ -4304,7 +4304,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dachi.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -4316,7 +4316,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
@@ -4328,7 +4328,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -4340,7 +4340,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Havana Vancouver",
@@ -4376,7 +4376,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/homer-street-cafe-and-bar.jpg"
         },
         {
           "name": "Is That French",
@@ -4400,7 +4400,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/japadog.jpg"
         },
         {
           "name": "Kapow Burger",
@@ -4412,7 +4412,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kapow-burger.jpg"
         },
         {
           "name": "Kissa Tanto",
@@ -4424,7 +4424,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg"
         },
         {
           "name": "La Fabrique St-George",
@@ -4448,7 +4448,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maenam.jpg"
         },
         {
           "name": "Maruhachi Ra-men",
@@ -4460,7 +4460,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg"
         },
         {
           "name": "Maxine's Cafe & Bar",
@@ -4472,7 +4472,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -4484,7 +4484,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Ophelia",
@@ -4496,7 +4496,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/ophelia.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -4508,7 +4508,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -4520,7 +4520,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "Pretend Wine Bar",
@@ -4544,7 +4544,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/published-on-main.jpg"
         },
         {
           "name": "Remi Patisserie",
@@ -4568,7 +4568,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "St Lawrence Restaurant",
@@ -4592,7 +4592,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/suyo.jpg"
         },
         {
           "name": "The Acorn",
@@ -4628,7 +4628,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -4647,7 +4647,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg"
         },
         {
           "name": "Bacaro",
@@ -4671,7 +4671,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Gobo",
@@ -4719,7 +4719,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bar-tartare.jpg"
         },
         {
           "name": "Burdock & Co",
@@ -4731,7 +4731,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -4755,7 +4755,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dachi",
@@ -4767,7 +4767,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dachi.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -4779,7 +4779,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
@@ -4791,7 +4791,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -4803,7 +4803,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Havana Vancouver",
@@ -4839,7 +4839,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/homer-street-cafe-and-bar.jpg"
         },
         {
           "name": "Is That French",
@@ -4863,7 +4863,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/japadog.jpg"
         },
         {
           "name": "Kapow Burger",
@@ -4875,7 +4875,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kapow-burger.jpg"
         },
         {
           "name": "Kissa Tanto",
@@ -4887,7 +4887,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg"
         },
         {
           "name": "La Fabrique St-George",
@@ -4911,7 +4911,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maenam.jpg"
         },
         {
           "name": "Maruhachi Ra-men",
@@ -4923,7 +4923,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg"
         },
         {
           "name": "Maxine's Cafe & Bar",
@@ -4935,7 +4935,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Miso Taco",
@@ -4947,7 +4947,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/miso-taco.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -4959,7 +4959,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Ophelia",
@@ -4971,7 +4971,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/ophelia.jpg"
         },
         {
           "name": "Parker Rooftop",
@@ -4995,7 +4995,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -5007,7 +5007,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "Pretend Wine Bar",
@@ -5031,7 +5031,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/published-on-main.jpg"
         },
         {
           "name": "Rain or Shine Ice Cream Truck",
@@ -5055,7 +5055,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "Suyo",
@@ -5067,7 +5067,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/suyo.jpg"
         },
         {
           "name": "The Acorn",
@@ -5091,7 +5091,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         }
       ]
     },
@@ -5110,7 +5110,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg"
         },
         {
           "name": "Bao Bei",
@@ -5122,7 +5122,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bao-bei.jpg"
         },
         {
           "name": "Bar Gobo",
@@ -5170,7 +5170,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/bar-tartare.jpg"
         },
         {
           "name": "Burdock & Co",
@@ -5182,7 +5182,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/burdock-co.jpg"
         },
         {
           "name": "Caffé La Tana",
@@ -5206,7 +5206,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dachi",
@@ -5218,7 +5218,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dachi.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -5230,7 +5230,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg"
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
@@ -5242,7 +5242,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg"
         },
         {
           "name": "Granville Island Public Market",
@@ -5254,7 +5254,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg"
         },
         {
           "name": "Havana Vancouver",
@@ -5290,7 +5290,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/homer-street-cafe-and-bar.jpg"
         },
         {
           "name": "Hundy",
@@ -5302,7 +5302,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/hundy.jpg"
         },
         {
           "name": "Is That French",
@@ -5326,7 +5326,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/japadog.jpg"
         },
         {
           "name": "Kapow Burger",
@@ -5338,7 +5338,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kapow-burger.jpg"
         },
         {
           "name": "Kissa Tanto",
@@ -5350,7 +5350,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg"
         },
         {
           "name": "La Fabrique St-George",
@@ -5374,7 +5374,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/lila.jpg"
         },
         {
           "name": "Maenam",
@@ -5386,7 +5386,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maenam.jpg"
         },
         {
           "name": "Maruhachi Ra-men",
@@ -5398,7 +5398,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg"
         },
         {
           "name": "Maxine's Cafe & Bar",
@@ -5410,7 +5410,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg"
         },
         {
           "name": "Miso Taco",
@@ -5422,7 +5422,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/miso-taco.jpg"
         },
         {
           "name": "Odd Society Spirits",
@@ -5434,7 +5434,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg"
         },
         {
           "name": "Ophelia",
@@ -5446,7 +5446,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/ophelia.jpg"
         },
         {
           "name": "Phnom Penh",
@@ -5458,7 +5458,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/phnom-penh.jpg"
         },
         {
           "name": "Pidgin",
@@ -5470,7 +5470,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/pidgin.jpg"
         },
         {
           "name": "Pretend Wine Bar",
@@ -5494,7 +5494,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/published-on-main.jpg"
         },
         {
           "name": "Sashimiya",
@@ -5506,7 +5506,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/sashimiya.jpg"
         },
         {
           "name": "Suyo",
@@ -5518,7 +5518,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/suyo.jpg"
         },
         {
           "name": "The Acorn",
@@ -5542,7 +5542,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/vijs.jpg"
         },
         {
           "name": "Wicked Cafe",
@@ -5554,7 +5554,7 @@
           "openFor": "",
           "priceRange": "",
           "descriptionText": "",
-          "imageUrl": ""
+          "imageUrl": "/images/restaurants/wicked-cafe.png"
         }
       ]
     },
@@ -5573,7 +5573,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "For years, if you wanted to eat at this stylish, locals’ Vietnamese spot on Main, you’d have to queue. In a pandemic pivot, Anh and Chi began accepting reservations, bookable with a $10 charity donation. Everything on the menu is bursting with fresh flavors and perfectly balanced in terms of spice and heat. Portions are wildly generous, so order everything for the table. Must-orders include custardy bánh khot prawn cakes wrapped in crispy rice and the fun, finger-licking DIY platter of khay bánh hỏi lụi nướng. It’s worth considering takeout, which gives you access to the very good wine list at 50 percent off. Know before you go: Pop in to sister-bar Good Thief next door for creative cocktails and maybe a few binchotan-grilled skewers.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24406405/Anh_and_Chi_Streetside_Platter_Photographed_by_Leila_Kwok_1.jpg?quality=90&strip=all&crop=0,0.024402147388969,100,99.951195705222",
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg",
           "latitude": 49.254986,
           "longitude": -123.100861
         },
@@ -5601,7 +5601,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Chambar alumna Tannis Ling combined forces with chef Joël Watanabe, who brings his Corsican-Japanese heritage to this popular Chinatown restaurant. It may look like a hipster take on a Chinese brasserie, but the sound of woks crashing in the kitchen speaks to its traditional techniques. Sharing plates are pleasingly well-sized and the cocktails thoughtfully crafted, and — because it’s Vancouver — all meat is local and ethically raised, hormone- and chemical-free. Don’t miss local legend Helen’s delicate hand-made potstickers and dumplings — she makes hundreds of perfect dumplings each day — and the appropriately named Kick Ass House-Fried Rice. Must-try dish: Beef tartare. It’s absolutely incredible with crisp taro chips and punchy mustard root.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19588000/bao_bei.jpg?quality=90&strip=all&crop=16.85,0,66.3,100",
+          "imageUrl": "/images/restaurants/bao-bei.jpg",
           "latitude": 49.279701,
           "longitude": -123.100998
         },
@@ -5615,7 +5615,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "After the much-loved Juice Bar shuttered, long-time server Lindsay Otto took over and re-opened the place as Bar Tartare. Located in the same space as the popular Birds and the Beets cafe, the bar stocks its fridges with unfined, unfiltered, natural, and low-intervention wines from B.C. and beyond. Expect knowledgeable servers to cheerily exclaim “Try this!” as they pop corks (or unscrew caps). Given the bar’s name, you’ll have to try the tartare (the bison is superb, with plenty of zingy flavor and crunchy textures), but check out nightly specials from the rotating crew of guest chefs. Best for: Exciting pop-ups with some of the city’s most talented young chefs.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25274522/BarTartare2_NikkiBayley.jpg?quality=90&strip=all&crop=0,24.993433149462,100,50.013133701077",
+          "imageUrl": "/images/restaurants/bar-tartare.jpg",
           "latitude": 49.283644,
           "longitude": -123.102475
         },
@@ -5629,7 +5629,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Andrea Carlson’s resume reads like a rundown of every restaurant that helped shape Vancouver’s fresh, local, and sustainable style: C, Raincity Grill, Sooke Harbour House, Bishop’s — she’s worked at them all. You’ll find a shining example of British Columbia-based, casual fine dining at her Michelin-starred restaurant, Burdock & Co, which offers a tasting menu of locavore, ultra-seasonal dishes that pair perfectly with the tight, natural-leaning wine list. Favorites come and go on the five-course menu, but add on an order of the fan-favorite buttermilk fried chicken with dill pickle powder, or go big with sustainably sourced Northern Divine sturgeon caviar with tater tots and a shot of aquavit. Know before you go: Burdock & Co is closed on Tuesdays and Wednesdays.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24855107/burdock_2.png?quality=90&strip=all&crop=0,27.777777777778,100,44.444444444444",
+          "imageUrl": "/images/restaurants/burdock-co.jpg",
           "latitude": 49.261002,
           "longitude": -123.100998
         },
@@ -5657,7 +5657,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Industry veterans opened this much-anticipated, neighborhood tapas bar to rave reviews in late 2018, bagging the coveted No. 2 spot on Air Canada enRoute’s Best New Restaurant of the Year list in 2019, along with every local award going. It’s no wonder, given Cómo delivers a truly delicious experience including on-tap vermouth and bone-dry fino sherry, free tapas at the bar during happy hour with a drink purchase (4-5 p.m.), superb hard cheeses, and crisp patatas bravas striped with mayo and spicy tomato sauce. The room is loud and friendly, with efficient cheery service, and although you can make reservations for the rest of the room, the patio is first come, first served. Enjoy a brief trip to Spain at the handsome bar before heading back out to Vancouver. Know before you go: If you go with a big group, try to score the back booth and share your way through the tapas menu.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19543174/como_taperia.jpg?quality=90&strip=all&crop=0,23.333333333333,100,53.333333333333",
+          "imageUrl": "/images/restaurants/como-taperia.jpg",
           "latitude": 49.26474,
           "longitude": -123.100624
         },
@@ -5671,7 +5671,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Grab a cab to Hastings-Sunrise to find joyful hospitality, fun low-intervention wines, and sake at Dachi, along with thoughtful, seasonal small plates featuring ingredients ranging from fresh (kale buds) to luxurious (tonkatsu-fried pork cutlets). In the summertime, the restaurant shifts operations out to the buzzing patio on East Hastings Street, but through fall and winter the action heads back indoors. Dachi is a true neighborhood spot, and locals are always dropping in for something from the ever-changing bottle shop. The team also operates Mucker Next Door — literally next door — which sells covetable homewares, artsy wine magazines and books, aromatic beef fat from sibling restaurant Elephant, and rose-gold cake servers. Vibe check: Natty wine warriors, assemble.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24625804/Dachi.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/dachi.jpg",
           "latitude": 49.281472,
           "longitude": -123.05796
         },
@@ -5713,7 +5713,7 @@
           "openFor": "Dim sum and dinner",
           "priceRange": "$$$",
           "descriptionText": "Dynasty boasts twinkling chandeliers, views over the city from its first-floor perch on West Broadway, and, thanks to chef Sam Leung, some of the city’s best modern Chinese food. Open daily from 10 a.m. for dim sum, its standouts are the buttery barbecue pork cha siu bao with baked lemon, and the silky, wafer-thin dumplings stuffed with fresh shrimp, scallops, and black truffles. Dinner features a “24-hours notice” menu, with Cantonese delights such as mushroom-braised duck. Service skews more efficient than hospitable, but the food easily makes up for it. Know before you go: If you’re dining in a large group, check out the banquet menus, which offer a good value multicourse option.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10271705/dynastyseafood_crabtower2.0__1_.jpg?quality=90&strip=all&crop=0.010869565217384,0,99.978260869565,100",
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg",
           "latitude": 49.263802,
           "longitude": -123.122002
         },
@@ -5727,7 +5727,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "The latest addition to the Published on Main and Bar Susu family takes its rightful place here on the 38. El Gato Gab Gab, a truly excellent modern Mexican botanero, serves snacks and agave-forward cocktails. This is the place for the best margarita on Main, which comes slushy-style on crushed ice. Don’t overlook the cheffy takes on Mexican bar snacks like chicken skin chilaquiles and pork jowl chicharron. With industry veteran Joe Casson providing a steady hand on the tiller, this is the essential destination for your first or last drink of the night. Vibe check: Visit to see why Mount Pleasant is Vancouver’s hipster central.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25917121/El_Gato_Bar___credit_Sarah_Annand.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/el-gato-gab-gab.jpg",
           "latitude": 49.261374,
           "longitude": -123.100881
         },
@@ -5741,7 +5741,7 @@
           "openFor": "Dim sum and dinner",
           "priceRange": "$$",
           "descriptionText": "Take a 20-minute trip on the Skytrain from downtown to the neighboring city of Richmond, which Eater’s former roving critic, Bill Addison, called “one of the cultural marvels of North America” for having some of the finest Asian food in the world. At this award-winning favorite, the dim sum is handmade by chef-owner May Chau, who focuses on Hong Kong classics: steamed pork and crab dumplings, pan-fried pork buns, and deep-fried wontons — all must-orders. If you drive: There is plenty of free street parking available.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10271703/goldenparamount_beefchowfun.0__1_.jpg?quality=90&strip=all&crop=0.010869565217384,0,99.978260869565,100",
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg",
           "latitude": 49.16367,
           "longitude": -123.134918
         },
@@ -5755,7 +5755,7 @@
           "openFor": "Breakfast through early dinner",
           "priceRange": "$",
           "descriptionText": "Sure the aisles are packed with wide-eyed Instagrammers at this popular tourist destination, but there are some jewels to be found here to assemble a superb picnic for watching the boats and paddle boarders on False Creek. Take your pick from delights such as pickled headcheese, succulent mortadella, and punchy salami at the Oyama Sausage Co, then head to Terra Bread to pick up some focaccia or baguettes before stocking up on local Salt Spring Island cheeses at Benton Brothers and fresh doughnuts at Lee’s. Vibe check: Leave your cool at the door. It’s fun being a tourist here, so enjoy the free samples and don’t block the aisles for too long snapping photos.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880067/Vancouver-Granville_Island_-_FB.0.png?quality=90&strip=all&crop=7.8125,0,84.375,100",
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg",
           "latitude": 49.2724,
           "longitude": -123.135002
         },
@@ -5769,7 +5769,7 @@
           "openFor": "Lunch and dinner, with brunch on weekends",
           "priceRange": "$$",
           "descriptionText": "Thankfully, the Covid-era patio remains at this ever-popular Yaletown neighborhood rotisserie cafe and bar, offering the chance to bask in the sun as you consider decent European wine picks, some of the city’s most consistently excellent roast chicken, and tasty sides. Inside, watch the handsome red Rotisol Grande Flamme Olympia rotisserie spit-roast perfect free-range chickens and other proteins, and briefly ponder whether you should give in to the Full Monty (a waistband-tightening set menu that carves through some of Homer Street’s favorites). Ponder no more — of course you should. Must-try dish: Grab so many napkins and faceplant into the gloriously messy HSCB burger.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24852191/edit_homerstcafe_HomerSt.png?quality=90&strip=all&crop=0,0.033333333333331,100,99.933333333333",
+          "imageUrl": "/images/restaurants/homer-street-cafe-and-bar.jpg",
           "latitude": 49.2784,
           "longitude": -123.117996
         },
@@ -5783,7 +5783,7 @@
           "openFor": "Late lunch through late dinner",
           "priceRange": "$",
           "descriptionText": "It’s becoming increasingly difficult to get a really good sub-$15 burger in downtown Vancouver, but Hundy, from Michael Robbins, the chef of Michelin-starred AnnaLena’s, allows you to do exactly that at a stripped-down location in Yaletown. Go for the burgers and stay for the hidden bar — follow the signs to the right of the cash register to dive into the fun cocktails at Stock Room. Bar snacks include ghost pepper-flavored Lay’s potato chips from Thailand, Turkish Froot Loops gummies, and, of course, Hundy burgers; aim for the 4–6 p.m. happy hour for an excellent value. Know before you go: Hundy is closed on Mondays.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25756066/hundy_hundy.png?quality=90&strip=all&crop=0,16.666666666667,100,66.666666666667",
+          "imageUrl": "/images/restaurants/hundy.jpg",
           "latitude": 49.267908,
           "longitude": -123.151393
         },
@@ -5797,7 +5797,7 @@
           "openFor": "All day",
           "priceRange": "$",
           "descriptionText": "Since Vancouver’s food trucks were legalized a decade ago, they’ve enjoyed a rollercoaster ride through fads and fortunes. Favorites have come and gone, as the ranks of dozens have slimmed to a handful; much-loved trucks such as Soho Road, the Kaboom Box, and Top Rope Birria have rolled off the road. But elder statesman Japadog abides. It’s always worth checking one of the six food truck locations (including one at the airport) and four stores, especially the original at the junction of Burrard Street and Smithe Street. Snap up one of the signature all-beef Terimayo dogs with teriyaki sauce, Japanese mayo, and seaweed to see why the brand has lasted the course. Anthony Bourdain loved this budget treat on the No Reservations Vancouver episode, noting wisely, “If life has taught us anything, it’s to eat meat in tube form.” Know before you go: Gobbling down Japadog before you go through departures at YVR is the breakfast of champions.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25069234/Japadog_Facebook.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/japadog.jpg",
           "latitude": 49.282197,
           "longitude": -123.124147
         },
@@ -5811,7 +5811,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$",
           "descriptionText": "On the search for a superb ooey-gooey smash burger and great beers? Look no further than the very excellent Kapow Burger, based at the equally splendid Electric Bicycle Brewing, which is tucked away in the funky ex-warehouse district of Mount Pleasant. Choose from six piled-high burgers (including a chicken burger and a vegetarian sweet potato version) topped with items like pickled jalapenos and crispy bacon. The Kapow with fried onions and cheese is gloriously messy, and it pairs perfectly with a generous serving of tater tots doused in cheese and the Big Mac-like Kapow sauce. In the brewery, pick from an array of on-tap regulars (the Atomic Jam Raspberry Sour is rightly a house favorite) and fruity, bright, seasonal specials. If you drive: Don’t even try to find street parking. Use one of the nearby lots.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25274515/KapowBurger_NikkiBayley.jpg?quality=90&strip=all&crop=0,7.4489502444636,100,85.102099511073",
+          "imageUrl": "/images/restaurants/kapow-burger.jpg",
           "latitude": 49.267088,
           "longitude": -123.104243
         },
@@ -5825,7 +5825,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Kissa Tanto scored a Michelin star in Vancouver’s inaugural awards. The pitch-perfect pairing of Japanese and Italian cuisines comes together in a funky, second-story space in Chinatown, a few steps away from the restaurant’s sibling crowd-pleaser, Bao Bei. The menu is small enough to make you want to order everything: the exquisite pasta made in-house; the show-stopping whole fish served fins and all, which arrives puffed, hot, and crisp from the fryer along with a daikon-soy dipping sauce; a deceptively simple salad seamlessly fusing kombu dashi and pecorino. Reservations are essential. Best for: Group meals; try everything.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880057/Vancouver-Kissa_Tanto.0.png?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg",
           "latitude": 49.28055,
           "longitude": -123.098127
         },
@@ -5853,7 +5853,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Lila is a joyful collaboration between two of the city’s most important chef-owners, good friends Meeru Dhalwala (Vij’s) and Shira Blustein (the Acorn), known for their long-time championing of sustainability, community building, and mentorship and support of women in hospitality. Located on the “Michelin Mile” strip of Main Street and boasting one of the city’s best hidden patio gardens, Lila brings Dhalwala’s modern Indian cuisine and Blustein’s plant-based sensibility together for truly plate-licking results in a slender charcoal-grey and sage-green room festooned with leafy plants. The menu prioritizes plants, plus some dairy and sustainable seafood, and it begs to be shared, so don’t be shy in ordering one or two extra dishes — you haven’t lived till you’ve devoured cold garam masala-marinated jackfruit for breakfast. Whatever you do, always make room for the potato and cauliflower pakoras with bright mango-and-mint chutney. Best for: Vegetarian or vegan tasting menu dining.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25756061/Lila_Lila.jpg?quality=90&strip=all&crop=0,24.995024875622,100,50.009950248756",
+          "imageUrl": "/images/restaurants/lila.jpg",
           "latitude": 49.249969,
           "longitude": -123.101357
         },
@@ -5867,7 +5867,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$$",
           "descriptionText": "One of the city’s hardest working chefs, Angus An has five other spots dotted across the city, including Fat Mao, which serves blissful noodles in Chinatown and Downtown, as well as Longtail Kitchen and Sen Pad Thai. But if you only have time to visit one of his restaurants, go for Maenam, where you can drool over An’s deft balancing act of sweet, aromatic, citrusy, hot, and spicy flavors in great Thai dishes with B.C. twists. Walk-ins are welcome in the lounge for an a la carte dinner, but it’s worth it to book the chef’s menu, a bargain at $88 ($65 USD) per person for 11 dishes served family style. Four-course lunch sets are also a terrific value. Must-try dish: The grilled Thai sausage and crispy rice salad is so good you won’t want to share.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24618802/Maenam_AlainaMichellePhotography.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/maenam.jpg",
           "latitude": 49.267948,
           "longitude": -123.148911
         },
@@ -5881,7 +5881,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Don’t worry, the queues for this West End ramen favorite move fast, and it’s always worth the wait — especially if you’re a noodle fan. Each day this small ramen shop makes 500 4.4-ounce balls of noodles, which rest for 24 hours before being cooked and slurped up. Hailing from Japan, Maruhachi favors a silky rich chicken broth over the heavier pork-based tonkotsu. Prepare to be enchanted — and don’t miss out on the egg. It’s consistently the best in the city. Know before you go: As the Maruhachi empire grows to several ramen-ya, check the website for details on specials only available at specific locations.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070805/Maruhchi.jpeg?quality=90&strip=all&crop=0,16.666666666667,100,66.666666666667",
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg",
           "latitude": 49.2906,
           "longitude": -123.133003
         },
@@ -5895,7 +5895,7 @@
           "openFor": "Brunch through dinner",
           "priceRange": "$$",
           "descriptionText": "Serving up excellent daily brunch, happy hour, and dinner menus, Maxine’s has been doing a roaring trade with locals since opening in 2021. The sibling restaurant to Homer Street and Tableau has already established itself as part of the Westender dining canon, as the weekend queues attest. Crowds come for generously portioned smoked salmon rosti, a gloriously messy smash burger, and the on-point cocktail and wine list. Hang out on the sun-trap patio and watch the world race past on Burrard Street, or settle into a comfy booth and graze your way from day to night. Best for: Reserve space on the semi-private side patio for long dinners with good friends.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23538534/Maxines_nikki_Bayley.jpeg?quality=90&strip=all&crop=0,25,100,50",
+          "imageUrl": "/images/restaurants/maxines-cafe-bar.jpg",
           "latitude": 49.277941,
           "longitude": -123.131327
         },
@@ -5909,7 +5909,7 @@
           "openFor": "Lunch and dinner, with brunch on weekends",
           "priceRange": "$",
           "descriptionText": "This loudly bustling spot on Cambie blends Japanese and Mexican cuisines. Chashu-style carnitas shine in gloriously messy tacos thanks to meltingly tender, just-fatty-enough pork and zippy pineapple relish. Load up the kimchi-nacho fries with birria and a fried egg, and obviously add instant ramen to your birria-dilla consomé. There’s also a daily happy hour, which offers well-priced cocktails, tacos, and an intriguing combo of shrimp crackers and guacamole. Must try dish: It’s almost worth having a hangover just to enjoy the reviving properties of the Mexican Oyakodon at brunch.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25582439/MisoTaco__1_.jpg?quality=90&strip=all&crop=0,24.993748437109,100,50.012503125781",
+          "imageUrl": "/images/restaurants/miso-taco.jpg",
           "latitude": 49.254353,
           "longitude": -123.114776
         },
@@ -5923,7 +5923,7 @@
           "openFor": "Late lunch and dinner",
           "priceRange": "$",
           "descriptionText": "Distilling is still something of a new art in B.C. thanks to its antiquated, post-prohibition booze laws, which only got a refresh in 2013. Odd Society joined the first wave of new distilleries, and it has remained a must-visit and one of the most consistent producers of craft spirits, including gin, vodka, vermouth, and whisky. Check out the cute cocktail lounge at their East Van distillery, located in a converted motorbike garage, and road-test a few spirits before heading out to explore the many neighboring breweries of “Yeast Van.” Know before you go: The affordable bar snacks here include locally made Jamaican hand pies and Dicky’s Dumps dumplings.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22687118/OddSocietySpirits_BarrelArtProject_DSCF3433_PhotoAnjaliSpooner.jpg?quality=90&strip=all&crop=0,0.0089992800575942,100,99.982001439885",
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg",
           "latitude": 49.284111,
           "longitude": -123.069611
         },
@@ -5937,7 +5937,7 @@
           "openFor": "Dinner, with brunch on weekends",
           "priceRange": "$$$",
           "descriptionText": "Don’t be intimidated by the dramatic entryway with dripping wax candelabras. Ophelia is a very welcoming modern Mexican spot with notably great service in the often-overlooked Olympic Village part of the city. Come for the solid margarita program (especially for Margarita Monday deals) and on-point creative cocktails in a busy room decorated with folk art. Stay for the excellent skirt steak tacos with roasted bone marrow and deliciously complex burned salsa, or the popular weekend brunch with punchy chilaquiles. Don’t skip the tres leches with pistachio crumble and lime-infused whipped cream. Best for: Late-night happy hour.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24852148/Ophelia_NikkiBayley1.jpeg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/ophelia.jpg",
           "latitude": 49.269593,
           "longitude": -123.108142
         },
@@ -5951,7 +5951,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "It was already a Vancouver tradition to join the queues outside this well-priced Vietnamese Cambodian spot in Chinatown — but then the restaurant scored a Michelin Bib Gourmand and the demand has only intensified. The menu is enormous, so save yourself from the agonies of choice and order the deep-fried crunchy chicken wings (with an amazing dipping sauce), the Instagram-ready platter of thit bò butter beef, and the beef lúc lắc with egg and rice. And yeah, okay, maybe some garlic squid too. Pro-tip: Wear comfy shoes for the line. Know before you go: It’s closed on Tuesdays.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19544805/phnom_penh.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/phnom-penh.jpg",
           "latitude": 49.2785,
           "longitude": -123.098
         },
@@ -5965,7 +5965,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Pidgin seamlessly blends the bounty of the Pacific Northwest with French techniques and Asian influences. Although the place is perfect for bar snacks — the gochujang chicken wings are the best in the city — and genuinely thrilling for creative cocktails with ingredients such as toasted rice rum and gunpowder tea gomme, go with the prix fixe, which offers exceptional value with seven inventive mini courses for 105 Canadian dollars (about $73) per person. Whisky and sake fans will love the selection, and the wine list offers global gems too. Best for: Book the chef’s table, which gives you a front row seat to all the action.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880085/Vancouver-pidgin.0.jpeg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/pidgin.jpg",
           "latitude": 49.281799,
           "longitude": -123.105003
         },
@@ -5979,7 +5979,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$$",
           "descriptionText": "Chef Gus Stieffenhofer-Brandson and team are unstoppable juggernauts, scooping up every prize, from a Michelin star in the city’s inaugural awards to the No. 1 spot in Canada’s 100 Best Restaurants in 2022. You’ll need to plan far in advance (reservations open 60 days ahead and sell out in a few hours) or eat at 5 p.m. to discover what alchemy is afoot here, but it would be churlish to leave Published off the list just because it’s challenging to get a seat. At $165 ($123 USD) plus tax and tip, the superb tasting menu is one of the most expensive in the city. If you’re on a budget, you can still dive into the playfully experimental dishes by going a la carte or picking up a snack at the bar. Just try not to fall in love with any menu items, as dishes switch up often. Vibe check: In an ultra-casual city like Vancouver, Published offers a chance to get ever-so-slightly formal, although yoga pants are still welcome.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24406406/Published_credit_Sarah_Annand.jpeg?quality=90&strip=all&crop=0,0.01860119047619,100,99.962797619048",
+          "imageUrl": "/images/restaurants/published-on-main.jpg",
           "latitude": 49.252876,
           "longitude": -123.101219
         },
@@ -6007,7 +6007,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$",
           "descriptionText": "Sashimiya opened in 2020, tucked away on the bottom of Hornby Street. The ultra-casual, entirely sustainable, grab-and-go sushi and sashimi shop is sushi master chef Taka Omi’s first solo spot after leaving the Fairmont Pacific Rim’s RawBar. Fish can be sliced to order for sashimi from the chillers, and a host of Japanese grocery goodies are on offer too. There are no seats, so take your exquisitely made party trays, platters, and bentos down to the waterfront to enjoy picnic-style, or order for delivery. Must-try dish: Seasonal treats such as spot prawns or locally harvested uni.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22642765/Sashimiya.jpg?quality=90&strip=all&crop=0,8.3333333333333,100,83.333333333333",
+          "imageUrl": "/images/restaurants/sashimiya.jpg",
           "latitude": 49.276703,
           "longitude": -123.130363
         },
@@ -6035,7 +6035,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$$",
           "descriptionText": "Suyo gathers the talents of Peruvian ex-Ancora chef Ricardo Valverde, award-winning ex-Botanist bartender Max Curzon-Price, and front of house veteran James Reynolds. The Main Street restaurant’s menu is a lot like its crack team: Exceptionally good ingredients add up to an even greater whole. Hotly anticipated — and immediately packed since opening in summer 2022 — Suyo’s modern take on Peruvian cuisine looks, tastes, and smells radically different from anything else in the city right now. That all comes at a cost, with mains around the $50-60 mark. Splurge if you can, or stop by the small bar to enjoy imaginative cocktails inspired by the peoples and landscapes of Peru, accompanied by sublime charred octopus and zingingly fresh ceviche. Best for: A third date with someone who loves food as much as you.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24406403/suyo__credit_Nikki.jpeg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/suyo.jpg",
           "latitude": 49.254025,
           "longitude": -123.101059
         },
@@ -6077,7 +6077,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Chef Vikram Vij is a huge star, with a stint as an investor on Dragon’s Den, the reality show for aspiring entrepreneurs, and a national range of prepackaged gourmet frozen curries to his name. Vij has created a fine dining Indian restaurant where you can feast on ambrosial curries utilizing local ingredients and hand-ground spices, paired with B.C. wines and funky cocktails. Pre-pandemic, the queue for a table might have included luminaries such as ex-Prime Minister Pierre Trudeau or Harrison Ford, but now you can make a reservation and skip the wait. Don’t miss the lamb popsicles. Know before you go: Don’t snooze on the cocktail menu. It’s packed with savory drinks to pair with curry.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880037/vijs-vancouver.0.jpg?quality=90&strip=all&crop=0.01220703125,0,99.9755859375,100",
+          "imageUrl": "/images/restaurants/vijs.jpg",
           "latitude": 49.2575,
           "longitude": -123.114998
         },
@@ -6091,7 +6091,7 @@
           "openFor": "Breakfast through late lunch",
           "priceRange": "$",
           "descriptionText": "At this Fairview neighborhood cafe, expect innovative bakes designed to melt down your socials and delight your taste buds, including a Tom and Jerry-style cheesecake (which looks like a cartoon cheese wedge and tastes like heaven), cute Nanaimo bar-inspired igloo cakes, and a blue pond-glazed creme brulee with a chocolate rubber duckie floating in it. Snacks and coffee here are excellent too — seasonally inspired latte art is on point, and the creative team drops new creations every few weeks. Wicked Cafe has a second location in West Point Grey, but this one has bags more character and is an easy stroll from the downtown core. If you drive: Parking is tricky here, but if you do find street parking, use the app or risk a fine from the overly diligent parking enforcement team.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25756058/WickedCafe_Insta.png?quality=90&strip=all&crop=0,13.950617283951,100,72.098765432099",
+          "imageUrl": "/images/restaurants/wicked-cafe.png",
           "latitude": 49.265432,
           "longitude": -123.135854
         }
@@ -6112,7 +6112,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "For years, if you wanted to eat at this stylish, locals’ Vietnamese spot on Main, you’d have to queue. In a pandemic pivot, Anh and Chi began accepting reservations, bookable with a $10 charity donation. Everything on the menu is bursting with fresh flavors and perfectly balanced in terms of spice and heat. Portions are wildly generous, so order everything for the table. Must-orders include custardy bánh khot prawn cakes wrapped in crispy rice and the fun, finger-licking DIY platter of khay bánh hỏi lụi nướng. It’s worth considering takeout, which gives you access to the very good wine list at 50 percent off. Know before you go: Pop in to sister-bar Good Thief next door for creative cocktails and maybe a few binchotan-grilled skewers.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24406405/Anh_and_Chi_Streetside_Platter_Photographed_by_Leila_Kwok_1.jpg?quality=90&strip=all&crop=0,0.024402147388969,100,99.951195705222",
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg",
           "latitude": 49.254986,
           "longitude": -123.100861
         },
@@ -6140,7 +6140,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Chambar alumna Tannis Ling combined forces with chef Joël Watanabe, who brings his Corsican-Japanese heritage to this popular Chinatown restaurant. It may look like a hipster take on a Chinese brasserie, but the sound of woks crashing in the kitchen speaks to its traditional techniques. Sharing plates are pleasingly well-sized and the cocktails thoughtfully crafted, and — because it’s Vancouver — all meat is local and ethically raised, hormone- and chemical-free. Don’t miss local legend Helen’s delicate hand-made potstickers and dumplings — she makes hundreds of perfect dumplings each day — and the appropriately named Kick Ass House-Fried Rice. Must-try dish: Beef tartare. It’s absolutely incredible with crisp taro chips and punchy mustard root.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19588000/bao_bei.jpg?quality=90&strip=all&crop=16.85,0,66.3,100",
+          "imageUrl": "/images/restaurants/bao-bei.jpg",
           "latitude": 49.279701,
           "longitude": -123.100998
         },
@@ -6154,7 +6154,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "After the much-loved Juice Bar shuttered, long-time server Lindsay Otto took over and re-opened the place as Bar Tartare. Located in the same space as the popular Birds and the Beets cafe, the bar stocks its fridges with unfined, unfiltered, natural, and low-intervention wines from B.C. and beyond. Expect knowledgeable servers to cheerily exclaim “Try this!” as they pop corks (or unscrew caps). Given the bar’s name, you’ll have to try the tartare (the bison is superb, with plenty of zingy flavor and crunchy textures), but check out nightly specials from the rotating crew of guest chefs. Best for: Exciting pop-ups with some of the city’s most talented young chefs.",
-          "imageUrl": "",
+          "imageUrl": "/images/restaurants/bar-tartare.jpg",
           "latitude": 49.283644,
           "longitude": -123.102475
         },
@@ -6182,7 +6182,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Andrea Carlson’s resume reads like a rundown of every restaurant that helped shape Vancouver’s fresh, local, and sustainable style: C, Raincity Grill, Sooke Harbour House, Bishop’s — she’s worked at them all. You’ll find a shining example of British Columbia-based, casual fine dining at her Michelin-starred restaurant, Burdock & Co, which offers a tasting menu of locavore, ultra-seasonal dishes that pair perfectly with the tight, natural-leaning wine list. Favorites come and go on the five-course menu, but add on an order of the fan-favorite buttermilk fried chicken with dill pickle powder, or go big with sustainably sourced Northern Divine sturgeon caviar with tater tots and a shot of aquavit. Know before you go: Burdock & Co is closed on Tuesdays and Wednesdays.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24855107/burdock_2.png?quality=90&strip=all&crop=0,27.777777777778,100,44.444444444444",
+          "imageUrl": "/images/restaurants/burdock-co.jpg",
           "latitude": 49.261002,
           "longitude": -123.100998
         },
@@ -6224,7 +6224,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Industry veterans opened this much-anticipated, neighborhood tapas bar to rave reviews in late 2018, bagging the coveted No. 2 spot on Air Canada enRoute’s Best New Restaurant of the Year list in 2019, along with every local award going. It’s no wonder, given Cómo delivers a truly delicious experience including on-tap vermouth and bone-dry fino sherry, free tapas at the bar during happy hour with a drink purchase (4-5 p.m.), superb hard cheeses, and crisp patatas bravas striped with mayo and spicy tomato sauce. The room is loud and friendly, with efficient cheery service, and although you can make reservations for the rest of the room, the patio is first come, first served. Enjoy a brief trip to Spain at the handsome bar before heading back out to Vancouver. Know before you go: If you go with a big group, try to score the back booth and share your way through the tapas menu.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19543174/como_taperia.jpg?quality=90&strip=all&crop=0,23.333333333333,100,53.333333333333",
+          "imageUrl": "/images/restaurants/como-taperia.jpg",
           "latitude": 49.26474,
           "longitude": -123.100624
         },
@@ -6238,7 +6238,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Grab a cab to Hastings-Sunrise to find joyful hospitality, fun low-intervention wines, and sake at Dachi, along with thoughtful, seasonal small plates featuring ingredients ranging from fresh (kale buds) to luxurious (tonkatsu-fried pork cutlets). In the summertime, the restaurant shifts operations out to the buzzing patio on East Hastings Street, but through fall and winter the action heads back indoors. Dachi is a true neighborhood spot, and locals are always dropping in for something from the ever-changing bottle shop. The team also operates Mucker Next Door — literally next door — which sells covetable homewares, artsy wine magazines and books, aromatic beef fat from sibling restaurant Elephant, and rose-gold cake servers. Vibe check: Natty wine warriors, assemble.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24625804/Dachi.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/dachi.jpg",
           "latitude": 49.281472,
           "longitude": -123.05796
         },
@@ -6280,7 +6280,7 @@
           "openFor": "Dim sum and dinner",
           "priceRange": "$$$",
           "descriptionText": "Dynasty boasts twinkling chandeliers, views over the city from its first-floor perch on West Broadway, and, thanks to chef Sam Leung, some of the city’s best modern Chinese food. Open daily from 10 a.m. for dim sum, its standouts are the buttery barbecue pork cha siu bao with baked lemon, and the silky, wafer-thin dumplings stuffed with fresh shrimp, scallops, and black truffles. Dinner features a “24-hours notice” menu, with Cantonese delights such as mushroom-braised duck. Service skews more efficient than hospitable, but the food easily makes up for it. Know before you go: If you’re dining in a large group, check out the banquet menus, which offer a good value multicourse option.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10271705/dynastyseafood_crabtower2.0__1_.jpg?quality=90&strip=all&crop=0.010869565217384,0,99.978260869565,100",
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg",
           "latitude": 49.263802,
           "longitude": -123.122002
         },
@@ -6294,7 +6294,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "The latest addition to the Published on Main and Bar Susu family takes its rightful place here on the 38. El Gato Gab Gab, a truly excellent modern Mexican botanero, serves snacks and agave-forward cocktails. This is the place for the best margarita on Main, which comes slushy-style on crushed ice. Don’t overlook the cheffy takes on Mexican bar snacks like chicken skin chilaquiles and pork jowl chicharron. With industry veteran Joe Casson providing a steady hand on the tiller, this is the essential destination for your first or last drink of the night. Vibe check: Visit to see why Mount Pleasant is Vancouver’s hipster central.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25917121/El_Gato_Bar___credit_Sarah_Annand.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/el-gato-gab-gab.jpg",
           "latitude": 49.261374,
           "longitude": -123.100881
         },
@@ -6308,7 +6308,7 @@
           "openFor": "Dim sum and dinner",
           "priceRange": "$$",
           "descriptionText": "Take a 20-minute trip on the Skytrain from downtown to the neighboring city of Richmond, which Eater’s former roving critic, Bill Addison, called “one of the cultural marvels of North America” for having some of the finest Asian food in the world. At this award-winning favorite, the dim sum is handmade by chef-owner May Chau, who focuses on Hong Kong classics: steamed pork and crab dumplings, pan-fried pork buns, and deep-fried wontons — all must-orders. If you drive: There is plenty of free street parking available.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10271703/goldenparamount_beefchowfun.0__1_.jpg?quality=90&strip=all&crop=0.010869565217384,0,99.978260869565,100",
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg",
           "latitude": 49.16367,
           "longitude": -123.134918
         },
@@ -6322,7 +6322,7 @@
           "openFor": "Breakfast through early dinner",
           "priceRange": "$",
           "descriptionText": "Sure the aisles are packed with wide-eyed Instagrammers at this popular tourist destination, but there are some jewels to be found here to assemble a superb picnic for watching the boats and paddle boarders on False Creek. Take your pick from delights such as pickled headcheese, succulent mortadella, and punchy salami at the Oyama Sausage Co, then head to Terra Bread to pick up some focaccia or baguettes before stocking up on local Salt Spring Island cheeses at Benton Brothers and fresh doughnuts at Lee’s. Vibe check: Leave your cool at the door. It’s fun being a tourist here, so enjoy the free samples and don’t block the aisles for too long snapping photos.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880067/Vancouver-Granville_Island_-_FB.0.png?quality=90&strip=all&crop=7.8125,0,84.375,100",
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg",
           "latitude": 49.2724,
           "longitude": -123.135002
         },
@@ -6350,7 +6350,7 @@
           "openFor": "All day",
           "priceRange": "$",
           "descriptionText": "Since Vancouver’s food trucks were legalized a decade ago, they’ve enjoyed a rollercoaster ride through fads and fortunes. Favorites have come and gone, as the ranks of dozens have slimmed to a handful; much-loved trucks such as Soho Road, the Kaboom Box, and Top Rope Birria have rolled off the road. But elder statesman Japadog abides. It’s always worth checking one of the six food truck locations (including one at the airport) and four stores, especially the original at the junction of Burrard Street and Smithe Street. Snap up one of the signature all-beef Terimayo dogs with teriyaki sauce, Japanese mayo, and seaweed to see why the brand has lasted the course. Anthony Bourdain loved this budget treat on the No Reservations Vancouver episode, noting wisely, “If life has taught us anything, it’s to eat meat in tube form.” Know before you go: Gobbling down Japadog before you go through departures at YVR is the breakfast of champions.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25069234/Japadog_Facebook.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/japadog.jpg",
           "latitude": 49.282197,
           "longitude": -123.124147
         },
@@ -6364,7 +6364,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$",
           "descriptionText": "On the search for a superb ooey-gooey smash burger and great beers? Look no further than the very excellent Kapow Burger, based at the equally splendid Electric Bicycle Brewing, which is tucked away in the funky ex-warehouse district of Mount Pleasant. Choose from six piled-high burgers (including a chicken burger and a vegetarian sweet potato version) topped with items like pickled jalapenos and crispy bacon. The Kapow with fried onions and cheese is gloriously messy, and it pairs perfectly with a generous serving of tater tots doused in cheese and the Big Mac-like Kapow sauce. In the brewery, pick from an array of on-tap regulars (the Atomic Jam Raspberry Sour is rightly a house favorite) and fruity, bright, seasonal specials. If you drive: Don’t even try to find street parking. Use one of the nearby lots.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25274515/KapowBurger_NikkiBayley.jpg?quality=90&strip=all&crop=0,7.4489502444636,100,85.102099511073",
+          "imageUrl": "/images/restaurants/kapow-burger.jpg",
           "latitude": 49.267088,
           "longitude": -123.104243
         },
@@ -6378,7 +6378,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Kissa Tanto scored a Michelin star in Vancouver’s inaugural awards. The pitch-perfect pairing of Japanese and Italian cuisines comes together in a funky, second-story space in Chinatown, a few steps away from the restaurant’s sibling crowd-pleaser, Bao Bei. The menu is small enough to make you want to order everything: the exquisite pasta made in-house; the show-stopping whole fish served fins and all, which arrives puffed, hot, and crisp from the fryer along with a daikon-soy dipping sauce; a deceptively simple salad seamlessly fusing kombu dashi and pecorino. Reservations are essential. Best for: Group meals; try everything.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880057/Vancouver-Kissa_Tanto.0.png?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg",
           "latitude": 49.28055,
           "longitude": -123.098127
         },
@@ -6406,7 +6406,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Lila is a joyful collaboration between two of the city’s most important chef-owners, good friends Meeru Dhalwala (Vij’s) and Shira Blustein (the Acorn), known for their long-time championing of sustainability, community building, and mentorship and support of women in hospitality. Located on the “Michelin Mile” strip of Main Street and boasting one of the city’s best hidden patio gardens, Lila brings Dhalwala’s modern Indian cuisine and Blustein’s plant-based sensibility together for truly plate-licking results in a slender charcoal-grey and sage-green room festooned with leafy plants. The menu prioritizes plants, plus some dairy and sustainable seafood, and it begs to be shared, so don’t be shy in ordering one or two extra dishes — you haven’t lived till you’ve devoured cold garam masala-marinated jackfruit for breakfast. Whatever you do, always make room for the potato and cauliflower pakoras with bright mango-and-mint chutney. Best for: Vegetarian or vegan tasting menu dining.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25756061/Lila_Lila.jpg?quality=90&strip=all&crop=0,24.995024875622,100,50.009950248756",
+          "imageUrl": "/images/restaurants/lila.jpg",
           "latitude": 49.249969,
           "longitude": -123.101357
         },
@@ -6420,7 +6420,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$$",
           "descriptionText": "One of the city’s hardest working chefs, Angus An has five other spots dotted across the city, including Fat Mao, which serves blissful noodles in Chinatown and Downtown, as well as Longtail Kitchen and Sen Pad Thai. But if you only have time to visit one of his restaurants, go for Maenam, where you can drool over An’s deft balancing act of sweet, aromatic, citrusy, hot, and spicy flavors in great Thai dishes with B.C. twists. Walk-ins are welcome in the lounge for an a la carte dinner, but it’s worth it to book the chef’s menu, a bargain at $88 ($65 USD) per person for 11 dishes served family style. Four-course lunch sets are also a terrific value. Must-try dish: The grilled Thai sausage and crispy rice salad is so good you won’t want to share.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24618802/Maenam_AlainaMichellePhotography.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/maenam.jpg",
           "latitude": 49.267948,
           "longitude": -123.148911
         },
@@ -6434,7 +6434,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Don’t worry, the queues for this West End ramen favorite move fast, and it’s always worth the wait — especially if you’re a noodle fan. Each day this small ramen shop makes 500 4.4-ounce balls of noodles, which rest for 24 hours before being cooked and slurped up. Hailing from Japan, Maruhachi favors a silky rich chicken broth over the heavier pork-based tonkotsu. Prepare to be enchanted — and don’t miss out on the egg. It’s consistently the best in the city. Know before you go: As the Maruhachi empire grows to several ramen-ya, check the website for details on specials only available at specific locations.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070805/Maruhchi.jpeg?quality=90&strip=all&crop=0,16.666666666667,100,66.666666666667",
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg",
           "latitude": 49.2906,
           "longitude": -123.133003
         },
@@ -6448,7 +6448,7 @@
           "openFor": "Lunch and dinner, with brunch on weekends",
           "priceRange": "$",
           "descriptionText": "This loudly bustling spot on Cambie blends Japanese and Mexican cuisines. Chashu-style carnitas shine in gloriously messy tacos thanks to meltingly tender, just-fatty-enough pork and zippy pineapple relish. Load up the kimchi-nacho fries with birria and a fried egg, and obviously add instant ramen to your birria-dilla consomé. There’s also a daily happy hour, which offers well-priced cocktails, tacos, and an intriguing combo of shrimp crackers and guacamole. Must try dish: It’s almost worth having a hangover just to enjoy the reviving properties of the Mexican Oyakodon at brunch.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25582439/MisoTaco__1_.jpg?quality=90&strip=all&crop=0,42.318392098025,100,50.012503125781",
+          "imageUrl": "/images/restaurants/miso-taco.jpg",
           "latitude": 49.254353,
           "longitude": -123.114776
         },
@@ -6476,7 +6476,7 @@
           "openFor": "Late lunch and dinner",
           "priceRange": "$",
           "descriptionText": "Distilling is still something of a new art in B.C. thanks to its antiquated, post-prohibition booze laws, which only got a refresh in 2013. Odd Society joined the first wave of new distilleries, and it has remained a must-visit and one of the most consistent producers of craft spirits, including gin, vodka, vermouth, and whisky. Check out the cute cocktail lounge at their East Van distillery, located in a converted motorbike garage, and road-test a few spirits before heading out to explore the many neighboring breweries of “Yeast Van.” Know before you go: The affordable bar snacks here include locally made Jamaican hand pies and Dicky’s Dumps dumplings.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22687118/OddSocietySpirits_BarrelArtProject_DSCF3433_PhotoAnjaliSpooner.jpg?quality=90&strip=all&crop=0,0.0089992800575942,100,99.982001439885",
+          "imageUrl": "/images/restaurants/odd-society-spirits.jpg",
           "latitude": 49.284111,
           "longitude": -123.069611
         },
@@ -6490,7 +6490,7 @@
           "openFor": "Dinner, with brunch on weekends",
           "priceRange": "$$$",
           "descriptionText": "Don’t be intimidated by the dramatic entryway with dripping wax candelabras. Ophelia is a very welcoming modern Mexican spot with notably great service in the often-overlooked Olympic Village part of the city. Come for the solid margarita program (especially for Margarita Monday deals) and on-point creative cocktails in a busy room decorated with folk art. Stay for the excellent skirt steak tacos with roasted bone marrow and deliciously complex burned salsa, or the popular weekend brunch with punchy chilaquiles. Don’t skip the tres leches with pistachio crumble and lime-infused whipped cream. Best for: Late-night happy hour.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24852148/Ophelia_NikkiBayley1.jpeg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/ophelia.jpg",
           "latitude": 49.269593,
           "longitude": -123.108142
         },
@@ -6504,7 +6504,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "It was already a Vancouver tradition to join the queues outside this well-priced Vietnamese Cambodian spot in Chinatown — but then the restaurant scored a Michelin Bib Gourmand and the demand has only intensified. The menu is enormous, so save yourself from the agonies of choice and order the deep-fried crunchy chicken wings (with an amazing dipping sauce), the Instagram-ready platter of thit bò butter beef, and the beef lúc lắc with egg and rice. And yeah, okay, maybe some garlic squid too. Pro-tip: Wear comfy shoes for the line. Know before you go: It’s closed on Tuesdays.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19544805/phnom_penh.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/phnom-penh.jpg",
           "latitude": 49.2785,
           "longitude": -123.098
         },
@@ -6532,7 +6532,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Pidgin seamlessly blends the bounty of the Pacific Northwest with French techniques and Asian influences. Although the place is perfect for bar snacks — the gochujang chicken wings are the best in the city — and genuinely thrilling for creative cocktails with ingredients such as toasted rice rum and gunpowder tea gomme, go with the prix fixe, which offers exceptional value with seven inventive mini courses for 105 Canadian dollars (about $73) per person. Whisky and sake fans will love the selection, and the wine list offers global gems too. Best for: Book the chef’s table, which gives you a front row seat to all the action.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880085/Vancouver-pidgin.0.jpeg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/pidgin.jpg",
           "latitude": 49.281799,
           "longitude": -123.105003
         },
@@ -6546,7 +6546,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$$",
           "descriptionText": "Chef Gus Stieffenhofer-Brandson and team are unstoppable juggernauts, scooping up every prize, from a Michelin star in the city’s inaugural awards to the No. 1 spot in Canada’s 100 Best Restaurants in 2022. You’ll need to plan far in advance (reservations open 60 days ahead and sell out in a few hours) or eat at 5 p.m. to discover what alchemy is afoot here, but it would be churlish to leave Published off the list just because it’s challenging to get a seat. At $165 ($123 USD) plus tax and tip, the superb tasting menu is one of the most expensive in the city. If you’re on a budget, you can still dive into the playfully experimental dishes by going a la carte or picking up a snack at the bar. Just try not to fall in love with any menu items, as dishes switch up often. Vibe check: In an ultra-casual city like Vancouver, Published offers a chance to get ever-so-slightly formal, although yoga pants are still welcome.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24406406/Published_credit_Sarah_Annand.jpeg?quality=90&strip=all&crop=0,0.01860119047619,100,99.962797619048",
+          "imageUrl": "/images/restaurants/published-on-main.jpg",
           "latitude": 49.252876,
           "longitude": -123.101219
         },
@@ -6560,7 +6560,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$",
           "descriptionText": "Sashimiya opened in 2020, tucked away on the bottom of Hornby Street. The ultra-casual, entirely sustainable, grab-and-go sushi and sashimi shop is sushi master chef Taka Omi’s first solo spot after leaving the Fairmont Pacific Rim’s RawBar. Fish can be sliced to order for sashimi from the chillers, and a host of Japanese grocery goodies are on offer too. There are no seats, so take your exquisitely made party trays, platters, and bentos down to the waterfront to enjoy picnic-style, or order for delivery. Must-try dish: Seasonal treats such as spot prawns or locally harvested uni.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22642765/Sashimiya.jpg?quality=90&strip=all&crop=0,8.3333333333333,100,83.333333333333",
+          "imageUrl": "/images/restaurants/sashimiya.jpg",
           "latitude": 49.276703,
           "longitude": -123.130363
         },
@@ -6616,7 +6616,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Chef Vikram Vij is a huge star, with a stint as an investor on Dragon’s Den, the reality show for aspiring entrepreneurs, and a national range of prepackaged gourmet frozen curries to his name. Vij has created a fine dining Indian restaurant where you can feast on ambrosial curries utilizing local ingredients and hand-ground spices, paired with B.C. wines and funky cocktails. Pre-pandemic, the queue for a table might have included luminaries such as ex-Prime Minister Pierre Trudeau or Harrison Ford, but now you can make a reservation and skip the wait. Don’t miss the lamb popsicles. Know before you go: Don’t snooze on the cocktail menu. It’s packed with savory drinks to pair with curry.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880037/vijs-vancouver.0.jpg?quality=90&strip=all&crop=0.01220703125,0,99.9755859375,100",
+          "imageUrl": "/images/restaurants/vijs.jpg",
           "latitude": 49.2575,
           "longitude": -123.114998
         },
@@ -6630,7 +6630,7 @@
           "openFor": "Breakfast through late lunch",
           "priceRange": "$",
           "descriptionText": "At this Fairview neighborhood cafe, expect innovative bakes designed to melt down your socials and delight your taste buds, including a Tom and Jerry-style cheesecake (which looks like a cartoon cheese wedge and tastes like heaven), cute Nanaimo bar-inspired igloo cakes, and a blue pond-glazed creme brulee with a chocolate rubber duckie floating in it. Snacks and coffee here are excellent too — seasonally inspired latte art is on point, and the creative team drops new creations every few weeks. Wicked Cafe has a second location in West Point Grey, but this one has bags more character and is an easy stroll from the downtown core. If you drive: Parking is tricky here, but if you do find street parking, use the app or risk a fine from the overly diligent parking enforcement team.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25756058/WickedCafe_Insta.png?quality=90&strip=all&crop=0,13.950617283951,100,72.098765432099",
+          "imageUrl": "/images/restaurants/wicked-cafe.png",
           "latitude": 49.265432,
           "longitude": -123.135854
         }
@@ -6651,7 +6651,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "For years, if you wanted to eat at this stylish, locals’ Vietnamese spot on Main, you’d have to queue. In a pandemic pivot, Anh and Chi began accepting reservations, bookable with a $10 charity donation. Everything on the menu is bursting with fresh flavors and perfectly balanced in terms of spice and heat. Portions are wildly generous, so order everything for the table. Must-orders include custardy bánh khot prawn cakes wrapped in crispy rice and the fun, finger-licking DIY platter of khay bánh hỏi lụi nướng. It’s worth considering takeout, which gives you access to the very good wine list at 50 percent off. Know before you go: Pop in to sister-bar Good Thief next door for creative cocktails and maybe a few binchotan-grilled skewers.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24406405/Anh_and_Chi_Streetside_Platter_Photographed_by_Leila_Kwok_1.jpg?quality=90&strip=all&crop=0,0.024402147388969,100,99.951195705222",
+          "imageUrl": "/images/restaurants/anh-and-chi.jpg",
           "latitude": 49.254986,
           "longitude": -123.100861
         },
@@ -6679,7 +6679,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Chambar alumna Tannis Ling combined forces with chef Joël Watanabe, who brings his Corsican-Japanese heritage to this popular Chinatown restaurant. It may look like a hipster take on a Chinese brasserie, but the sound of woks crashing in the kitchen speaks to its traditional techniques. Sharing plates are pleasingly well-sized and the cocktails thoughtfully crafted, and — because it’s Vancouver — all meat is local and ethically raised, hormone- and chemical-free. Don’t miss local legend Helen’s delicate hand-made potstickers and dumplings — she makes hundreds of perfect dumplings each day — and the appropriately named Kick Ass House-Fried Rice. Must-try dish: Beef tartare. It’s absolutely incredible with crisp taro chips and punchy mustard root.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19588000/bao_bei.jpg?quality=90&strip=all&crop=16.85,0,66.3,100",
+          "imageUrl": "/images/restaurants/bao-bei.jpg",
           "latitude": 49.279701,
           "longitude": -123.100998
         },
@@ -6693,7 +6693,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "After the much-loved Juice Bar shuttered, long-time server Lindsay Otto took over and re-opened the place as Bar Tartare. Located in the same space as the popular Birds and the Beets cafe, the bar stocks its fridges with unfined, unfiltered, natural, and low-intervention wines from B.C. and beyond. Expect knowledgeable servers to cheerily exclaim “Try this!” as they pop corks (or unscrew caps). Given the bar’s name, you’ll have to try the tartare (the bison is superb, with plenty of zingy flavor and crunchy textures), but check out nightly specials from the rotating crew of guest chefs. Best for: Exciting pop-ups with some of the city’s most talented young chefs.",
-          "imageUrl": "",
+          "imageUrl": "/images/restaurants/bar-tartare.jpg",
           "latitude": 49.283644,
           "longitude": -123.102475
         },
@@ -6707,7 +6707,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "After recently celebrating their 25th anniversary, it’s worth re-visiting the consistent culinary delights of one of Vancouver’s most cherished restaurants. Seafood is the star at this Yaletown institution, whether it’s raw from the sushi bar or cooked from the open kitchen. Chef Frank Pabst and team are one of Canada’s leading lights in the responsible seafood movement, and they push the culinary envelope a little further each February with their Unsung Heroes festival, which celebrates lesser-known species, encouraging diners to broaden their palates and try more sustainable options like poached periwinkles and red sea urchin trifle. Year-round, the service is superb, the wine list dizzyingly wonderful, and the BC seafood towers a splurge meal you’ll adore. Best for: Pushing the boat out: Yes, it’s a little pricey, but it’s also reliably wonderful, so if it has to be perfect (with a decent percentage chance of spotting one of the Canucks players), this is your place.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880095/blue-water-cafe-vancouver.0.jpg?quality=90&strip=all&crop=0,10.264900662252,100,79.470198675497",
+          "imageUrl": "/images/restaurants/blue-water-cafe.jpg",
           "latitude": 49.276219,
           "longitude": -123.12113
         },
@@ -6735,7 +6735,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Andrea Carlson’s resume reads like a rundown of every restaurant that helped shape Vancouver’s fresh, local, and sustainable style: C, Raincity Grill, Sooke Harbour House, Bishop’s — she’s worked at them all. You’ll find a shining example of British Columbia-based, casual fine dining at her Michelin-starred restaurant, Burdock & Co, which offers a tasting menu of locavore, ultra-seasonal dishes that pair perfectly with the tight, natural-leaning wine list. Favorites come and go on the five-course menu, but add on an order of the fan-favorite buttermilk fried chicken with dill pickle powder, or go big with sustainably sourced Northern Divine sturgeon caviar with tater tots and a shot of aquavit. Know before you go: Burdock & Co is closed on Tuesdays and Wednesdays.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24855107/burdock_2.png?quality=90&strip=all&crop=0,27.777777777778,100,44.444444444444",
+          "imageUrl": "/images/restaurants/burdock-co.jpg",
           "latitude": 49.261002,
           "longitude": -123.100998
         },
@@ -6749,7 +6749,7 @@
           "openFor": "Breakfast, brunch, and lunch",
           "priceRange": "$$",
           "descriptionText": "For more than a decade, the correct answer to “where shall we go for mid-week brunch?” has been Cafe Medina. It’s a beloved city institution — and for once, the long lines out front reflect the quality of the food within. Medina’s superb takes on Mediterranean brunch flavors such as harissa-spiked ground beef, spicy Moroccan lamb meatballs, and the juicy bacon joy of the Wolves Breakfast justify the hype. The inventive house cocktails and zero-proof drinks are delicious, the waffles even better, and the fresh-made flatbreads with mascarpone, black pepper, and honey are one of life’s simple pleasures. Know before you go: It’s always packed at prime brunch time, but you can make reservations with a $10 per person charitable donation if you want to do some good in the community and avoid queues.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/2025/10/Cafe-MedinaCredit-Nikki-Bayley.jpeg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/cafe-medina.jpg",
           "latitude": 49.280498,
           "longitude": -123.116863
         },
@@ -6791,7 +6791,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Industry veterans opened this much-anticipated, neighborhood tapas bar to rave reviews in late 2018, bagging the coveted No. 2 spot on Air Canada enRoute’s Best New Restaurant of the Year list in 2019, along with every local award going. It’s no wonder, given Cómo delivers a truly delicious experience including on-tap vermouth and bone-dry fino sherry, free tapas at the bar during happy hour with a drink purchase (4-5 p.m.), superb hard cheeses, and crisp patatas bravas striped with mayo and spicy tomato sauce. The room is loud and friendly, with efficient cheery service, and although you can make reservations for the rest of the room, the patio is first come, first served. Enjoy a brief trip to Spain at the handsome bar before heading back out to Vancouver. Know before you go: If you go with a big group, try to score the back booth and share your way through the tapas menu.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19543174/como_taperia.jpg?quality=90&strip=all&crop=0,23.333333333333,100,53.333333333333",
+          "imageUrl": "/images/restaurants/como-taperia.jpg",
           "latitude": 49.26474,
           "longitude": -123.100624
         },
@@ -6805,7 +6805,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Grab a cab to Hastings-Sunrise to find joyful hospitality, fun low-intervention wines, and sake at Dachi, along with thoughtful, seasonal small plates featuring ingredients ranging from fresh (kale buds) to luxurious (tonkatsu-fried pork cutlets). In the summertime, the restaurant shifts operations out to the buzzing patio on East Hastings Street, but through fall and winter the action heads back indoors. Dachi is a true neighborhood spot, and locals are always dropping in for something from the ever-changing bottle shop. The team also operates Mucker Next Door — literally next door — which sells covetable homewares, artsy wine magazines and books, aromatic beef fat from sibling restaurant Elephant, and rose-gold cake servers. Vibe check: Natty wine warriors, assemble.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24625804/Dachi.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/dachi.jpg",
           "latitude": 49.281472,
           "longitude": -123.05796
         },
@@ -6847,7 +6847,7 @@
           "openFor": "Dim sum and dinner",
           "priceRange": "$$$",
           "descriptionText": "Dynasty boasts twinkling chandeliers, views over the city from its first-floor perch on West Broadway, and, thanks to chef Sam Leung, some of the city’s best modern Chinese food. Open daily from 10 a.m. for dim sum, its standouts are the buttery barbecue pork cha siu bao with baked lemon, and the silky, wafer-thin dumplings stuffed with fresh shrimp, scallops, and black truffles. Dinner features a “24-hours notice” menu, with Cantonese delights such as mushroom-braised duck. Service skews more efficient than hospitable, but the food easily makes up for it. Know before you go: If you’re dining in a large group, check out the banquet menus, which offer a good value multicourse option.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10271705/dynastyseafood_crabtower2.0__1_.jpg?quality=90&strip=all&crop=0.010869565217384,0,99.978260869565,100",
+          "imageUrl": "/images/restaurants/dynasty-seafood-restaurant.jpg",
           "latitude": 49.263802,
           "longitude": -123.122002
         },
@@ -6861,7 +6861,7 @@
           "openFor": "Dim sum and dinner",
           "priceRange": "$$",
           "descriptionText": "Take a 20-minute trip on the Skytrain from downtown to the neighboring city of Richmond, which Eater’s former roving critic, Bill Addison, called “one of the cultural marvels of North America” for having some of the finest Asian food in the world. At this award-winning favorite, the dim sum is handmade by chef-owner May Chau, who focuses on Hong Kong classics: steamed pork and crab dumplings, pan-fried pork buns, and deep-fried wontons — all must-orders. If you drive: There is plenty of free street parking available.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10271703/goldenparamount_beefchowfun.0__1_.jpg?quality=90&strip=all&crop=0.010869565217384,0,99.978260869565,100",
+          "imageUrl": "/images/restaurants/golden-paramount-seafood-restaurant.jpg",
           "latitude": 49.16367,
           "longitude": -123.134918
         },
@@ -6875,7 +6875,7 @@
           "openFor": "Breakfast through early dinner",
           "priceRange": "$",
           "descriptionText": "Sure the aisles are packed with wide-eyed Instagrammers at this popular tourist destination, but there are some jewels to be found here to assemble a superb picnic for watching the boats and paddle boarders on False Creek. Take your pick from delights such as pickled headcheese, succulent mortadella, and punchy salami at the Oyama Sausage Co, then head to Terra Bread to pick up some focaccia or baguettes before stocking up on local Salt Spring Island cheeses at Benton Brothers and fresh doughnuts at Lee’s. Vibe check: Leave your cool at the door. It’s fun being a tourist here, so enjoy the free samples and don’t block the aisles for too long snapping photos.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880067/Vancouver-Granville_Island_-_FB.0.png?quality=90&strip=all&crop=7.8125,0,84.375,100",
+          "imageUrl": "/images/restaurants/granville-island-public-market.jpg",
           "latitude": 49.2724,
           "longitude": -123.135002
         },
@@ -6903,7 +6903,7 @@
           "openFor": "All day",
           "priceRange": "$",
           "descriptionText": "Since Vancouver’s food trucks were legalized a decade ago, they’ve enjoyed a rollercoaster ride through fads and fortunes. Favorites have come and gone, as the ranks of dozens have slimmed to a handful; much-loved trucks such as Soho Road, the Kaboom Box, and Top Rope Birria have rolled off the road. But elder statesman Japadog abides. It’s always worth checking one of the six food truck locations (including one at the airport) and four stores, especially the original at the junction of Burrard Street and Smithe Street. Snap up one of the signature all-beef Terimayo dogs with teriyaki sauce, Japanese mayo, and seaweed to see why the brand has lasted the course. Anthony Bourdain loved this budget treat on the No Reservations Vancouver episode, noting wisely, “If life has taught us anything, it’s to eat meat in tube form.” Know before you go: Gobbling down Japadog before you go through departures at YVR is the breakfast of champions.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25069234/Japadog_Facebook.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/japadog.jpg",
           "latitude": 49.282197,
           "longitude": -123.124147
         },
@@ -6917,7 +6917,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Kissa Tanto scored a Michelin star in Vancouver’s inaugural awards. The pitch-perfect pairing of Japanese and Italian cuisines comes together in a funky, second-story space in Chinatown, a few steps away from the restaurant’s sibling crowd-pleaser, Bao Bei. The menu is small enough to make you want to order everything: the exquisite pasta made in-house; the show-stopping whole fish served fins and all, which arrives puffed, hot, and crisp from the fryer along with a daikon-soy dipping sauce; a deceptively simple salad seamlessly fusing kombu dashi and pecorino. Reservations are essential. Best for: Group meals; try everything.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880057/Vancouver-Kissa_Tanto.0.png?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/kissa-tanto.jpg",
           "latitude": 49.28055,
           "longitude": -123.098127
         },
@@ -6945,7 +6945,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Lila is a joyful collaboration between two of the city’s most important chef-owners, good friends Meeru Dhalwala (Vij’s) and Shira Blustein (the Acorn), known for their long-time championing of sustainability, community building, and mentorship and support of women in hospitality. Located on the “Michelin Mile” strip of Main Street and boasting one of the city’s best hidden patio gardens, Lila brings Dhalwala’s modern Indian cuisine and Blustein’s plant-based sensibility together for truly plate-licking results in a slender charcoal-grey and sage-green room festooned with leafy plants. The menu prioritizes plants, plus some dairy and sustainable seafood, and it begs to be shared, so don’t be shy in ordering one or two extra dishes — you haven’t lived till you’ve devoured cold garam masala-marinated jackfruit for breakfast. Whatever you do, always make room for the potato and cauliflower pakoras with bright mango-and-mint chutney. Best for: Vegetarian or vegan tasting menu dining.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25756061/Lila_Lila.jpg?quality=90&strip=all&crop=0,24.995024875622,100,50.009950248756",
+          "imageUrl": "/images/restaurants/lila.jpg",
           "latitude": 49.249969,
           "longitude": -123.101357
         },
@@ -6959,7 +6959,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$$",
           "descriptionText": "One of the city’s hardest working chefs, Angus An has five other spots dotted across the city, including Fat Mao, which serves blissful noodles in Chinatown and Downtown, as well as Longtail Kitchen and Sen Pad Thai. But if you only have time to visit one of his restaurants, go for Maenam, where you can drool over An’s deft balancing act of sweet, aromatic, citrusy, hot, and spicy flavors in great Thai dishes with B.C. twists. Walk-ins are welcome in the lounge for an a la carte dinner, but it’s worth it to book the chef’s menu, a bargain at $88 ($65 USD) per person for 11 dishes served family style. Four-course lunch sets are also a terrific value. Must-try dish: The grilled Thai sausage and crispy rice salad is so good you won’t want to share.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24618802/Maenam_AlainaMichellePhotography.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/maenam.jpg",
           "latitude": 49.267948,
           "longitude": -123.148911
         },
@@ -6973,7 +6973,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "Don’t worry, the queues for this West End ramen favorite move fast, and it’s always worth the wait — especially if you’re a noodle fan. Each day this small ramen shop makes 500 4.4-ounce balls of noodles, which rest for 24 hours before being cooked and slurped up. Hailing from Japan, Maruhachi favors a silky rich chicken broth over the heavier pork-based tonkotsu. Prepare to be enchanted — and don’t miss out on the egg. It’s consistently the best in the city. Know before you go: As the Maruhachi empire grows to several ramen-ya, check the website for details on specials only available at specific locations.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070805/Maruhchi.jpeg?quality=90&strip=all&crop=0,16.666666666667,100,66.666666666667",
+          "imageUrl": "/images/restaurants/maruhachi-ra-men.jpg",
           "latitude": 49.2906,
           "longitude": -123.133003
         },
@@ -6987,7 +6987,7 @@
           "openFor": "Lunch and dinner, with brunch on weekends",
           "priceRange": "$",
           "descriptionText": "This loudly bustling spot on Cambie blends Japanese and Mexican cuisines. Chashu-style carnitas shine in gloriously messy tacos thanks to meltingly tender, just-fatty-enough pork and zippy pineapple relish. Load up the kimchi-nacho fries with birria and a fried egg, and obviously add instant ramen to your birria-dilla consomé. There’s also a daily happy hour, which offers well-priced cocktails, tacos, and an intriguing combo of shrimp crackers and guacamole. Must try dish: It’s almost worth having a hangover just to enjoy the reviving properties of the Mexican Oyakodon at brunch.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25582439/MisoTaco__1_.jpg?quality=90&strip=all&crop=0,42.318392098025,100,50.012503125781",
+          "imageUrl": "/images/restaurants/miso-taco.jpg",
           "latitude": 49.254353,
           "longitude": -123.114776
         },
@@ -7015,7 +7015,7 @@
           "openFor": "Dinner, with brunch on weekends",
           "priceRange": "$$$",
           "descriptionText": "Don’t be intimidated by the dramatic entryway with dripping wax candelabras. Ophelia is a very welcoming modern Mexican spot with notably great service in the often-overlooked Olympic Village part of the city. Come for the solid margarita program (especially for Margarita Monday deals) and on-point creative cocktails in a busy room decorated with folk art. Stay for the excellent skirt steak tacos with roasted bone marrow and deliciously complex burned salsa, or the popular weekend brunch with punchy chilaquiles. Don’t skip the tres leches with pistachio crumble and lime-infused whipped cream. Best for: Late-night happy hour.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24852148/Ophelia_NikkiBayley1.jpeg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/ophelia.jpg",
           "latitude": 49.269593,
           "longitude": -123.108142
         },
@@ -7029,7 +7029,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$$",
           "descriptionText": "It was already a Vancouver tradition to join the queues outside this well-priced Vietnamese Cambodian spot in Chinatown — but then the restaurant scored a Michelin Bib Gourmand and the demand has only intensified. The menu is enormous, so save yourself from the agonies of choice and order the deep-fried crunchy chicken wings (with an amazing dipping sauce), the Instagram-ready platter of thit bò butter beef, and the beef lúc lắc with egg and rice. And yeah, okay, maybe some garlic squid too. Pro-tip: Wear comfy shoes for the line. Know before you go: It’s closed on Tuesdays.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19544805/phnom_penh.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/phnom-penh.jpg",
           "latitude": 49.2785,
           "longitude": -123.098
         },
@@ -7057,7 +7057,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$",
           "descriptionText": "Pidgin seamlessly blends the bounty of the Pacific Northwest with French techniques and Asian influences. Although the place is perfect for bar snacks — the gochujang chicken wings are the best in the city — and genuinely thrilling for creative cocktails with ingredients such as toasted rice rum and gunpowder tea gomme, go with the prix fixe, which offers exceptional value with seven inventive mini courses for 105 Canadian dollars (about $73) per person. Whisky and sake fans will love the selection, and the wine list offers global gems too. Best for: Book the chef’s table, which gives you a front row seat to all the action.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880085/Vancouver-pidgin.0.jpeg?quality=90&strip=all&crop=0,0,100,100",
+          "imageUrl": "/images/restaurants/pidgin.jpg",
           "latitude": 49.281799,
           "longitude": -123.105003
         },
@@ -7071,7 +7071,7 @@
           "openFor": "Dinner",
           "priceRange": "$$$$",
           "descriptionText": "Chef Gus Stieffenhofer-Brandson and team are unstoppable juggernauts, scooping up every prize, from a Michelin star in the city’s inaugural awards to the No. 1 spot in Canada’s 100 Best Restaurants in 2022. You’ll need to plan far in advance (reservations open 60 days ahead and sell out in a few hours) or eat at 5 p.m. to discover what alchemy is afoot here, but it would be churlish to leave Published off the list just because it’s challenging to get a seat. At $165 ($123 USD) plus tax and tip, the superb tasting menu is one of the most expensive in the city. If you’re on a budget, you can still dive into the playfully experimental dishes by going a la carte or picking up a snack at the bar. Just try not to fall in love with any menu items, as dishes switch up often. Vibe check: In an ultra-casual city like Vancouver, Published offers a chance to get ever-so-slightly formal, although yoga pants are still welcome.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24406406/Published_credit_Sarah_Annand.jpeg?quality=90&strip=all&crop=0,0.01860119047619,100,99.962797619048",
+          "imageUrl": "/images/restaurants/published-on-main.jpg",
           "latitude": 49.252876,
           "longitude": -123.101219
         },
@@ -7085,7 +7085,7 @@
           "openFor": "Lunch and dinner",
           "priceRange": "$",
           "descriptionText": "Sashimiya opened in 2020, tucked away on the bottom of Hornby Street. The ultra-casual, entirely sustainable, grab-and-go sushi and sashimi shop is sushi master chef Taka Omi’s first solo spot after leaving the Fairmont Pacific Rim’s RawBar. Fish can be sliced to order for sashimi from the chillers, and a host of Japanese grocery goodies are on offer too. There are no seats, so take your exquisitely made party trays, platters, and bentos down to the waterfront to enjoy picnic-style, or order for delivery. Must-try dish: Seasonal treats such as spot prawns or locally harvested uni.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22642765/Sashimiya.jpg?quality=90&strip=all&crop=0,8.3333333333333,100,83.333333333333",
+          "imageUrl": "/images/restaurants/sashimiya.jpg",
           "latitude": 49.276703,
           "longitude": -123.130363
         },
@@ -7141,7 +7141,7 @@
           "openFor": "Dinner",
           "priceRange": "$$",
           "descriptionText": "Chef Vikram Vij is a huge star, with a stint as an investor on Dragon’s Den, the reality show for aspiring entrepreneurs, and a national range of prepackaged gourmet frozen curries to his name. Vij has created a fine dining Indian restaurant where you can feast on ambrosial curries utilizing local ingredients and hand-ground spices, paired with B.C. wines and funky cocktails. Pre-pandemic, the queue for a table might have included luminaries such as ex-Prime Minister Pierre Trudeau or Harrison Ford, but now you can make a reservation and skip the wait. Don’t miss the lamb popsicles. Know before you go: Don’t snooze on the cocktail menu. It’s packed with savory drinks to pair with curry.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7880037/vijs-vancouver.0.jpg?quality=90&strip=all&crop=0.01220703125,0,99.9755859375,100",
+          "imageUrl": "/images/restaurants/vijs.jpg",
           "latitude": 49.2575,
           "longitude": -123.114998
         },
@@ -7155,7 +7155,7 @@
           "openFor": "Breakfast through late lunch",
           "priceRange": "$",
           "descriptionText": "At this Fairview neighborhood cafe, expect innovative bakes designed to melt down your socials and delight your taste buds, including a Tom and Jerry-style cheesecake (which looks like a cartoon cheese wedge and tastes like heaven), cute Nanaimo bar-inspired igloo cakes, and a blue pond-glazed creme brulee with a chocolate rubber duckie floating in it. Snacks and coffee here are excellent too — seasonally inspired latte art is on point, and the creative team drops new creations every few weeks. Wicked Cafe has a second location in West Point Grey, but this one has bags more character and is an easy stroll from the downtown core. If you drive: Parking is tricky here, but if you do find street parking, use the app or risk a fine from the overly diligent parking enforcement team.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25756058/WickedCafe_Insta.png?quality=90&strip=all&crop=0,13.950617283951,100,72.098765432099",
+          "imageUrl": "/images/restaurants/wicked-cafe.png",
           "latitude": 49.265432,
           "longitude": -123.135854
         },
@@ -7169,7 +7169,7 @@
           "openFor": "Dinner to late night",
           "priceRange": "$$",
           "descriptionText": "Zabu is open until 1 a.m., and its Korean-style triple-fried chicken is the exact right thing to put you back on track after a night of bar hopping. Sticky and sweet with crunchy feather-light skin and juicy meat, Zabu chicken comes in two varieties: soy-garlic glazed original, and hot. Both are fantastic. Order the mouth puckering pickled radish to get your juices flowing, and definitely consider the gooey corn cheese if you’ve had a few. Or, if the party is still going, embrace the mayhem of the always-packed dark room, lit by screens blaring K-Pop and re-tox with a few citrus-spiked bottles of soju. Know before you go: Zabu is closed on Mondays.",
-          "imageUrl": "https://platform.eater.com/wp-content/uploads/sites/2/2025/10/zabu.png?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889",
+          "imageUrl": "/images/restaurants/zabu-chicken.jpg",
           "latitude": 49.289902,
           "longitude": -123.133003
         }

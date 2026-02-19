@@ -1,5 +1,6 @@
 import { createHash } from 'node:crypto';
-import { mkdir, writeFile } from 'node:fs/promises';
+import { access, mkdir, writeFile } from 'node:fs/promises';
+import path from 'node:path';
 import * as cheerio from 'cheerio';
 
 const TARGET_URL = 'https://www.eater.com/maps/best-vancouver-restaurants-bc-canada';
@@ -303,6 +304,70 @@ async function fetchText(url) {
   return res.text();
 }
 
+function extensionFromContentType(contentType = '') {
+  if (/image\/png/i.test(contentType)) return '.png';
+  if (/image\/webp/i.test(contentType)) return '.webp';
+  if (/image\/gif/i.test(contentType)) return '.gif';
+  return '.jpg';
+}
+
+async function fileExists(filePath) {
+  try {
+    await access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function cacheRestaurantImages(versions) {
+  const imageDir = path.join('public', 'images', 'restaurants');
+  await mkdir(imageDir, { recursive: true });
+
+  // Prefer newest non-empty image URL per slug.
+  const bySlug = new Map();
+  const sorted = [...versions].sort((a, b) => b.date.localeCompare(a.date));
+
+  for (const version of sorted) {
+    for (const r of version.restaurants) {
+      if (!r.slug || !r.imageUrl || bySlug.has(r.slug)) continue;
+      bySlug.set(r.slug, r.imageUrl);
+    }
+  }
+
+  const localPathBySlug = new Map();
+
+  for (const [slug, remoteUrl] of bySlug.entries()) {
+    try {
+      const res = await fetch(remoteUrl, { redirect: 'follow' });
+      if (!res.ok) continue;
+
+      const contentType = res.headers.get('content-type') || '';
+      const ext = extensionFromContentType(contentType);
+      const fileName = `${slug}${ext}`;
+      const diskPath = path.join(imageDir, fileName);
+      const publicPath = `/images/restaurants/${fileName}`;
+
+      if (!(await fileExists(diskPath))) {
+        const arr = await res.arrayBuffer();
+        await writeFile(diskPath, Buffer.from(arr));
+      }
+
+      localPathBySlug.set(slug, publicPath);
+    } catch {
+      // Keep remote URL if download fails.
+    }
+  }
+
+  for (const version of versions) {
+    for (const r of version.restaurants) {
+      if (localPathBySlug.has(r.slug)) {
+        r.imageUrl = localPathBySlug.get(r.slug);
+      }
+    }
+  }
+}
+
 async function main() {
   const cdxRaw = await fetchText(CDX_URL);
   const cdxRows = JSON.parse(cdxRaw).slice(1); // remove header
@@ -350,6 +415,8 @@ async function main() {
       });
     }
   }
+
+  await cacheRestaurantImages(versions);
 
   const payload = {
     generatedAt: new Date().toISOString(),
