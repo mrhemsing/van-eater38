@@ -127,15 +127,28 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           </section>
 
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
-            <div className="flex flex-wrap items-center gap-2 text-lg font-semibold text-white">
-              <h3>The 38 Best Restaurants in Vancouver</h3>
-              <button
-                type="button"
-                onClick={() => setViewMode(viewMode === 'list' ? 'map' : 'list')}
-                className="text-base font-medium text-orange-300 hover:text-orange-200"
-              >
-                {viewMode === 'list' ? '(View map)' : '(View list)'}
-              </button>
+            <div className="flex flex-wrap items-center justify-between gap-3">
+              <h3 className="text-lg font-semibold text-white">The 38 Best Restaurants in Vancouver</h3>
+              <div className="inline-flex rounded-full border border-neutral-700 bg-neutral-900/70 p-1">
+                <button
+                  type="button"
+                  onClick={() => setViewMode('list')}
+                  className={`rounded-full px-3 py-1 text-sm transition ${
+                    viewMode === 'list' ? 'bg-orange-500/20 text-orange-200' : 'text-neutral-300 hover:text-neutral-100'
+                  }`}
+                >
+                  View list
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setViewMode('map')}
+                  className={`rounded-full px-3 py-1 text-sm transition ${
+                    viewMode === 'map' ? 'bg-orange-500/20 text-orange-200' : 'text-neutral-300 hover:text-neutral-100'
+                  }`}
+                >
+                  View map
+                </button>
+              </div>
             </div>
 
             <p className="mt-1 text-sm text-neutral-400">{toMonthYear(selectedVersion.date)}</p>
