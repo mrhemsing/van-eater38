@@ -25,9 +25,71 @@ function normalizeRestaurants(items) {
       address: item?.address?.trim() || '',
       eaterUrl: item?.eaterUrl || '',
       website: item?.website || '',
+      phone: item?.phone || '',
     }))
     .filter((r) => r.name)
     .sort((a, b) => a.name.localeCompare(b.name));
+}
+
+function extractJsonArrayByKey(html, key) {
+  const marker = `"${key}":[`;
+  const start = html.indexOf(marker);
+  if (start === -1) return null;
+
+  let i = start + marker.length - 1;
+  let depth = 0;
+  let inString = false;
+  let escaped = false;
+
+  for (; i < html.length; i++) {
+    const ch = html[i];
+
+    if (inString) {
+      if (escaped) {
+        escaped = false;
+        continue;
+      }
+      if (ch === '\\') {
+        escaped = true;
+        continue;
+      }
+      if (ch === '"') inString = false;
+      continue;
+    }
+
+    if (ch === '"') {
+      inString = true;
+      continue;
+    }
+
+    if (ch === '[') depth += 1;
+    else if (ch === ']') {
+      depth -= 1;
+      if (depth === 0) {
+        return html.slice(start + marker.length - 1, i + 1);
+      }
+    }
+  }
+
+  return null;
+}
+
+function parseFromMapPoints(html) {
+  const arrayText = extractJsonArrayByKey(html, 'mapPoints');
+  if (!arrayText) return null;
+
+  const points = JSON.parse(arrayText);
+  if (!Array.isArray(points) || points.length < 30) return null;
+
+  return normalizeRestaurants(
+    points.map((point) => ({
+      name: point?.name,
+      address: point?.address || '',
+      eaterUrl: point?.eaterUrl || '',
+      website: point?.url || point?.venue?.website || '',
+      phone: point?.phone || point?.venue?.phone || point?.venue?.telephone || '',
+    })),
+  );
 }
 
 function parseFromLdJson(html) {
@@ -90,7 +152,7 @@ function parseFromNextData(html) {
 }
 
 function parseRestaurants(html) {
-  return parseFromLdJson(html) || parseFromNextData(html);
+  return parseFromMapPoints(html) || parseFromLdJson(html) || parseFromNextData(html);
 }
 
 function toVersionDate(timestamp) {

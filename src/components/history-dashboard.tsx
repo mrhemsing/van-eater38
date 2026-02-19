@@ -17,6 +17,7 @@ function toMonthYear(dateStr: string) {
 
 export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [selectedId, setSelectedId] = useState(versions[0]?.id);
+  const [expandedSlug, setExpandedSlug] = useState<string | null>(null);
 
   const selectedIndex = versions.findIndex((v) => v.id === selectedId);
   const selectedVersion = versions[selectedIndex] ?? versions[0];
@@ -122,9 +123,15 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 })
                 .map((restaurant) => {
                   const appearances = frequencies.get(restaurant.slug)?.count ?? 0;
+                  const isExpanded = expandedSlug === restaurant.slug;
+
                   return (
-                    <article key={restaurant.slug} className="rounded-xl border border-neutral-800 bg-neutral-900/80 p-3">
-                      <div className="flex items-start justify-between gap-3">
+                    <article key={restaurant.slug} className="overflow-hidden rounded-xl border border-neutral-800 bg-neutral-900/80">
+                      <button
+                        type="button"
+                        onClick={() => setExpandedSlug(isExpanded ? null : restaurant.slug)}
+                        className="flex w-full items-start justify-between gap-3 p-3 text-left"
+                      >
                         <div>
                           <p className="font-medium text-neutral-100">
                             {restaurant.name}{' '}
@@ -134,12 +141,34 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               </span>
                             ) : null}
                           </p>
-                          {restaurant.address ? <p className="text-xs text-neutral-400">{restaurant.address}</p> : null}
+                          <p className="mt-1 text-xs text-neutral-500">Click to view address, phone, and website</p>
                         </div>
-                        <span className="shrink-0 rounded-full bg-orange-500/20 px-2 py-1 text-xs text-orange-200">
-                          {appearances}x
-                        </span>
-                      </div>
+
+                        <div className="flex items-center gap-2">
+                          <span className="shrink-0 rounded-full bg-orange-500/20 px-2 py-1 text-xs text-orange-200">{appearances}x</span>
+                          <span className="text-neutral-400">{isExpanded ? '▴' : '▾'}</span>
+                        </div>
+                      </button>
+
+                      {isExpanded ? (
+                        <div className="border-t border-neutral-800 bg-neutral-950/60 px-3 py-2 text-sm text-neutral-200">
+                          <DetailRow
+                            icon="📍"
+                            label={restaurant.address || 'Address not available from source'}
+                            href={restaurant.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.address)}` : undefined}
+                          />
+                          <DetailRow
+                            icon="☎"
+                            label={restaurant.phone || 'Phone not available from source'}
+                            href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
+                          />
+                          <DetailRow
+                            icon="🌐"
+                            label={restaurant.website ? 'Visit website' : 'Website not available from source'}
+                            href={restaurant.website || undefined}
+                          />
+                        </div>
+                      ) : null}
                     </article>
                   );
                 })}
@@ -153,10 +182,30 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
 
 function Stat({ label, value }: { label: string; value: string }) {
   return (
-    <div className="rounded-2xl border border-neutral-800 bg-black/50 p-4 text-left">
+    <div className="rounded-2xl border border-neutral-800 bg-black/50 p-4 text-left lg:text-right">
       <p className="text-xs uppercase tracking-[0.14em] text-neutral-400">{label}</p>
       <p className="mt-2 text-3xl font-semibold text-white">{value}</p>
     </div>
+  );
+}
+
+function DetailRow({ icon, label, href }: { icon: string; label: string; href?: string }) {
+  const content = (
+    <div className="flex items-center justify-between gap-3 py-2">
+      <div className="flex items-center gap-3">
+        <span className="w-5 text-center text-base text-neutral-300">{icon}</span>
+        <span>{label}</span>
+      </div>
+      {href ? <span className="text-neutral-400">↗</span> : null}
+    </div>
+  );
+
+  if (!href) return content;
+
+  return (
+    <a href={href} target="_blank" rel="noreferrer" className="block border-b border-neutral-800/80 last:border-b-0 hover:text-orange-200">
+      {content}
+    </a>
   );
 }
 

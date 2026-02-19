@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T01:57:32.630Z",
+  "generatedAt": "2026-02-19T17:27:15.042Z",
   "source": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
   "versions": [
     {
@@ -8,270 +8,308 @@
       "source": "https://web.archive.org/web/20220526154632id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "Cómo Taperia",
+          "name": "¿Cómo? Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ancora Waterfront Dining and Patio",
           "slug": "ancora-waterfront-dining-and-patio",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/ancora-waterfront-dining-and-patio",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Au Comptoir",
           "slug": "au-comptoir",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/au-comptoir",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Autostrada Osteria Downtown",
           "slug": "autostrada-osteria-downtown",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/autostrada-osteria-downtown",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bao-bei",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/blue-water-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Botanist",
           "slug": "botanist",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/botanist",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Boulevard Kitchen & Oyster Bar",
           "slug": "boulevard-kitchen-oyster-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/boulevard-kitchen-amp-oyster-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bread x Butter Cafe",
           "slug": "bread-x-butter-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bread-x-butter-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Buckstop",
           "slug": "buckstop",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/buckstop",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/burdock-amp-co",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chambar Restaurant",
           "slug": "chambar-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chambar-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chancho Tortilleria",
           "slug": "chancho-tortilleria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chancho-tortilleria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Cioppino's Mediterranean Grill and Enoteca",
           "slug": "cioppinos-mediterranean-grill-and-enoteca",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/cioppinos-mediterranean-grill-and-enoteca",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dynasty-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Fat Mao Noodles",
           "slug": "fat-mao-noodles",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/fat-mao-noodles",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Forage",
           "slug": "forage",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/forage",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/golden-paramount-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/granville-island-public-market",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Guu Garden",
           "slug": "guu-garden",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/guu-garden",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Harvest Community Foods",
           "slug": "harvest-community-foods",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/harvest-community-foods",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Restaurant",
           "slug": "hawksworth-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/hawksworth-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/joe-fortes-seafood-amp-chop-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Marutama Ra-men Canada / Westend",
           "slug": "marutama-ra-men-canada-westend",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/marutama-ra-men-canada-westend",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maxines-cafe-amp-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Nancy Go Yaya Eating House",
           "slug": "nancy-go-yaya-eating-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/nancy-go-yaya-eating-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/odd-society-spirits",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/phnom-penh",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin Restaurant",
           "slug": "pidgin-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/pidgin-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "RawBar",
           "slug": "rawbar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/rawbar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/remi-patisserie",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/sashimiya",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/st-lawrence-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-arbor-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Fish Counter",
           "slug": "the-fish-counter",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-fish-counter",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-mackenzie-room",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ubuntu Canteen",
           "slug": "ubuntu-canteen",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/ubuntu-canteen",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/vijs",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -281,270 +319,308 @@
       "source": "https://web.archive.org/web/20220601215503id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "Cómo Taperia",
+          "name": "¿Cómo? Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ancora Waterfront Dining and Patio",
           "slug": "ancora-waterfront-dining-and-patio",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/ancora-waterfront-dining-and-patio",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Au Comptoir",
           "slug": "au-comptoir",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/au-comptoir",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Autostrada Osteria Downtown",
           "slug": "autostrada-osteria-downtown",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/autostrada-osteria-downtown",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bao-bei",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/blue-water-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Botanist",
           "slug": "botanist",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/botanist",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Boulevard Kitchen & Oyster Bar",
           "slug": "boulevard-kitchen-oyster-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/boulevard-kitchen-amp-oyster-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bread x Butter Cafe",
           "slug": "bread-x-butter-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bread-x-butter-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Buckstop",
           "slug": "buckstop",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/buckstop",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/burdock-amp-co",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chambar Restaurant",
           "slug": "chambar-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chambar-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chancho Tortilleria",
           "slug": "chancho-tortilleria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chancho-tortilleria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Cioppino's Mediterranean Grill and Enoteca",
           "slug": "cioppinos-mediterranean-grill-and-enoteca",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/cioppinos-mediterranean-grill-and-enoteca",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dynasty-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Fat Mao Noodles",
           "slug": "fat-mao-noodles",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/fat-mao-noodles",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Forage",
           "slug": "forage",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/forage",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/golden-paramount-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/granville-island-public-market",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Guu with Garlic",
           "slug": "guu-with-garlic",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/guu-with-garlic",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Harvest Community Foods",
           "slug": "harvest-community-foods",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/harvest-community-foods",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Restaurant",
           "slug": "hawksworth-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/hawksworth-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/joe-fortes-seafood-amp-chop-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Marutama Ra-men Canada / Westend",
           "slug": "marutama-ra-men-canada-westend",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/marutama-ra-men-canada-westend",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maxines-cafe-amp-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Nancy Go Yaya Eating House",
           "slug": "nancy-go-yaya-eating-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/nancy-go-yaya-eating-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/odd-society-spirits",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/phnom-penh",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin Restaurant",
           "slug": "pidgin-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/pidgin-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "RawBar",
           "slug": "rawbar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/rawbar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/remi-patisserie",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/sashimiya",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/st-lawrence-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-arbor-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Fish Counter",
           "slug": "the-fish-counter",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-fish-counter",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-mackenzie-room",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ubuntu Canteen",
           "slug": "ubuntu-canteen",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/ubuntu-canteen",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/vijs",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -554,270 +630,308 @@
       "source": "https://web.archive.org/web/20220802165332id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "Cómo Taperia",
+          "name": "¿Cómo? Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Au Comptoir",
           "slug": "au-comptoir",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/au-comptoir",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Autostrada Osteria Downtown",
           "slug": "autostrada-osteria-downtown",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/autostrada-osteria-downtown",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bacaro",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bao-bei",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bar-susu",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/blue-water-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Botanist",
           "slug": "botanist",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/botanist",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Boulevard Kitchen & Oyster Bar",
           "slug": "boulevard-kitchen-oyster-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/boulevard-kitchen-amp-oyster-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bread x Butter Cafe",
           "slug": "bread-x-butter-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bread-x-butter-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Buckstop",
           "slug": "buckstop",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/buckstop",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/burdock-amp-co",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chambar Restaurant",
           "slug": "chambar-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chambar-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chancho Tortilleria",
           "slug": "chancho-tortilleria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chancho-tortilleria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Cioppino's Mediterranean Grill and Enoteca",
           "slug": "cioppinos-mediterranean-grill-and-enoteca",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/cioppinos-mediterranean-grill-and-enoteca",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dynasty-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Fat Mao Noodles",
           "slug": "fat-mao-noodles",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/fat-mao-noodles",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Forage",
           "slug": "forage",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/forage",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/golden-paramount-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/granville-island-public-market",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Guu with Garlic",
           "slug": "guu-with-garlic",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/guu-with-garlic",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Harvest Community Foods",
           "slug": "harvest-community-foods",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/harvest-community-foods",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Restaurant",
           "slug": "hawksworth-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/hawksworth-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/joe-fortes-seafood-amp-chop-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Marutama Ra-men Canada / Westend",
           "slug": "marutama-ra-men-canada-westend",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/marutama-ra-men-canada-westend",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maxines-cafe-amp-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/odd-society-spirits",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/phnom-penh",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin Restaurant",
           "slug": "pidgin-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/pidgin-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "R&B Ale & Pizza House",
           "slug": "rb-ale-pizza-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/r-amp-b-ale-amp-pizza-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Rain or Shine Ice Cream Truck",
           "slug": "rain-or-shine-ice-cream-truck",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/rain-or-shine-ice-cream-truck",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/remi-patisserie",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/sashimiya",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/st-lawrence-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-arbor-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-mackenzie-room",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ubuntu Canteen",
           "slug": "ubuntu-canteen",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/ubuntu-canteen",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/vijs",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -827,270 +941,308 @@
       "source": "https://web.archive.org/web/20221102152826id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "Cómo Taperia",
+          "name": "¿Cómo? Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bacaro",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bao-bei",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bar-susu",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/blue-water-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Botanist",
           "slug": "botanist",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/botanist",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Boulevard Kitchen & Oyster Bar",
           "slug": "boulevard-kitchen-oyster-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/boulevard-kitchen-amp-oyster-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bread x Butter Cafe",
           "slug": "bread-x-butter-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bread-x-butter-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/burdock-amp-co",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/caffe-la-tana",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chambar Restaurant",
           "slug": "chambar-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chambar-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chancho Tortilleria",
           "slug": "chancho-tortilleria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chancho-tortilleria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Cioppino's Mediterranean Grill and Enoteca",
           "slug": "cioppinos-mediterranean-grill-and-enoteca",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/cioppinos-mediterranean-grill-and-enoteca",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dynasty-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Fat Mao Noodles",
           "slug": "fat-mao-noodles",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/fat-mao-noodles",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Forage",
           "slug": "forage",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/forage",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/golden-paramount-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/granville-island-public-market",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Guu with Garlic",
           "slug": "guu-with-garlic",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/guu-with-garlic",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Harvest Community Foods",
           "slug": "harvest-community-foods",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/harvest-community-foods",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Restaurant",
           "slug": "hawksworth-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/hawksworth-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/joe-fortes-seafood-amp-chop-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Juice Bar",
           "slug": "juice-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/juice-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kevin & Kevin",
           "slug": "kevin-kevin",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/kevin-amp-kevin",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Marutama Ra-men Canada / Westend",
           "slug": "marutama-ra-men-canada-westend",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/marutama-ra-men-canada-westend",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maxines-cafe-amp-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/odd-society-spirits",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/phnom-penh",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin Restaurant",
           "slug": "pidgin-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/pidgin-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "R&B Ale & Pizza House",
           "slug": "rb-ale-pizza-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/r-amp-b-ale-amp-pizza-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/remi-patisserie",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/sashimiya",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/st-lawrence-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-arbor-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-mackenzie-room",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Top Rope Birria",
           "slug": "top-rope-birria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/top-rope-birria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ubuntu Canteen",
           "slug": "ubuntu-canteen",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/ubuntu-canteen",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/vijs",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -1100,270 +1252,308 @@
       "source": "https://web.archive.org/web/20230324103758id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "Cómo Taperia",
+          "name": "¿Cómo? Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/anh-and-chi",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bacaro",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bao-bei",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bar-susu",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/blue-water-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Botanist",
           "slug": "botanist",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/botanist",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Boulevard Kitchen & Oyster Bar",
           "slug": "boulevard-kitchen-oyster-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/boulevard-kitchen-amp-oyster-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bread x Butter Cafe",
           "slug": "bread-x-butter-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bread-x-butter-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/burdock-amp-co",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/caffe-la-tana",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Chancho Tortilleria",
           "slug": "chancho-tortilleria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/chancho-tortilleria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dynasty-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Fat Mao Noodles",
           "slug": "fat-mao-noodles",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/fat-mao-noodles",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Forage",
           "slug": "forage",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/forage",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/golden-paramount-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/granville-island-public-market",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Harvest Community Foods",
           "slug": "harvest-community-foods",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/harvest-community-foods",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Bar",
           "slug": "hawksworth-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/hawksworth-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/joe-fortes-seafood-amp-chop-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Juice Bar",
           "slug": "juice-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/juice-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kevin & Kevin",
           "slug": "kevin-kevin",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/kevin-amp-kevin",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Marutama Ra-men Canada / Westend",
           "slug": "marutama-ra-men-canada-westend",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/marutama-ra-men-canada-westend",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maxines-cafe-amp-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/odd-society-spirits",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/phnom-penh",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin Restaurant",
           "slug": "pidgin-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/pidgin-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/published-on-main",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "R&B Ale & Pizza House",
           "slug": "rb-ale-pizza-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/r-amp-b-ale-amp-pizza-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/remi-patisserie",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/sashimiya",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/st-lawrence-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Suyo",
           "slug": "suyo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/suyo",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-arbor-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-mackenzie-room",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Top Rope Birria",
           "slug": "top-rope-birria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/top-rope-birria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ubuntu Canteen",
           "slug": "ubuntu-canteen",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/ubuntu-canteen",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/vijs",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -1373,270 +1563,308 @@
       "source": "https://web.archive.org/web/20230520021506id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "Cómo Taperia",
+          "name": "¿Cómo? Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/anh-and-chi",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bacaro",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bao-bei",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bar-susu",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/blue-water-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Botanist",
           "slug": "botanist",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/botanist",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Boulevard Kitchen & Oyster Bar",
           "slug": "boulevard-kitchen-oyster-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/boulevard-kitchen-amp-oyster-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/burdock-amp-co",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/caffe-la-tana",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dachi",
           "slug": "dachi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dachi",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dynasty-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Elephant Garden Creamery",
           "slug": "elephant-garden-creamery",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/elephant-garden-creamery",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Fat Mao Noodles",
           "slug": "fat-mao-noodles",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/fat-mao-noodles",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Forage",
           "slug": "forage",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/forage",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/golden-paramount-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/granville-island-public-market",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Harvest Community Foods",
           "slug": "harvest-community-foods",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/harvest-community-foods",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Bar",
           "slug": "hawksworth-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/hawksworth-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/joe-fortes-seafood-amp-chop-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Juice Bar",
           "slug": "juice-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/juice-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/kissa-tanto",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maenam",
           "slug": "maenam",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maenam",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maruhachi Ra-men Canada / Westend",
           "slug": "maruhachi-ra-men-canada-westend",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maruhachi-ra-men-canada-westend",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maxines-cafe-amp-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/odd-society-spirits",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/phnom-penh",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin Restaurant",
           "slug": "pidgin-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/pidgin-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/published-on-main",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "R&B Ale & Pizza House",
           "slug": "rb-ale-pizza-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/r-amp-b-ale-amp-pizza-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/remi-patisserie",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/sashimiya",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/st-lawrence-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Suyo",
           "slug": "suyo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/suyo",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-arbor-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-mackenzie-room",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Top Rope Birria",
           "slug": "top-rope-birria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/top-rope-birria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/vijs",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -1646,270 +1874,308 @@
       "source": "https://web.archive.org/web/20230820074354id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "Cómo Taperia",
+          "name": "¿Cómo? Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/anh-and-chi",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bacaro",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bao-bei",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Gobo",
           "slug": "bar-gobo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bar-gobo",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/bar-susu",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/blue-water-cafe",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Botanist",
           "slug": "botanist",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/botanist",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/burdock-amp-co",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/caffe-la-tana",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dachi",
           "slug": "dachi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dachi",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/dynasty-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Elephant Garden Creamery",
           "slug": "elephant-garden-creamery",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/elephant-garden-creamery",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/golden-paramount-seafood-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/granville-island-public-market",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Havana Vancouver",
           "slug": "havana-vancouver",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/havana-vancouver",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Bar",
           "slug": "hawksworth-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/hawksworth-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Homer St. Cafe and Bar",
           "slug": "homer-st-cafe-and-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/homer-st-cafe-and-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/joe-fortes-seafood-amp-chop-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Juice Bar",
           "slug": "juice-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/juice-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/kissa-tanto",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maenam",
           "slug": "maenam",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maenam",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maruhachi Ra-men Canada / Westend",
           "slug": "maruhachi-ra-men-canada-westend",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maruhachi-ra-men-canada-westend",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/maxines-cafe-amp-bar",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/odd-society-spirits",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/ophelia",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/phnom-penh",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin Restaurant",
           "slug": "pidgin-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/pidgin-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/published-on-main",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "R&B Ale & Pizza House",
           "slug": "rb-ale-pizza-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/r-amp-b-ale-amp-pizza-house",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/remi-patisserie",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/sashimiya",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/st-lawrence-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Suyo",
           "slug": "suyo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/suyo",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-arbor-restaurant",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/the-mackenzie-room",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Top Rope Birria",
           "slug": "top-rope-birria",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/top-rope-birria",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/vijs",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -1923,266 +2189,304 @@
           "slug": "anh-and-chi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-27",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-14",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-25",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Gobo",
           "slug": "bar-gobo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-30",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-29",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-11",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Botanist",
           "slug": "botanist",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-15",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-26",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-35",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Como Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-28",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dachi",
           "slug": "dachi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-38",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-10",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-3",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-2",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Havana Vancouver",
           "slug": "havana-vancouver",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-37",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Bar",
           "slug": "hawksworth-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-12",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Homer Street Cafe and Bar",
           "slug": "homer-street-cafe-and-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-13",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Is That French",
           "slug": "is-that-french",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-19",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Japadog",
           "slug": "japadog",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-8",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-7",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-31",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maenam",
           "slug": "maenam",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-4",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-5",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-36",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-18",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-33",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin",
           "slug": "pidgin",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-20",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-23",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "R&B Ale & Pizza House",
           "slug": "rb-ale-pizza-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-21",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-16",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-6",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-32",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Suyo Modern Peruvian",
           "slug": "suyo-modern-peruvian",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-24",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-22",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-34",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Thierry Café",
           "slug": "thierry-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-9",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-17",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -2196,266 +2500,304 @@
           "slug": "anh-and-chi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-27",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-13",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-25",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Gobo",
           "slug": "bar-gobo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-30",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Haifa",
           "slug": "bar-haifa",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-15",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-29",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-21",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-26",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-35",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Como Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-28",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dachi",
           "slug": "dachi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-38",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-10",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-3",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-2",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Havana Vancouver",
           "slug": "havana-vancouver",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-37",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Bar",
           "slug": "hawksworth-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-11",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Homer Street Cafe and Bar",
           "slug": "homer-street-cafe-and-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-12",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Is That French",
           "slug": "is-that-french",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-18",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Japadog",
           "slug": "japadog",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-8",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Joe Fortes Seafood & Chop House",
           "slug": "joe-fortes-seafood-chop-house",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-7",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kapow Burger",
           "slug": "kapow-burger",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-20",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-31",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maenam",
           "slug": "maenam",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-4",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-5",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-36",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-17",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-33",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin",
           "slug": "pidgin",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-19",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-23",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-14",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-6",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-32",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Suyo Modern Peruvian",
           "slug": "suyo-modern-peruvian",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-24",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Arbor Restaurant",
           "slug": "the-arbor-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-22",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-34",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Thierry Café",
           "slug": "thierry-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-9",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-16",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -2469,266 +2811,304 @@
           "slug": "anh-and-chi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-27",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-11",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-24",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Gobo",
           "slug": "bar-gobo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-30",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Haifa",
           "slug": "bar-haifa",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-13",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-29",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-21",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-25",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-35",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Como Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-28",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dachi",
           "slug": "dachi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-38",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-8",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-3",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-2",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Havana Vancouver",
           "slug": "havana-vancouver",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-37",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Bar",
           "slug": "hawksworth-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-9",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Homer Street Cafe and Bar",
           "slug": "homer-street-cafe-and-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-10",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Is That French",
           "slug": "is-that-french",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-17",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Japadog",
           "slug": "japadog",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-7",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kapow Burger",
           "slug": "kapow-burger",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-20",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-31",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-19",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maenam",
           "slug": "maenam",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-4",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-5",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-36",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-16",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-33",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin",
           "slug": "pidgin",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-18",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pretend Wine Bar",
           "slug": "pretend-wine-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-15",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-22",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Remi Patisserie",
           "slug": "remi-patisserie",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-12",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-6",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "St Lawrence Restaurant",
           "slug": "st-lawrence-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-32",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Suyo Modern Peruvian",
           "slug": "suyo-modern-peruvian",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-23",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Acorn",
           "slug": "the-acorn",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-26",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Mackenzie Room",
           "slug": "the-mackenzie-room",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-34",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-14",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -2742,266 +3122,304 @@
           "slug": "anh-and-chi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-28",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-13",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-25",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Gobo",
           "slug": "bar-gobo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-32",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Haifa",
           "slug": "bar-haifa",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-14",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-30",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-22",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-26",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-35",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Como Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-29",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dachi",
           "slug": "dachi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-38",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-10",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-4",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-3",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Havana Vancouver",
           "slug": "havana-vancouver",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-37",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Bar",
           "slug": "hawksworth-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-11",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Homer Street Cafe and Bar",
           "slug": "homer-street-cafe-and-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-12",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Is That French",
           "slug": "is-that-french",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-18",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Japadog",
           "slug": "japadog",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-9",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kapow Burger",
           "slug": "kapow-burger",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-21",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-33",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-20",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maenam",
           "slug": "maenam",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-5",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-6",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Miso Taco",
           "slug": "miso-taco",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-31",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-36",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-17",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Parker Rooftop",
           "slug": "parker-rooftop",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-8",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-34",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin",
           "slug": "pidgin",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-19",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pretend Wine Bar",
           "slug": "pretend-wine-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-16",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-23",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Rain or Shine Ice Cream Truck",
           "slug": "rain-or-shine-ice-cream-truck",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-2",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-7",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Suyo Modern Peruvian",
           "slug": "suyo-modern-peruvian",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-24",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Acorn",
           "slug": "the-acorn",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-27",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-15",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -3015,266 +3433,304 @@
           "slug": "anh-and-chi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-29",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-26",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Gobo",
           "slug": "bar-gobo",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-32",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Haifa",
           "slug": "bar-haifa",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-13",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Susu",
           "slug": "bar-susu",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-31",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-22",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-27",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-35",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Cómo Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-30",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dachi",
           "slug": "dachi",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-38",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-10",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-5",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-4",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Havana Vancouver",
           "slug": "havana-vancouver",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-37",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hawksworth Bar",
           "slug": "hawksworth-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-11",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Homer Street Cafe and Bar",
           "slug": "homer-street-cafe-and-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-12",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Hundy",
           "slug": "hundy",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Is That French",
           "slug": "is-that-french",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-18",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Japadog",
           "slug": "japadog",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-9",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kapow Burger",
           "slug": "kapow-burger",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-21",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-33",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-20",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Lila",
           "slug": "lila",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-23",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maenam",
           "slug": "maenam",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-2",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-6",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Maxine's Cafe & Bar",
           "slug": "maxines-cafe-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-7",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Miso Taco",
           "slug": "miso-taco",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-15",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-36",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-17",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-34",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pidgin",
           "slug": "pidgin",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-19",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Pretend Wine Bar",
           "slug": "pretend-wine-bar",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-16",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-24",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-8",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Suyo Modern Peruvian",
           "slug": "suyo-modern-peruvian",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-25",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "The Acorn",
           "slug": "the-acorn",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-28",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Vij's",
           "slug": "vijs",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-14",
-          "website": ""
+          "website": "",
+          "phone": ""
         },
         {
           "name": "Wicked Cafe",
           "slug": "wicked-cafe",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-3",
-          "website": ""
+          "website": "",
+          "phone": ""
         }
       ]
     },
@@ -3286,268 +3742,306 @@
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#anh-and-chi",
-          "website": ""
+          "address": "3388 Main St, Vancouver BC V5V 3M7",
+          "eaterUrl": "",
+          "website": "http://www.anhandchi.com/",
+          "phone": "(604) 878-8883"
         },
         {
           "name": "Baan Lao Fine Thai Cuisine",
           "slug": "baan-lao-fine-thai-cuisine",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#baan-lao-fine-thai-cuisine",
-          "website": ""
+          "address": "4100 Bayview Street, Richmond, British Columbia V7E 0B3, Canada",
+          "eaterUrl": "",
+          "website": "http://baanlao.ca",
+          "phone": "(778) 839-5711"
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#bao-bei",
-          "website": ""
+          "address": "163 Keefer St (btwn Columbia & Main), Vancouver BC V6A 1X3",
+          "eaterUrl": "",
+          "website": "http://bao-bei.ca/",
+          "phone": "(604) 688-0876"
         },
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#bar-tartare",
-          "website": ""
+          "address": "54 Alexander Street, Vancouver, British Columbia V6A 1B4, Canada",
+          "eaterUrl": "",
+          "website": "https://www.bartartareyvr.ca/",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#burdock-co",
-          "website": ""
+          "address": "2702 Main St (at E 11th Ave), Vancouver BC V5T 3E8",
+          "eaterUrl": "",
+          "website": "http://www.burdockandco.com/",
+          "phone": "(604) 879-0077"
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#caff-la-tana",
-          "website": ""
+          "address": "635 Commercial Dr, Vancouver BC V5L 3W3",
+          "eaterUrl": "",
+          "website": "http://www.caffelatana.ca/",
+          "phone": "(604) 428-5462"
         },
         {
           "name": "Cómo Taperia",
           "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#como-taperia",
-          "website": ""
+          "address": "201 7th Ave E, Vancouver BC V5T 0J2",
+          "eaterUrl": "",
+          "website": "https://www.comotaperia.com/",
+          "phone": "(604) 879-3100"
         },
         {
           "name": "Dachi",
           "slug": "dachi",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dachi",
-          "website": ""
+          "address": "2297 Hastings St E, Vancouver BC V5L 1V3",
+          "eaterUrl": "",
+          "website": "http://www.dachivancouver.com",
+          "phone": "(604) 569-0456"
         },
         {
           "name": "Dante Italian Sandwich",
           "slug": "dante-italian-sandwich",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dante-italian-sandwich",
-          "website": ""
+          "address": "360 Robson Street, Vancouver, British Columbia V6B 2B2, Canada",
+          "eaterUrl": "",
+          "website": "https://www.dantesandwich.com/",
+          "phone": "604-336-0044"
         },
         {
           "name": "Dosanko",
           "slug": "dosanko",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dosanko",
-          "website": ""
+          "address": "566 Powell St, Vancouver BC V6A 1G9",
+          "eaterUrl": "",
+          "website": "http://dosankorestaurant.ca",
+          "phone": "(604) 251-2020"
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dynasty-seafood-restaurant",
-          "website": ""
+          "address": "108-777 West Broadway, BC V5Z 4J7",
+          "eaterUrl": "",
+          "website": "http://www.dynasty-restaurant.ca/",
+          "phone": "(604) 876-8388"
         },
         {
           "name": "El Gato Gab Gab",
           "slug": "el-gato-gab-gab",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#el-gato-gab-gab",
-          "website": ""
+          "address": "2650 Main Street, Vancouver, British Columbia V5T 3E6, Canada",
+          "eaterUrl": "",
+          "website": "https://elgatogabgab.com/",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#golden-paramount-seafood-restaurant",
-          "website": ""
+          "address": "8071 Park Rd, Richmond BC V6Y 1S8",
+          "eaterUrl": "",
+          "website": "https://www.goldenparamount.com/",
+          "phone": "(604) 278-0873"
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#granville-island-public-market",
-          "website": ""
+          "address": "1689 Johnston St (in Granville Island Public Market), Vancouver BC V6H 3R9",
+          "eaterUrl": "",
+          "website": "http://www.granvilleisland.com/",
+          "phone": "(604) 666-6655"
         },
         {
           "name": "Homer Street Cafe and Bar",
           "slug": "homer-street-cafe-and-bar",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#homer-street-cafe-and-bar",
-          "website": ""
+          "address": "898 Homer St (at Smithe St.), Vancouver BC V6B 2W5",
+          "eaterUrl": "",
+          "website": "http://www.homerstreetcafebar.com",
+          "phone": "(604) 428-4299"
         },
         {
           "name": "Hundy",
           "slug": "hundy",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#hundy",
-          "website": ""
+          "address": "1144 Homer St, Vancouver BC V6B 2X6",
+          "eaterUrl": "",
+          "website": "http://www.hundy.ca",
+          "phone": "(604) 800-5884"
         },
         {
           "name": "Japadog",
           "slug": "japadog",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#japa-dog",
-          "website": ""
+          "address": "899 Burrard St (at Smithe St.), Vancouver BC V6Z 1X9",
+          "eaterUrl": "",
+          "website": "http://www.japadog.com",
+          "phone": "(604) 569-1158"
         },
         {
           "name": "Kapow Burger",
           "slug": "kapow-burger",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#kapow-burger",
-          "website": ""
+          "address": "20 East 4th Avenue, Vancouver, British Columbia V5T 1E8, Canada",
+          "eaterUrl": "",
+          "website": "https://www.instagram.com/kapow_burger/?hl=en",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#kissa-tanto",
-          "website": ""
+          "address": "263 Pender St E, Vancouver BC V6A 1T8",
+          "eaterUrl": "",
+          "website": "http://www.kissatanto.com/",
+          "phone": "(778) 379-8078"
         },
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#la-fabrique-st-george",
-          "website": ""
+          "address": "7 East 7th Avenue, Vancouver, British Columbia V5T 1M4, Canada",
+          "eaterUrl": "",
+          "website": "https://www.fabriquestgeorge.com/",
+          "phone": "778-945-1677"
         },
         {
           "name": "Lila",
           "slug": "lila",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#lila-restaurant",
-          "website": ""
+          "address": "3941 Main St, Vancouver BC V5V 3P3",
+          "eaterUrl": "",
+          "website": "https://www.lilarestaurant.ca/",
+          "phone": "(604) 620-3256"
         },
         {
           "name": "Maenam",
           "slug": "maenam",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#maenam",
-          "website": ""
+          "address": "1938 4th Ave W (btwn Maple & Cypress), Vancouver BC V6J 1M5",
+          "eaterUrl": "",
+          "website": "http://www.maenam.ca/",
+          "phone": "(604) 730-5579"
         },
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#marutama-ra-men-canada-westend",
-          "website": ""
+          "address": "780 Bidwell St (at Robson St), Vancouver BC V6G 2J6",
+          "eaterUrl": "",
+          "website": "https://maruhachi.ca/",
+          "phone": "(604) 688-8837"
         },
         {
           "name": "Maxine’s Cafe & Bar",
           "slug": "maxines-cafe-bar",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#maxine-s-cafe-bar",
-          "website": ""
+          "address": "1325 Burrard St, Vancouver BC V6Z 1Z7",
+          "eaterUrl": "",
+          "website": "http://maxinescafebar.com/",
+          "phone": "(604) 707-7224"
         },
         {
           "name": "Miso Taco",
           "slug": "miso-taco",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#miso-taco",
-          "website": ""
+          "address": "3456 Cambie Street, Vancouver, British Columbia V5Z 2W8, Canada",
+          "eaterUrl": "",
+          "website": "https://misotaco.ca",
+          "phone": "(604) 336-4757"
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#odd-society-spirits",
-          "website": ""
+          "address": "1725 Powell St (btwn Commercial & Salisbury), Vancouver BC V5L 1H6",
+          "eaterUrl": "",
+          "website": "http://www.oddsocietyspirits.com/",
+          "phone": "(604) 559-6745"
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#ophelia",
-          "website": ""
+          "address": "165 2nd Ave W, Vancouver BC V5Y 1B8",
+          "eaterUrl": "",
+          "website": "https://www.opheliakitchen.ca/",
+          "phone": "(604) 800-5253"
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#phnom-penh",
-          "website": ""
+          "address": "244 E. Georgia St (at Main St), Vancouver BC V6A 1Z7",
+          "eaterUrl": "",
+          "website": "http://www.phnompenhrestaurant.ca",
+          "phone": "6046825777"
         },
         {
           "name": "Pidgin",
           "slug": "pidgin",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#pidgin",
-          "website": ""
+          "address": "350 Carrall St (btwn Cordova & Hastings), Vancouver BC V6B 2J3",
+          "eaterUrl": "",
+          "website": "http://www.pidginvancouver.com/",
+          "phone": "604 620 9400"
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#published-on-main",
-          "website": ""
+          "address": "3593 Main St, Vancouver BC V5V 3N4",
+          "eaterUrl": "",
+          "website": "http://www.publishedonmain.com/",
+          "phone": "(604) 423-4840"
         },
         {
           "name": "Reflections",
           "slug": "reflections",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#reflections",
-          "website": ""
+          "address": "801 Georgia St W (in the Hotel Georgia), Vancouver BC V6C 1P7",
+          "eaterUrl": "",
+          "website": "http://www.rosewoodhotels.com/en/hotelgeorgia/dining/reflections_lounge",
+          "phone": "(604) 682-5566"
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#sashimiya",
-          "website": ""
+          "address": "1330 Hornby St (Drake Street), Vancouver BC V6Z 1W5",
+          "eaterUrl": "",
+          "website": "http://sashimiya.ca/",
+          "phone": "(604) 689-0088"
         },
         {
           "name": "Straight Brooklyn Pizza",
           "slug": "straight-brooklyn-pizza",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#straight-outta-brooklyn-nyc-pizzeria",
-          "website": ""
+          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC V6B 2B2",
+          "eaterUrl": "",
+          "website": "http://www.straightouttabrooklynpizza.com",
+          "phone": "(604) 559-3500"
         },
         {
           "name": "Suyo Modern Peruvian",
           "slug": "suyo-modern-peruvian",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#suyo-modern-peruvian",
-          "website": ""
+          "address": "3475 Main Street, BC V5V 3M9",
+          "eaterUrl": "",
+          "website": "http://www.suyo.ca/",
+          "phone": "(604) 322-1588"
         },
         {
           "name": "The 515 Bar",
           "slug": "the-515-bar",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#the-515-bar",
-          "website": ""
+          "address": "521 Seymour Street, Vancouver, British Columbia V6B 3J5, Canada",
+          "eaterUrl": "",
+          "website": "https://www.the515bar.ca/",
+          "phone": ""
         },
         {
           "name": "The Acorn",
           "slug": "the-acorn",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#the-acorn",
-          "website": ""
+          "address": "3995 Main St (24th Ave), Vancouver BC V5V 3P3",
+          "eaterUrl": "",
+          "website": "http://www.theacornrestaurant.ca",
+          "phone": "6045669001"
         },
         {
           "name": "Vij’s",
           "slug": "vijs",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#vij-s",
-          "website": ""
+          "address": "3106 Cambie St (at W 15th Ave), Vancouver BC V5Z 2W2",
+          "eaterUrl": "",
+          "website": "http://www.vijsrestaurant.ca/",
+          "phone": "(604) 736-6664"
         },
         {
           "name": "Wicked Cafe",
           "slug": "wicked-cafe",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#wicked-cafe",
-          "website": ""
+          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC V6H 1B8",
+          "eaterUrl": "",
+          "website": "http://www.wickedcafe.ca",
+          "phone": "(604) 733-9425"
         }
       ]
     },
@@ -3559,268 +4053,306 @@
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#anh-and-chi",
-          "website": ""
+          "address": "3388 Main Street, BC, V5V 3M7",
+          "eaterUrl": "",
+          "website": "http://www.anhandchi.com/",
+          "phone": "(604) 878-8883"
         },
         {
           "name": "Baan Lao Fine Thai Cuisine",
           "slug": "baan-lao-fine-thai-cuisine",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#baan-lao-fine-thai-cuisine",
-          "website": ""
+          "address": "4100 Bayview Street, Richmond, British Columbia V7E 0B3, Canada",
+          "eaterUrl": "",
+          "website": "http://baanlao.ca",
+          "phone": "(778) 839-5711"
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#bao-bei",
-          "website": ""
+          "address": "163 Keefer Street, BC, V6A 1X4",
+          "eaterUrl": "",
+          "website": "http://bao-bei.ca/",
+          "phone": "(604) 688-0876"
         },
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#bar-tartare",
-          "website": ""
+          "address": "54 Alexander Street, Vancouver, British Columbia V6A 1B4, Canada",
+          "eaterUrl": "",
+          "website": "https://www.bartartareyvr.ca/",
+          "phone": ""
         },
         {
           "name": "Breeze Bar",
           "slug": "breeze-bar",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#breeze-bar",
-          "website": ""
+          "address": "213 Carrall Street, Vancouver, British Columbia V6B 2J2, Canada",
+          "eaterUrl": "",
+          "website": "https://www.instagram.com/breezebaryvr/",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#burdock-co",
-          "website": ""
+          "address": "2702 Main Street, BC, V5T 3E8",
+          "eaterUrl": "",
+          "website": "http://www.burdockandco.com/",
+          "phone": "(604) 879-0077"
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#caff-la-tana",
-          "website": ""
+          "address": "635 Commercial Drive, BC, V5L 3W3",
+          "eaterUrl": "",
+          "website": "http://www.caffelatana.ca/",
+          "phone": "(604) 428-5462"
         },
         {
           "name": "Coast",
           "slug": "coast",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#coast",
-          "website": ""
+          "address": "1054 Alberni Street, Vancouver, British Columbia V6E 1A3, Canada",
+          "eaterUrl": "",
+          "website": "https://www.glowbalgroup.com/coast/",
+          "phone": "(604) 685-5010"
         },
         {
           "name": "Cómo Taperia",
           "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#como-taperia",
-          "website": ""
+          "address": "201 East 7th Avenue, BC, V5T 0B4",
+          "eaterUrl": "",
+          "website": "https://www.comotaperia.com/",
+          "phone": "(604) 879-3100"
         },
         {
           "name": "Dachi",
           "slug": "dachi",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dachi",
-          "website": ""
+          "address": "2297 Hastings St E, Vancouver BC V5L 1V3",
+          "eaterUrl": "",
+          "website": "http://www.dachivancouver.com",
+          "phone": "(604) 569-0456"
         },
         {
           "name": "Dante Italian Sandwich",
           "slug": "dante-italian-sandwich",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dante-italian-sandwich",
-          "website": ""
+          "address": "360 Robson Street, Vancouver, British Columbia V6B 2B2, Canada",
+          "eaterUrl": "",
+          "website": "https://www.dantesandwich.com/",
+          "phone": "604-336-0044"
         },
         {
           "name": "Dosanko",
           "slug": "dosanko",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dosanko",
-          "website": ""
+          "address": "566 Powell St, Vancouver BC V6A 1G9",
+          "eaterUrl": "",
+          "website": "http://dosankorestaurant.ca",
+          "phone": "(604) 251-2020"
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dynasty-seafood-restaurant",
-          "website": ""
+          "address": "108-777 West Broadway, BC V5Z 4J7",
+          "eaterUrl": "",
+          "website": "http://www.dynasty-restaurant.ca/",
+          "phone": "(604) 876-8388"
         },
         {
           "name": "El Gato Gab Gab",
           "slug": "el-gato-gab-gab",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#el-gato-gab-gab",
-          "website": ""
+          "address": "2650 Main Street, Vancouver, British Columbia V5T 3E6, Canada",
+          "eaterUrl": "",
+          "website": "https://elgatogabgab.com/",
+          "phone": ""
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#golden-paramount-seafood-restaurant",
-          "website": ""
+          "address": "8111 Anderson Road, BC, V6Y 3Z8",
+          "eaterUrl": "",
+          "website": "https://www.goldenparamount.com/",
+          "phone": "(604) 278-0873"
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#granville-island-public-market",
-          "website": ""
+          "address": "1669 Johnston Street, BC, V6H 3R9",
+          "eaterUrl": "",
+          "website": "http://www.granvilleisland.com/",
+          "phone": "(604) 666-6655"
         },
         {
           "name": "It’s Okay",
           "slug": "its-okay",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#its-okay",
-          "website": ""
+          "address": "2481 East Hastings Street, Vancouver, British Columbia V5K 1Y8, Canada",
+          "eaterUrl": "",
+          "website": "https://www.itsokay.ca/",
+          "phone": "(604) 423-4229"
         },
         {
           "name": "Japadog",
           "slug": "japadog",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#japa-dog",
-          "website": ""
+          "address": "899 Burrard St (at Smithe St.), Vancouver BC V6Z 1X9",
+          "eaterUrl": "",
+          "website": "http://www.japadog.com",
+          "phone": "(604) 569-1158"
         },
         {
           "name": "Kapow Burger",
           "slug": "kapow-burger",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#kapow-burger",
-          "website": ""
+          "address": "20 East 4th Avenue, Vancouver, British Columbia V5T 1E8, Canada",
+          "eaterUrl": "",
+          "website": "https://www.instagram.com/kapow_burger/?hl=en",
+          "phone": ""
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#kissa-tanto",
-          "website": ""
+          "address": "263 East Pender Street, BC, V6A 1T8",
+          "eaterUrl": "",
+          "website": "http://www.kissatanto.com/",
+          "phone": "(778) 379-8078"
         },
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#la-fabrique-st-george",
-          "website": ""
+          "address": "7 East 7th Avenue, Vancouver, British Columbia V5T 1M4, Canada",
+          "eaterUrl": "",
+          "website": "https://www.fabriquestgeorge.com/",
+          "phone": "778-945-1677"
         },
         {
           "name": "Lila",
           "slug": "lila",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#lila-restaurant",
-          "website": ""
+          "address": "3941 Main St, Vancouver BC V5V 3P3",
+          "eaterUrl": "",
+          "website": "https://www.lilarestaurant.ca/",
+          "phone": "(604) 620-3256"
         },
         {
           "name": "Maenam",
           "slug": "maenam",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#maenam",
-          "website": ""
+          "address": "1938 West 4th Avenue, BC, V6J 1M5",
+          "eaterUrl": "",
+          "website": "http://www.maenam.ca/",
+          "phone": "(604) 730-5579"
         },
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#marutama-ra-men-canada-westend",
-          "website": ""
+          "address": "780 Bidwell Street, BC, V6G 2J6",
+          "eaterUrl": "",
+          "website": "https://maruhachi.ca/",
+          "phone": "(604) 688-8837"
         },
         {
           "name": "Miso Taco",
           "slug": "miso-taco",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#miso-taco",
-          "website": ""
+          "address": "3456 Cambie Street, Vancouver, British Columbia V5Z 2W8, Canada",
+          "eaterUrl": "",
+          "website": "https://misotaco.ca",
+          "phone": "(604) 336-4757"
         },
         {
           "name": "Noah’s Cafe",
           "slug": "noahs-cafe",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#noahs-cafe",
-          "website": ""
+          "address": "1096 Denman Street, Vancouver, British Columbia V6G 2M8, Canada",
+          "eaterUrl": "",
+          "website": "http://noahscafe604.com",
+          "phone": "(604) 559-1096"
         },
         {
           "name": "Odd Society Spirits",
           "slug": "odd-society-spirits",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#odd-society-spirits",
-          "website": ""
+          "address": "1725 Powell Street, BC, V5L 1H6",
+          "eaterUrl": "",
+          "website": "http://www.oddsocietyspirits.com/",
+          "phone": "(604) 559-6745"
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#ophelia",
-          "website": ""
+          "address": "165 West 2nd Avenue, BC, V5Y 1B8",
+          "eaterUrl": "",
+          "website": "https://www.opheliakitchen.ca/",
+          "phone": "(604) 800-5253"
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#phnom-penh",
-          "website": ""
+          "address": "244 East Georgia Street, Vancouver, BC, V6A 1Z7",
+          "eaterUrl": "",
+          "website": "http://www.phnompenhrestaurant.ca",
+          "phone": "6046825777"
         },
         {
           "name": "Pho In Love",
           "slug": "pho-in-love",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#pho-in-love",
-          "website": ""
+          "address": "1725 Davie Street, Vancouver, British Columbia V6G 1W5, Canada",
+          "eaterUrl": "",
+          "website": "http://phoinlove.ca",
+          "phone": "(604) 609-7010"
         },
         {
           "name": "Pidgin",
           "slug": "pidgin",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#pidgin",
-          "website": ""
+          "address": "350 Carrall Street, Vancouver, BC, V6B2J3",
+          "eaterUrl": "",
+          "website": "http://www.pidginvancouver.com/",
+          "phone": "604 620 9400"
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#published-on-main",
-          "website": ""
+          "address": "3593 Main Street, BC, V5V 3N4",
+          "eaterUrl": "",
+          "website": "http://www.publishedonmain.com/",
+          "phone": "(604) 423-4840"
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#sashimiya",
-          "website": ""
+          "address": "1348 Hornby Street, BC, V6Z 1W5",
+          "eaterUrl": "",
+          "website": "http://sashimiya.ca/",
+          "phone": "(604) 689-0088"
         },
         {
           "name": "Straight Brooklyn Pizza",
           "slug": "straight-brooklyn-pizza",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#straight-outta-brooklyn-nyc-pizzeria",
-          "website": ""
+          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC V6B 2B2",
+          "eaterUrl": "",
+          "website": "http://www.straightouttabrooklynpizza.com",
+          "phone": "(604) 559-3500"
         },
         {
           "name": "The 515 Bar",
           "slug": "the-515-bar",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#the-515-bar",
-          "website": ""
+          "address": "521 Seymour Street, Vancouver, British Columbia V6B 3J5, Canada",
+          "eaterUrl": "",
+          "website": "https://www.the515bar.ca/",
+          "phone": ""
         },
         {
           "name": "The Acorn",
           "slug": "the-acorn",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#the-acorn",
-          "website": ""
+          "address": "3995 Main Street, Vancouver, BC, V5V 3P3",
+          "eaterUrl": "",
+          "website": "http://www.theacornrestaurant.ca",
+          "phone": "6045669001"
         },
         {
           "name": "Vij’s",
           "slug": "vijs",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#vij-s",
-          "website": ""
+          "address": "3106 Cambie Street, BC, V5Z 2W2",
+          "eaterUrl": "",
+          "website": "http://www.vijsrestaurant.ca/",
+          "phone": "(604) 736-6664"
         },
         {
           "name": "Wicked Cafe",
           "slug": "wicked-cafe",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#wicked-cafe",
-          "website": ""
+          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC V6H 1B8",
+          "eaterUrl": "",
+          "website": "http://www.wickedcafe.ca",
+          "phone": "(604) 733-9425"
         }
       ]
     },
@@ -3832,268 +4364,306 @@
         {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#anh-and-chi",
-          "website": ""
+          "address": "3388 Main Street, BC, V5V 3M7",
+          "eaterUrl": "",
+          "website": "http://www.anhandchi.com/",
+          "phone": "(604) 878-8883"
         },
         {
           "name": "Baan Lao Fine Thai Cuisine",
           "slug": "baan-lao-fine-thai-cuisine",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#baan-lao-fine-thai-cuisine",
-          "website": ""
+          "address": "4100 Bayview Street, Richmond, British Columbia V7E 0B3, Canada",
+          "eaterUrl": "",
+          "website": "http://baanlao.ca",
+          "phone": "(778) 839-5711"
         },
         {
           "name": "Bao Bei",
           "slug": "bao-bei",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#bao-bei",
-          "website": ""
+          "address": "163 Keefer Street, BC, V6A 1X4",
+          "eaterUrl": "",
+          "website": "http://bao-bei.ca/",
+          "phone": "(604) 688-0876"
         },
         {
           "name": "Bar Tartare",
           "slug": "bar-tartare",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#bar-tartare",
-          "website": ""
+          "address": "54 Alexander Street, Vancouver, British Columbia V6A 1B4, Canada",
+          "eaterUrl": "",
+          "website": "https://www.bartartareyvr.ca/",
+          "phone": ""
         },
         {
           "name": "Blue Water Cafe",
           "slug": "blue-water-cafe",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#blue-water-cafe-raw-bar",
-          "website": ""
+          "address": "1095 Hamilton St (at Helmcken St), Vancouver BC V6B 5T4",
+          "eaterUrl": "",
+          "website": "http://www.bluewatercafe.com/",
+          "phone": "(218) 387-1597"
         },
         {
           "name": "Breeze Bar",
           "slug": "breeze-bar",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#breeze-bar",
-          "website": ""
+          "address": "213 Carrall Street, Vancouver, British Columbia V6B 2J2, Canada",
+          "eaterUrl": "",
+          "website": "https://www.instagram.com/breezebaryvr/",
+          "phone": ""
         },
         {
           "name": "Burdock & Co",
           "slug": "burdock-co",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#burdock-co",
-          "website": ""
+          "address": "2702 Main Street, BC, V5T 3E8",
+          "eaterUrl": "",
+          "website": "http://www.burdockandco.com/",
+          "phone": "(604) 879-0077"
         },
         {
           "name": "Cafe Medina",
           "slug": "cafe-medina",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#cafe-medina",
-          "website": ""
+          "address": "780 Richards St (btwn W Georgia & Robson), Vancouver BC V6B 3A4",
+          "eaterUrl": "",
+          "website": "http://www.medinacafe.com",
+          "phone": "(604) 879-3114"
         },
         {
           "name": "Caffé La Tana",
           "slug": "caffe-la-tana",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#caff-la-tana",
-          "website": ""
+          "address": "635 Commercial Drive, BC, V5L 3W3",
+          "eaterUrl": "",
+          "website": "http://www.caffelatana.ca/",
+          "phone": "(604) 428-5462"
         },
         {
           "name": "Coast",
           "slug": "coast",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#coast",
-          "website": ""
+          "address": "1054 Alberni Street, Vancouver, British Columbia V6E 1A3, Canada",
+          "eaterUrl": "",
+          "website": "https://www.glowbalgroup.com/coast/",
+          "phone": "(604) 685-5010"
         },
         {
           "name": "Cómo Taperia",
           "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#como-taperia",
-          "website": ""
+          "address": "201 East 7th Avenue, BC, V5T 0B4",
+          "eaterUrl": "",
+          "website": "https://www.comotaperia.com/",
+          "phone": "(604) 879-3100"
         },
         {
           "name": "Dachi",
           "slug": "dachi",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dachi",
-          "website": ""
+          "address": "2297 Hastings St E, Vancouver BC V5L 1V3",
+          "eaterUrl": "",
+          "website": "http://www.dachivancouver.com",
+          "phone": "(604) 569-0456"
         },
         {
           "name": "Dante Italian Sandwich",
           "slug": "dante-italian-sandwich",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dante-italian-sandwich",
-          "website": ""
+          "address": "360 Robson Street, Vancouver, British Columbia V6B 2B2, Canada",
+          "eaterUrl": "",
+          "website": "https://www.dantesandwich.com/",
+          "phone": "604-336-0044"
         },
         {
           "name": "Dosanko",
           "slug": "dosanko",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dosanko",
-          "website": ""
+          "address": "566 Powell St, Vancouver BC V6A 1G9",
+          "eaterUrl": "",
+          "website": "http://dosankorestaurant.ca",
+          "phone": "(604) 251-2020"
         },
         {
           "name": "Dynasty Seafood Restaurant",
           "slug": "dynasty-seafood-restaurant",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#dynasty-seafood-restaurant",
-          "website": ""
+          "address": "108-777 West Broadway, BC V5Z 4J7",
+          "eaterUrl": "",
+          "website": "http://www.dynasty-restaurant.ca/",
+          "phone": "(604) 876-8388"
         },
         {
           "name": "Golden Paramount Seafood Restaurant",
           "slug": "golden-paramount-seafood-restaurant",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#golden-paramount-seafood-restaurant",
-          "website": ""
+          "address": "8111 Anderson Road, BC, V6Y 3Z8",
+          "eaterUrl": "",
+          "website": "https://www.goldenparamount.com/",
+          "phone": "(604) 278-0873"
         },
         {
           "name": "Granville Island Public Market",
           "slug": "granville-island-public-market",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#granville-island-public-market",
-          "website": ""
+          "address": "1669 Johnston Street, BC, V6H 3R9",
+          "eaterUrl": "",
+          "website": "http://www.granvilleisland.com/",
+          "phone": "(604) 666-6655"
         },
         {
           "name": "It’s Okay",
           "slug": "its-okay",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#its-okay",
-          "website": ""
+          "address": "2481 East Hastings Street, Vancouver, British Columbia V5K 1Y8, Canada",
+          "eaterUrl": "",
+          "website": "https://www.itsokay.ca/",
+          "phone": "(604) 423-4229"
         },
         {
           "name": "Japadog",
           "slug": "japadog",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#japa-dog",
-          "website": ""
+          "address": "899 Burrard St (at Smithe St.), Vancouver BC V6Z 1X9",
+          "eaterUrl": "",
+          "website": "http://www.japadog.com",
+          "phone": "(604) 569-1158"
         },
         {
           "name": "Kissa Tanto",
           "slug": "kissa-tanto",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#kissa-tanto",
-          "website": ""
+          "address": "263 East Pender Street, BC, V6A 1T8",
+          "eaterUrl": "",
+          "website": "http://www.kissatanto.com/",
+          "phone": "(778) 379-8078"
         },
         {
           "name": "La Fabrique St-George",
           "slug": "la-fabrique-st-george",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#la-fabrique-st-george",
-          "website": ""
+          "address": "7 East 7th Avenue, Vancouver, British Columbia V5T 1M4, Canada",
+          "eaterUrl": "",
+          "website": "https://www.fabriquestgeorge.com/",
+          "phone": "778-945-1677"
         },
         {
           "name": "Lila",
           "slug": "lila",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#lila-restaurant",
-          "website": ""
+          "address": "3941 Main St, Vancouver BC V5V 3P3",
+          "eaterUrl": "",
+          "website": "https://www.lilarestaurant.ca/",
+          "phone": "(604) 620-3256"
         },
         {
           "name": "Maenam",
           "slug": "maenam",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#maenam",
-          "website": ""
+          "address": "1938 West 4th Avenue, BC, V6J 1M5",
+          "eaterUrl": "",
+          "website": "http://www.maenam.ca/",
+          "phone": "(604) 730-5579"
         },
         {
           "name": "Maruhachi Ra-men",
           "slug": "maruhachi-ra-men",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#marutama-ra-men-canada-westend",
-          "website": ""
+          "address": "780 Bidwell Street, BC, V6G 2J6",
+          "eaterUrl": "",
+          "website": "https://maruhachi.ca/",
+          "phone": "(604) 688-8837"
         },
         {
           "name": "Miso Taco",
           "slug": "miso-taco",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#miso-taco",
-          "website": ""
+          "address": "3456 Cambie Street, Vancouver, British Columbia V5Z 2W8, Canada",
+          "eaterUrl": "",
+          "website": "https://misotaco.ca",
+          "phone": "(604) 336-4757"
         },
         {
           "name": "Noah’s Cafe",
           "slug": "noahs-cafe",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#noahs-cafe",
-          "website": ""
+          "address": "1096 Denman Street, Vancouver, British Columbia V6G 2M8, Canada",
+          "eaterUrl": "",
+          "website": "http://noahscafe604.com",
+          "phone": "(604) 559-1096"
         },
         {
           "name": "Ophelia",
           "slug": "ophelia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#ophelia",
-          "website": ""
+          "address": "165 West 2nd Avenue, BC, V5Y 1B8",
+          "eaterUrl": "",
+          "website": "https://www.opheliakitchen.ca/",
+          "phone": "(604) 800-5253"
         },
         {
           "name": "Phnom Penh",
           "slug": "phnom-penh",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#phnom-penh",
-          "website": ""
+          "address": "244 East Georgia Street, Vancouver, BC, V6A 1Z7",
+          "eaterUrl": "",
+          "website": "http://www.phnompenhrestaurant.ca",
+          "phone": "6046825777"
         },
         {
           "name": "Pho In Love",
           "slug": "pho-in-love",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#pho-in-love",
-          "website": ""
+          "address": "1725 Davie Street, Vancouver, British Columbia V6G 1W5, Canada",
+          "eaterUrl": "",
+          "website": "http://phoinlove.ca",
+          "phone": "(604) 609-7010"
         },
         {
           "name": "Pidgin",
           "slug": "pidgin",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#pidgin",
-          "website": ""
+          "address": "350 Carrall Street, Vancouver, BC, V6B2J3",
+          "eaterUrl": "",
+          "website": "http://www.pidginvancouver.com/",
+          "phone": "604 620 9400"
         },
         {
           "name": "Published on Main",
           "slug": "published-on-main",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#published-on-main",
-          "website": ""
+          "address": "3593 Main Street, BC, V5V 3N4",
+          "eaterUrl": "",
+          "website": "http://www.publishedonmain.com/",
+          "phone": "(604) 423-4840"
         },
         {
           "name": "Sashimiya",
           "slug": "sashimiya",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#sashimiya",
-          "website": ""
+          "address": "1348 Hornby Street, BC, V6Z 1W5",
+          "eaterUrl": "",
+          "website": "http://sashimiya.ca/",
+          "phone": "(604) 689-0088"
         },
         {
           "name": "Straight Brooklyn Pizza",
           "slug": "straight-brooklyn-pizza",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#straight-outta-brooklyn-nyc-pizzeria",
-          "website": ""
+          "address": "350 Robson St (btwn Homer & Hamilton), Vancouver BC V6B 2B2",
+          "eaterUrl": "",
+          "website": "http://www.straightouttabrooklynpizza.com",
+          "phone": "(604) 559-3500"
         },
         {
           "name": "The 515 Bar",
           "slug": "the-515-bar",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#the-515-bar",
-          "website": ""
+          "address": "521 Seymour Street, Vancouver, British Columbia V6B 3J5, Canada",
+          "eaterUrl": "",
+          "website": "https://www.the515bar.ca/",
+          "phone": ""
         },
         {
           "name": "The Acorn",
           "slug": "the-acorn",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#the-acorn",
-          "website": ""
+          "address": "3995 Main Street, Vancouver, BC, V5V 3P3",
+          "eaterUrl": "",
+          "website": "http://www.theacornrestaurant.ca",
+          "phone": "6045669001"
         },
         {
           "name": "Vij’s",
           "slug": "vijs",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#vij-s",
-          "website": ""
+          "address": "3106 Cambie Street, BC, V5Z 2W2",
+          "eaterUrl": "",
+          "website": "http://www.vijsrestaurant.ca/",
+          "phone": "(604) 736-6664"
         },
         {
           "name": "Wicked Cafe",
           "slug": "wicked-cafe",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#wicked-cafe",
-          "website": ""
+          "address": "1399 7th Ave W (at Hemlock St), Vancouver BC V6H 1B8",
+          "eaterUrl": "",
+          "website": "http://www.wickedcafe.ca",
+          "phone": "(604) 733-9425"
         },
         {
           "name": "Zabu Chicken",
           "slug": "zabu-chicken",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada#zabu-chicken",
-          "website": ""
+          "address": "1635 Robson St, Vancouver BC V6G 1C8",
+          "eaterUrl": "",
+          "website": "https://www.zabuchicken.com/",
+          "phone": "(604) 602-0021"
         }
       ]
     }

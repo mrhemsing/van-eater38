@@ -6,6 +6,8 @@ export type Restaurant = {
   slug: string;
   address?: string;
   eaterUrl?: string;
+  website?: string;
+  phone?: string;
 };
 
 export type Version = {
