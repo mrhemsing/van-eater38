@@ -84,6 +84,9 @@ function normalizeRestaurants(items) {
         eaterUrl: item?.eaterUrl || '',
         website: item?.website || '',
         phone: PHONE_OVERRIDES[normalizedSlug] || item?.phone || '',
+        openFor: item?.openFor || '',
+        priceRange: item?.priceRange || '',
+        descriptionText: item?.descriptionText || '',
       };
     })
     .filter((r) => r.name);
@@ -152,6 +155,34 @@ function extractJsonArrayByKey(html, key) {
   return null;
 }
 
+function parseMapDescription(description) {
+  const parts = Array.isArray(description)
+    ? description.map((d) => d?.plaintext || '').filter(Boolean)
+    : [];
+
+  let openFor = '';
+  let priceRange = '';
+  const descriptionLines = [];
+
+  for (const part of parts) {
+    if (/^Open for:/i.test(part)) {
+      openFor = part.replace(/^Open for:\s*/i, '').trim();
+      continue;
+    }
+    if (/^Price range:/i.test(part)) {
+      priceRange = part.replace(/^Price range:\s*/i, '').trim();
+      continue;
+    }
+    descriptionLines.push(part.trim());
+  }
+
+  return {
+    openFor,
+    priceRange,
+    descriptionText: descriptionLines.join(' '),
+  };
+}
+
 function parseFromMapPoints(html) {
   const arrayText = extractJsonArrayByKey(html, 'mapPoints');
   if (!arrayText) return null;
@@ -160,13 +191,19 @@ function parseFromMapPoints(html) {
   if (!Array.isArray(points) || points.length < 30) return null;
 
   return normalizeRestaurants(
-    points.map((point) => ({
-      name: point?.name,
-      address: point?.address || '',
-      eaterUrl: point?.eaterUrl || '',
-      website: point?.url || point?.venue?.website || '',
-      phone: point?.phone || point?.venue?.phone || point?.venue?.telephone || '',
-    })),
+    points.map((point) => {
+      const parsed = parseMapDescription(point?.description);
+      return {
+        name: point?.name,
+        address: point?.address || '',
+        eaterUrl: point?.eaterUrl || '',
+        website: point?.url || point?.venue?.website || '',
+        phone: point?.phone || point?.venue?.phone || point?.venue?.telephone || '',
+        openFor: parsed.openFor,
+        priceRange: parsed.priceRange,
+        descriptionText: parsed.descriptionText,
+      };
+    }),
   );
 }
 

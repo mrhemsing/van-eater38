@@ -172,6 +172,25 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                             label={restaurant.website ? 'Visit website' : 'Website not available from source'}
                             href={restaurant.website || undefined}
                           />
+                          <DetailRow
+                            icon="🍽"
+                            label={restaurant.openFor ? `Open for: ${restaurant.openFor}` : 'Open for: Not available'}
+                          />
+                          <DetailRow
+                            icon="💲"
+                            label={restaurant.priceRange ? `Price range: ${restaurant.priceRange}` : 'Price range: Not available'}
+                          />
+                          {restaurant.descriptionText ? (
+                            <div className="border-b border-neutral-800/80 py-2 text-neutral-300">
+                              <span className="mr-2">📝</span>
+                              {restaurant.descriptionText}
+                            </div>
+                          ) : (
+                            <div className="border-b border-neutral-800/80 py-2 text-neutral-500">
+                              <span className="mr-2">📝</span>
+                              Description: Not available
+                            </div>
+                          )}
                         </div>
                       ) : null}
                     </article>

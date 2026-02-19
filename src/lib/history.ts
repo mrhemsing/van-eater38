@@ -8,6 +8,9 @@ export type Restaurant = {
   eaterUrl?: string;
   website?: string;
   phone?: string;
+  openFor?: string;
+  priceRange?: string;
+  descriptionText?: string;
 };
 
 export type Version = {
