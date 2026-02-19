@@ -127,6 +127,8 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           </section>
 
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
+            <p className="mb-1 text-sm text-neutral-400 md:hidden">{toMonthYear(selectedVersion.date)}</p>
+
             <div className="flex flex-wrap items-center justify-between gap-3">
               <h3 className="text-lg font-semibold text-white">The 38 Best Restaurants in Vancouver</h3>
               <div className="relative inline-flex rounded-full border border-neutral-700 bg-neutral-900/70 p-1">
@@ -157,7 +159,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               </div>
             </div>
 
-            <p className="-mt-0.5 mb-2 text-sm text-neutral-400">{toMonthYear(selectedVersion.date)}</p>
+            <p className="-mt-0.5 mb-2 hidden text-sm text-neutral-400 md:block">{toMonthYear(selectedVersion.date)}</p>
 
             {viewMode === 'map' ? (
               <RestaurantMap restaurants={selectedVersion.restaurants} />
