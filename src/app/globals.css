@@ -44,7 +44,7 @@ body {
 @media (max-width: 767px) {
   .eater-bg {
     background-image:
-      linear-gradient(rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.90)),
+      linear-gradient(rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.92)),
       url('/images/kitchen-bg.jpg');
     background-size: auto, 640px 640px;
     background-repeat: no-repeat, repeat;
