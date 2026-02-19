@@ -195,7 +195,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               <img
                                 src={restaurant.imageUrl}
                                 alt={`${restaurant.name} photo`}
-                                className="h-auto w-full rounded-lg border border-neutral-800 object-cover"
+                                className="h-auto w-full max-w-[500px] rounded-lg border border-neutral-800 object-cover"
                                 loading="lazy"
                               />
                             </div>
