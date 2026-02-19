@@ -31,6 +31,10 @@ const PHONE_OVERRIDES = {
   'the-515-bar': '(604) 428-8226',
 };
 
+const NAME_OVERRIDES = {
+  'como-taperia': 'Cómo Taperia',
+};
+
 function normalizeAddress(address) {
   if (!address) return '';
 
@@ -79,7 +83,7 @@ function normalizeRestaurants(items) {
       const normalizedSlug = canonical?.slug || rawSlug;
 
       return {
-        name: canonical?.name || rawName,
+        name: NAME_OVERRIDES[normalizedSlug] || canonical?.name || rawName,
         slug: normalizedSlug,
         address: normalizeAddress(item?.address?.trim() || ''),
         eaterUrl: item?.eaterUrl || '',

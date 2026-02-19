@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T19:59:46.094Z",
+  "generatedAt": "2026-02-19T20:12:23.224Z",
   "source": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
   "versions": [
     {
@@ -7,18 +7,6 @@
       "date": "2022-05-26",
       "source": "https://web.archive.org/web/20220526154632id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
-        {
-          "name": "¿Cómo? Taperia",
-          "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": "",
-          "phone": "",
-          "openFor": "",
-          "priceRange": "",
-          "descriptionText": "",
-          "imageUrl": "/images/restaurants/como-taperia.jpg"
-        },
         {
           "name": "Ancora Waterfront Dining and Patio",
           "slug": "ancora-waterfront-dining-and-patio",
@@ -174,6 +162,18 @@
           "priceRange": "",
           "descriptionText": "",
           "imageUrl": ""
+        },
+        {
+          "name": "Cómo Taperia",
+          "slug": "como-taperia",
+          "address": "",
+          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
+          "website": "",
+          "phone": "",
+          "openFor": "",
+          "priceRange": "",
+          "descriptionText": "",
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -471,18 +471,6 @@
       "source": "https://web.archive.org/web/20220601215503id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "¿Cómo? Taperia",
-          "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": "",
-          "phone": "",
-          "openFor": "",
-          "priceRange": "",
-          "descriptionText": "",
-          "imageUrl": "/images/restaurants/como-taperia.jpg"
-        },
-        {
           "name": "Ancora Waterfront Dining and Patio",
           "slug": "ancora-waterfront-dining-and-patio",
           "address": "",
@@ -637,6 +625,18 @@
           "priceRange": "",
           "descriptionText": "",
           "imageUrl": ""
+        },
+        {
+          "name": "Cómo Taperia",
+          "slug": "como-taperia",
+          "address": "",
+          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
+          "website": "",
+          "phone": "",
+          "openFor": "",
+          "priceRange": "",
+          "descriptionText": "",
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -934,18 +934,6 @@
       "source": "https://web.archive.org/web/20220802165332id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "¿Cómo? Taperia",
-          "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": "",
-          "phone": "",
-          "openFor": "",
-          "priceRange": "",
-          "descriptionText": "",
-          "imageUrl": "/images/restaurants/como-taperia.jpg"
-        },
-        {
           "name": "Au Comptoir",
           "slug": "au-comptoir",
           "address": "",
@@ -1112,6 +1100,18 @@
           "priceRange": "",
           "descriptionText": "",
           "imageUrl": ""
+        },
+        {
+          "name": "Cómo Taperia",
+          "slug": "como-taperia",
+          "address": "",
+          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
+          "website": "",
+          "phone": "",
+          "openFor": "",
+          "priceRange": "",
+          "descriptionText": "",
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -1397,18 +1397,6 @@
       "source": "https://web.archive.org/web/20221102152826id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "¿Cómo? Taperia",
-          "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": "",
-          "phone": "",
-          "openFor": "",
-          "priceRange": "",
-          "descriptionText": "",
-          "imageUrl": "/images/restaurants/como-taperia.jpg"
-        },
-        {
           "name": "Bacaro",
           "slug": "bacaro",
           "address": "",
@@ -1551,6 +1539,18 @@
           "priceRange": "",
           "descriptionText": "",
           "imageUrl": ""
+        },
+        {
+          "name": "Cómo Taperia",
+          "slug": "como-taperia",
+          "address": "",
+          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
+          "website": "",
+          "phone": "",
+          "openFor": "",
+          "priceRange": "",
+          "descriptionText": "",
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -1860,18 +1860,6 @@
       "source": "https://web.archive.org/web/20230324103758id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "¿Cómo? Taperia",
-          "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": "",
-          "phone": "",
-          "openFor": "",
-          "priceRange": "",
-          "descriptionText": "",
-          "imageUrl": "/images/restaurants/como-taperia.jpg"
-        },
-        {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
           "address": "",
@@ -2002,6 +1990,18 @@
           "priceRange": "",
           "descriptionText": "",
           "imageUrl": ""
+        },
+        {
+          "name": "Cómo Taperia",
+          "slug": "como-taperia",
+          "address": "",
+          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
+          "website": "",
+          "phone": "",
+          "openFor": "",
+          "priceRange": "",
+          "descriptionText": "",
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dynasty Seafood Restaurant",
@@ -2323,18 +2323,6 @@
       "source": "https://web.archive.org/web/20230520021506id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "¿Cómo? Taperia",
-          "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": "",
-          "phone": "",
-          "openFor": "",
-          "priceRange": "",
-          "descriptionText": "",
-          "imageUrl": "/images/restaurants/como-taperia.jpg"
-        },
-        {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
           "address": "",
@@ -2441,6 +2429,18 @@
           "priceRange": "",
           "descriptionText": "",
           "imageUrl": ""
+        },
+        {
+          "name": "Cómo Taperia",
+          "slug": "como-taperia",
+          "address": "",
+          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
+          "website": "",
+          "phone": "",
+          "openFor": "",
+          "priceRange": "",
+          "descriptionText": "",
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dachi",
@@ -2786,18 +2786,6 @@
       "source": "https://web.archive.org/web/20230820074354id_/https://www.eater.com/maps/best-vancouver-restaurants-bc-canada",
       "restaurants": [
         {
-          "name": "¿Cómo? Taperia",
-          "slug": "como-taperia",
-          "address": "",
-          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
-          "website": "",
-          "phone": "",
-          "openFor": "",
-          "priceRange": "",
-          "descriptionText": "",
-          "imageUrl": "/images/restaurants/como-taperia.jpg"
-        },
-        {
           "name": "Anh and Chi",
           "slug": "anh-and-chi",
           "address": "",
@@ -2904,6 +2892,18 @@
           "priceRange": "",
           "descriptionText": "",
           "imageUrl": ""
+        },
+        {
+          "name": "Cómo Taperia",
+          "slug": "como-taperia",
+          "address": "",
+          "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/como-taperia",
+          "website": "",
+          "phone": "",
+          "openFor": "",
+          "priceRange": "",
+          "descriptionText": "",
+          "imageUrl": "/images/restaurants/como-taperia.jpg"
         },
         {
           "name": "Dachi",
@@ -3357,7 +3357,7 @@
           "imageUrl": ""
         },
         {
-          "name": "Como Taperia",
+          "name": "Cómo Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-28",
@@ -3820,7 +3820,7 @@
           "imageUrl": ""
         },
         {
-          "name": "Como Taperia",
+          "name": "Cómo Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-28",
@@ -4283,7 +4283,7 @@
           "imageUrl": ""
         },
         {
-          "name": "Como Taperia",
+          "name": "Cómo Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-28",
@@ -4746,7 +4746,7 @@
           "imageUrl": ""
         },
         {
-          "name": "Como Taperia",
+          "name": "Cómo Taperia",
           "slug": "como-taperia",
           "address": "",
           "eaterUrl": "https://www.eater.com/maps/best-vancouver-restaurants-bc-canada/article-29",
