@@ -129,12 +129,18 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
             <div className="flex flex-wrap items-center justify-between gap-3">
               <h3 className="text-lg font-semibold text-white">The 38 Best Restaurants in Vancouver</h3>
-              <div className="inline-flex rounded-full border border-neutral-700 bg-neutral-900/70 p-1">
+              <div className="relative inline-flex rounded-full border border-neutral-700 bg-neutral-900/70 p-1">
+                <div
+                  className={`pointer-events-none absolute top-1 bottom-1 w-[calc(50%-4px)] rounded-full bg-orange-500/20 transition-transform duration-300 ease-out ${
+                    viewMode === 'map' ? 'translate-x-full' : 'translate-x-0'
+                  }`}
+                  style={{ left: 4 }}
+                />
                 <button
                   type="button"
                   onClick={() => setViewMode('list')}
-                  className={`rounded-full px-3 py-1 text-sm transition ${
-                    viewMode === 'list' ? 'bg-orange-500/20 text-orange-200' : 'text-neutral-300 hover:text-neutral-100'
+                  className={`relative z-10 w-[96px] rounded-full px-3 py-1 text-sm transition ${
+                    viewMode === 'list' ? 'text-orange-200' : 'text-neutral-300 hover:text-neutral-100'
                   }`}
                 >
                   View list
@@ -142,8 +148,8 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 <button
                   type="button"
                   onClick={() => setViewMode('map')}
-                  className={`rounded-full px-3 py-1 text-sm transition ${
-                    viewMode === 'map' ? 'bg-orange-500/20 text-orange-200' : 'text-neutral-300 hover:text-neutral-100'
+                  className={`relative z-10 w-[96px] rounded-full px-3 py-1 text-sm transition ${
+                    viewMode === 'map' ? 'text-orange-200' : 'text-neutral-300 hover:text-neutral-100'
                   }`}
                 >
                   View map
