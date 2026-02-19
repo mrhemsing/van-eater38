@@ -48,7 +48,16 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
         <p className="text-xs uppercase tracking-[0.22em] text-orange-300 leading-relaxed sm:leading-none">Old Eater 38 entries, saved for posterity</p>
         <h1 className="mt-3 whitespace-nowrap text-[1.45rem] font-semibold text-white sm:text-3xl md:text-5xl">Eater Vancouver 38 Archive</h1>
         <p className="mt-4 max-w-2xl text-neutral-300">
-          See every archived list, what changed each update, and which restaurants are perennial picks. (Last updated: <span className="text-neutral-400">12-10-2025</span>)
+          See every archived list, what changed each update, and which restaurants are perennial picks. (Last updated:{' '}
+          <a
+            href="https://www.eater.com/maps/best-vancouver-restaurants-bc-canada"
+            target="_blank"
+            rel="noreferrer"
+            className="text-neutral-400 underline decoration-neutral-600 underline-offset-2 hover:text-neutral-200"
+          >
+            12-10-2025
+          </a>
+          )
         </p>
 
         <div className="mt-5 grid grid-cols-2 gap-3 lg:hidden md:mt-8">
