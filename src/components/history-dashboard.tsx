@@ -262,7 +262,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
         </main>
       </div>
 
-      <footer className="mt-8 pl-[15px] text-left text-sm text-neutral-500">
+      <footer className="mt-8 text-left text-sm text-neutral-500">
         © 2026{' '}
         <a
           href="https://www.b-average.com/"
