@@ -44,8 +44,8 @@ body {
 @media (max-width: 767px) {
   .eater-bg {
     background-image:
-      radial-gradient(circle at center, rgba(0, 0, 0, 0.08) 0%, rgba(0, 0, 0, 0.38) 130%),
-      linear-gradient(rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.72)),
+      radial-gradient(circle at center, rgba(0, 0, 0, 0.04) 0%, rgba(0, 0, 0, 0.26) 140%),
+      linear-gradient(rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.68)),
       url('/images/kitchen-bg.jpg');
   }
 }
