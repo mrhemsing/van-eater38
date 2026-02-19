@@ -117,7 +117,10 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               return (
                 <button
                   key={version.id}
-                  onClick={() => setSelectedId(version.id)}
+                  onClick={() => {
+                    setSelectedId(version.id);
+                    setShowAllInVersions(false);
+                  }}
                   className={`w-full rounded-xl border px-3 py-2 text-left transition ${
                     isActive
                       ? 'border-orange-400 bg-orange-500/15 text-orange-100'
@@ -154,7 +157,10 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 return (
                   <button
                     key={`mobile-${version.id}`}
-                    onClick={() => setSelectedId(version.id)}
+                    onClick={() => {
+                      setSelectedId(version.id);
+                      setShowAllInVersions(false);
+                    }}
                     className={`whitespace-nowrap rounded-full border px-3 py-1.5 text-xs transition ${
                       isActive
                         ? 'border-orange-400 bg-orange-500/15 text-orange-100'
