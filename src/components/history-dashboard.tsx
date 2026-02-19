@@ -196,7 +196,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             </p>
 
             <div className="flex flex-wrap items-center justify-between gap-3">
-              <h3 className="text-[15px] font-semibold whitespace-nowrap text-white sm:text-lg">
+              <h3 className="text-lg font-semibold whitespace-nowrap text-white">
                 {showAllInVersions
                   ? `All Eater Vancouver 38 Restaurants (${allRestaurants.length})`
                   : 'The 38 Best Restaurants in Vancouver'}
