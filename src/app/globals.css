@@ -40,3 +40,12 @@ body {
   background-repeat: no-repeat, no-repeat, repeat;
   background-position: center, center, center;
 }
+
+@media (max-width: 767px) {
+  .eater-bg {
+    background-image:
+      radial-gradient(circle at center, rgba(0, 0, 0, 0.08) 0%, rgba(0, 0, 0, 0.38) 130%),
+      linear-gradient(rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.72)),
+      url('/images/kitchen-bg.jpg');
+  }
+}
