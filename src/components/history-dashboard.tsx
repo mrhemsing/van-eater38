@@ -150,7 +150,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                           <p className="text-lg font-medium uppercase text-neutral-100 md:text-xl">
                             {restaurant.name}{' '}
                             {isClosed(restaurant.slug) ? (
-                              <span className="ml-1 inline-flex -translate-y-[1px] items-center rounded bg-rose-500/20 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide text-rose-200">
+                              <span className="ml-1 inline-flex -translate-y-[2px] items-center rounded bg-rose-500/20 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide text-rose-200">
                                 CLOSED
                               </span>
                             ) : null}
