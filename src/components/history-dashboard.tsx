@@ -189,7 +189,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 <button
                   type="button"
                   onClick={() => setViewMode('list')}
-                  className={`relative z-10 w-[96px] rounded-full px-3 py-1 text-sm transition ${
+                  className={`relative z-10 w-[120px] rounded-full px-3 py-1 text-sm transition ${
                     viewMode === 'list' ? 'text-orange-200' : 'text-neutral-300 hover:text-neutral-100'
                   }`}
                 >
@@ -198,11 +198,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 <button
                   type="button"
                   onClick={() => setViewMode('map')}
-                  className={`relative z-10 w-[96px] rounded-full px-3 py-1 text-sm transition ${
+                  className={`relative z-10 w-[120px] rounded-full px-3 py-1 text-sm transition ${
                     viewMode === 'map' ? 'text-orange-200' : 'text-neutral-300 hover:text-neutral-100'
                   }`}
                 >
-                  View map
+                  {showAllInVersions ? 'Open on map' : 'View map'}
                 </button>
               </div>
             </div>
