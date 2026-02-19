@@ -48,6 +48,6 @@ body {
       url('/images/kitchen-bg.jpg');
     background-size: auto, 640px 640px;
     background-repeat: no-repeat, repeat;
-    background-position: center, center;
+    background-position: center, center -40px;
   }
 }
