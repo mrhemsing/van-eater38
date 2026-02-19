@@ -159,16 +159,18 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               })}
             </div>
           </section>
-          <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
-            <div className="flex items-center justify-between gap-3">
-              <h3 className="text-lg font-semibold text-white">{toMonthYear(selectedVersion.date)}</h3>
-            </div>
+          {!showAllInVersions ? (
+            <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
+              <div className="flex items-center justify-between gap-3">
+                <h3 className="text-lg font-semibold text-white">{toMonthYear(selectedVersion.date)}</h3>
+              </div>
 
-            <div className="mt-4 grid gap-4 md:grid-cols-2">
-              <ChangeCard title="Added" color="text-emerald-300" restaurants={added} emptyText="No new additions in this snapshot" />
-              <ChangeCard title="Retired" color="text-rose-300" restaurants={removed} emptyText="No retirements in this snapshot" />
-            </div>
-          </section>
+              <div className="mt-4 grid gap-4 md:grid-cols-2">
+                <ChangeCard title="Added" color="text-emerald-300" restaurants={added} emptyText="No new additions in this snapshot" />
+                <ChangeCard title="Retired" color="text-rose-300" restaurants={removed} emptyText="No retirements in this snapshot" />
+              </div>
+            </section>
+          ) : null}
 
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
             <p className="mb-1 text-sm text-neutral-400 md:hidden">
