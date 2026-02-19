@@ -121,7 +121,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
           </section>
 
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
-            <h3 className="text-lg font-semibold text-white">Restaurants in this version</h3>
+            <h3 className="text-lg font-semibold text-white">The 38 Best Restaurants in Vancouver</h3>
             <div className="mt-4 grid gap-3 grid-cols-1">
               {[...selectedVersion.restaurants]
                 .sort((a, b) => {
