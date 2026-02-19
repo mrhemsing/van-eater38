@@ -104,8 +104,8 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               onClick={() => setShowAllInVersions((v) => !v)}
               className={`rounded-md border px-2 py-0.5 text-xs transition ${
                 showAllInVersions
-                  ? 'border-orange-400 bg-orange-500/20 text-orange-200'
-                  : 'border-neutral-700 bg-neutral-900/70 text-orange-300 hover:border-neutral-600 hover:text-orange-200'
+                  ? 'border-[#c20000] bg-[#c20000]/20 text-[#c20000]'
+                  : 'border-neutral-700 bg-neutral-900/70 text-[#c20000] hover:border-neutral-600 hover:text-[#c20000]'
               }`}
             >
               View all
