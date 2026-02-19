@@ -87,7 +87,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               onClick={() => setShowAllInVersions((v) => !v)}
               className="rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-0.5 text-xs text-orange-300 hover:border-neutral-600 hover:text-orange-200"
             >
-              {showAllInVersions ? 'View changes' : 'View all'}
+              View all
             </button>
           </div>
           <div className="space-y-2">
@@ -120,7 +120,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 onClick={() => setShowAllInVersions((v) => !v)}
                 className="rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-0.5 text-xs text-orange-300 hover:border-neutral-600 hover:text-orange-200"
               >
-                {showAllInVersions ? 'View changes' : 'View all'}
+                View all
               </button>
             </div>
             <div className="mt-2 flex gap-2 overflow-x-auto pb-4">
