@@ -343,7 +343,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                                 </span>
                               ) : null}
                               {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
-                                <span className="ml-[11px] inline-flex -translate-y-[1px] items-center align-middle md:-translate-y-[1px]" title="Uber Eats available">
+                                <span className="ml-[11px] hidden -translate-y-[1px] items-center align-middle md:inline-flex md:-translate-y-[1px]" title="Uber Eats available">
                                   <img src="/images/uber-eats-logo-black.svg" alt="Uber Eats available" className="h-[55px] w-[55px] rounded-[4px]" />
                                 </span>
                               ) : null}{' '}
@@ -353,6 +353,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                                 </span>
                               ) : null}
                             </p>
+                            {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
+                              <div className="mt-1 flex md:hidden">
+                                <img src="/images/uber-eats-logo-black.svg" alt="Uber Eats available" className="h-[55px] w-[55px] rounded-[4px]" />
+                              </div>
+                            ) : null}
                           </div>
 
                           <div className="flex items-center gap-2">
