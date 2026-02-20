@@ -27,6 +27,12 @@ const MICHELIN_STAR_SLUGS = new Set([
   'st-lawrence-restaurant',
 ]);
 
+const MICHELIN_LOGO_SLUGS = new Set([
+  'phnom-penh',
+  'anh-and-chi',
+  'vijs',
+]);
+
 export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [selectedId, setSelectedId] = useState(versions[0]?.id);
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
@@ -328,6 +334,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               {MICHELIN_STAR_SLUGS.has(restaurant.slug) ? (
                                 <span className="ml-1 inline-flex -translate-y-[1px] items-center text-[#c20000]" title="Michelin-starred">
                                   ✶
+                                </span>
+                              ) : null}
+                              {MICHELIN_LOGO_SLUGS.has(restaurant.slug) ? (
+                                <span className="ml-1 inline-flex -translate-y-[1px] items-center" title="Michelin designation">
+                                  <img src="/images/michelin-logo.svg" alt="Michelin" className="h-[14px] w-[14px]" />
                                 </span>
                               ) : null}{' '}
                               {isClosed(restaurant.slug) ? (
