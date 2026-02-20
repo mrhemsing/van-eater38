@@ -332,8 +332,8 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                             <p className="text-lg font-medium uppercase text-neutral-100 md:text-xl">
                               {restaurant.name}
                               {MICHELIN_STAR_SLUGS.has(restaurant.slug) ? (
-                                <span className="ml-1 inline-flex -translate-y-[1px] items-center text-[#c20000]" title="Michelin-starred">
-                                  ✶
+                                <span className="ml-1 inline-flex -translate-y-[1px] items-center" title="Michelin-starred">
+                                  <img src="/images/michelin-1star.svg" alt="Michelin 1-star" className="h-[14px] w-[14px]" />
                                 </span>
                               ) : null}
                               {MICHELIN_LOGO_SLUGS.has(restaurant.slug) ? (
