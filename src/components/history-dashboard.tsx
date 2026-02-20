@@ -332,12 +332,12 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                             <p className="text-lg font-medium uppercase text-neutral-100 md:text-xl">
                               {restaurant.name}
                               {MICHELIN_STAR_SLUGS.has(restaurant.slug) ? (
-                                <span className="ml-2 inline-flex -translate-y-[2px] items-center align-middle" title="Michelin-starred">
+                                <span className="ml-2 inline-flex -translate-y-[1px] items-center align-middle md:-translate-y-[2px]" title="Michelin-starred">
                                   <img src="/images/michelin-1star.svg" alt="Michelin 1-star" className="h-[14px] w-[14px]" />
                                 </span>
                               ) : null}
                               {MICHELIN_LOGO_SLUGS.has(restaurant.slug) ? (
-                                <span className="ml-2 inline-flex -translate-y-[2px] items-center align-middle" title="Michelin designation">
+                                <span className="ml-2 inline-flex -translate-y-[1px] items-center align-middle md:-translate-y-[2px]" title="Michelin designation">
                                   <img src="/images/bib-gourmand.svg" alt="Bib Gourmand" className="h-[14px] w-[14px]" />
                                 </span>
                               ) : null}{' '}
