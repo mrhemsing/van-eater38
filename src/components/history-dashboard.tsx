@@ -25,7 +25,6 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
   const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
   const [showAllInVersions, setShowAllInVersions] = useState(false);
-  const [copiedKey, setCopiedKey] = useState<string | null>(null);
 
   const selectedIndex = versions.findIndex((v) => v.id === selectedId);
   const selectedVersion = versions[selectedIndex] ?? versions[0];
@@ -73,16 +72,6 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
     }
 
     return url.toString();
-  };
-
-  const copyShareUrl = async (key: string, opts?: { versionId?: string; all?: boolean; mode?: 'list' | 'map' }) => {
-    try {
-      await navigator.clipboard.writeText(buildShareUrl(opts));
-      setCopiedKey(key);
-      window.setTimeout(() => setCopiedKey((k) => (k === key ? null : k)), 1200);
-    } catch {
-      // ignore
-    }
   };
 
   useEffect(() => {
@@ -173,20 +162,13 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             >
               View all
             </button>
-            <button
-              type="button"
-              onClick={() => copyShareUrl('all-desktop', { all: true })}
-              className="rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-0.5 text-xs text-neutral-200 hover:border-neutral-600"
-            >
-              {copiedKey === 'all-desktop' ? 'Copied' : 'Share'}
-            </button>
           </div>
           <div className="space-y-2">
             {versions.map((version) => {
               const isActive = !showAllInVersions && version.id === selectedVersion.id;
               return (
-                <div key={version.id} className="flex items-center gap-2">
-                  <button
+                <button
+                  key={version.id}
                     onClick={() => {
                       setSelectedId(version.id);
                       setShowAllInVersions(false);
@@ -199,15 +181,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                   >
                     <div className="text-sm font-medium">{toMonthYear(version.date)}</div>
                     <div className="text-xs text-neutral-400">{version.restaurants.length} restaurants</div>
-                  </button>
-                  <button
-                    type="button"
-                    onClick={() => copyShareUrl(`v-${version.id}`, { versionId: version.id })}
-                    className="shrink-0 rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-1 text-xs text-neutral-200 hover:border-neutral-600"
-                  >
-                    {copiedKey === `v-${version.id}` ? '✓' : '↗'}
-                  </button>
-                </div>
+                </button>
               );
             })}
           </div>
@@ -228,20 +202,13 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               >
                 View all
               </button>
-              <button
-                type="button"
-                onClick={() => copyShareUrl('all-mobile', { all: true })}
-                className="rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-0.5 text-xs text-neutral-200 hover:border-neutral-600"
-              >
-                {copiedKey === 'all-mobile' ? 'Copied' : 'Share'}
-              </button>
             </div>
             <div className="mt-2 flex gap-2 overflow-x-auto pb-4">
               {versions.map((version) => {
                 const isActive = !showAllInVersions && version.id === selectedVersion.id;
                 return (
-                  <div key={`mobile-${version.id}`} className="flex items-center gap-1.5">
-                    <button
+                  <button
+                    key={`mobile-${version.id}`}
                       onClick={() => {
                         setSelectedId(version.id);
                         setShowAllInVersions(false);
@@ -253,15 +220,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                       }`}
                     >
                       {toMonthYear(version.date)}
-                    </button>
-                    <button
-                      type="button"
-                      onClick={() => copyShareUrl(`mobile-v-${version.id}`, { versionId: version.id })}
-                      className="rounded-full border border-neutral-700 bg-neutral-900/70 px-2 py-1 text-[11px] text-neutral-300"
-                    >
-                      {copiedKey === `mobile-v-${version.id}` ? '✓' : '↗'}
-                    </button>
-                  </div>
+                  </button>
                 );
               })}
             </div>
@@ -511,3 +470,5 @@ function ChangeCard({
     </div>
   );
 }
+
+
