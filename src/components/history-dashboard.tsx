@@ -405,6 +405,24 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               label={restaurant.phone || 'Not available'}
                               href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
                             />
+                            {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
+                              <DetailRow
+                                icon={
+                                  <span className="inline-flex w-[64px] items-center justify-center overflow-hidden rounded-[4px]">
+                                    <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="w-[70px]" />
+                                  </span>
+                                }
+                                label=""
+                                href={ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks]}
+                                tight
+                                className="pt-[10px] pb-[5px]"
+                              />
+                            ) : null}
+                            <DetailRow
+                              icon="🌐"
+                              label={restaurant.website ? 'Visit website' : 'Website not available from source'}
+                              href={restaurant.website || undefined}
+                            />
                           </div>
                         ) : null}
                       </article>
