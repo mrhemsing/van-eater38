@@ -25,6 +25,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
   const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
   const [showAllInVersions, setShowAllInVersions] = useState(false);
+  const [copiedKey, setCopiedKey] = useState<string | null>(null);
 
   const selectedIndex = versions.findIndex((v) => v.id === selectedId);
   const selectedVersion = versions[selectedIndex] ?? versions[0];
@@ -56,6 +57,64 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   );
 
   const totalUnique = frequencies.size;
+
+  const buildShareUrl = (opts?: { versionId?: string; all?: boolean; mode?: 'list' | 'map' }) => {
+    if (typeof window === 'undefined') return '';
+    const url = new URL(window.location.href);
+    const mode = opts?.mode || viewMode;
+    url.searchParams.set('mode', mode);
+
+    if (opts?.all) {
+      url.searchParams.set('scope', 'all');
+      url.searchParams.delete('v');
+    } else {
+      url.searchParams.delete('scope');
+      url.searchParams.set('v', opts?.versionId || selectedVersion.id);
+    }
+
+    return url.toString();
+  };
+
+  const copyShareUrl = async (key: string, opts?: { versionId?: string; all?: boolean; mode?: 'list' | 'map' }) => {
+    try {
+      await navigator.clipboard.writeText(buildShareUrl(opts));
+      setCopiedKey(key);
+      window.setTimeout(() => setCopiedKey((k) => (k === key ? null : k)), 1200);
+    } catch {
+      // ignore
+    }
+  };
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const url = new URL(window.location.href);
+    const mode = url.searchParams.get('mode');
+    const scope = url.searchParams.get('scope');
+    const v = url.searchParams.get('v');
+
+    if (mode === 'map' || mode === 'list') setViewMode(mode);
+
+    if (scope === 'all') {
+      setShowAllInVersions(true);
+    } else if (v && versions.some((x) => x.id === v)) {
+      setSelectedId(v);
+      setShowAllInVersions(false);
+    }
+  }, [versions]);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const url = new URL(window.location.href);
+    url.searchParams.set('mode', viewMode);
+    if (showAllInVersions) {
+      url.searchParams.set('scope', 'all');
+      url.searchParams.delete('v');
+    } else {
+      url.searchParams.delete('scope');
+      url.searchParams.set('v', selectedVersion.id);
+    }
+    window.history.replaceState({}, '', url.toString());
+  }, [selectedVersion.id, showAllInVersions, viewMode]);
 
   useEffect(() => {
     setExpandedSlugs({});
@@ -114,26 +173,41 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             >
               View all
             </button>
+            <button
+              type="button"
+              onClick={() => copyShareUrl('all-desktop', { all: true })}
+              className="rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-0.5 text-xs text-neutral-200 hover:border-neutral-600"
+            >
+              {copiedKey === 'all-desktop' ? 'Copied' : 'Share'}
+            </button>
           </div>
           <div className="space-y-2">
             {versions.map((version) => {
               const isActive = !showAllInVersions && version.id === selectedVersion.id;
               return (
-                <button
-                  key={version.id}
-                  onClick={() => {
-                    setSelectedId(version.id);
-                    setShowAllInVersions(false);
-                  }}
-                  className={`w-full rounded-xl border px-3 py-2 text-left transition ${
-                    isActive
-                      ? 'border-orange-400 bg-orange-500/15 text-orange-100'
-                      : 'border-neutral-800 bg-neutral-900/60 text-neutral-200 hover:border-neutral-600'
-                  }`}
-                >
-                  <div className="text-sm font-medium">{toMonthYear(version.date)}</div>
-                  <div className="text-xs text-neutral-400">{version.restaurants.length} restaurants</div>
-                </button>
+                <div key={version.id} className="flex items-center gap-2">
+                  <button
+                    onClick={() => {
+                      setSelectedId(version.id);
+                      setShowAllInVersions(false);
+                    }}
+                    className={`w-full rounded-xl border px-3 py-2 text-left transition ${
+                      isActive
+                        ? 'border-orange-400 bg-orange-500/15 text-orange-100'
+                        : 'border-neutral-800 bg-neutral-900/60 text-neutral-200 hover:border-neutral-600'
+                    }`}
+                  >
+                    <div className="text-sm font-medium">{toMonthYear(version.date)}</div>
+                    <div className="text-xs text-neutral-400">{version.restaurants.length} restaurants</div>
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => copyShareUrl(`v-${version.id}`, { versionId: version.id })}
+                    className="shrink-0 rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-1 text-xs text-neutral-200 hover:border-neutral-600"
+                  >
+                    {copiedKey === `v-${version.id}` ? '✓' : '↗'}
+                  </button>
+                </div>
               );
             })}
           </div>
@@ -154,25 +228,40 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               >
                 View all
               </button>
+              <button
+                type="button"
+                onClick={() => copyShareUrl('all-mobile', { all: true })}
+                className="rounded-md border border-neutral-700 bg-neutral-900/70 px-2 py-0.5 text-xs text-neutral-200 hover:border-neutral-600"
+              >
+                {copiedKey === 'all-mobile' ? 'Copied' : 'Share'}
+              </button>
             </div>
             <div className="mt-2 flex gap-2 overflow-x-auto pb-4">
               {versions.map((version) => {
                 const isActive = !showAllInVersions && version.id === selectedVersion.id;
                 return (
-                  <button
-                    key={`mobile-${version.id}`}
-                    onClick={() => {
-                      setSelectedId(version.id);
-                      setShowAllInVersions(false);
-                    }}
-                    className={`whitespace-nowrap rounded-full border px-3 py-1.5 text-xs transition ${
-                      isActive
-                        ? 'border-orange-400 bg-orange-500/15 text-orange-100'
-                        : 'border-neutral-700 bg-neutral-900/60 text-neutral-300'
-                    }`}
-                  >
-                    {toMonthYear(version.date)}
-                  </button>
+                  <div key={`mobile-${version.id}`} className="flex items-center gap-1.5">
+                    <button
+                      onClick={() => {
+                        setSelectedId(version.id);
+                        setShowAllInVersions(false);
+                      }}
+                      className={`whitespace-nowrap rounded-full border px-3 py-1.5 text-xs transition ${
+                        isActive
+                          ? 'border-orange-400 bg-orange-500/15 text-orange-100'
+                          : 'border-neutral-700 bg-neutral-900/60 text-neutral-300'
+                      }`}
+                    >
+                      {toMonthYear(version.date)}
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => copyShareUrl(`mobile-v-${version.id}`, { versionId: version.id })}
+                      className="rounded-full border border-neutral-700 bg-neutral-900/70 px-2 py-1 text-[11px] text-neutral-300"
+                    >
+                      {copiedKey === `mobile-v-${version.id}` ? '✓' : '↗'}
+                    </button>
+                  </div>
                 );
               })}
             </div>
