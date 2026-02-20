@@ -407,7 +407,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                                     <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-[20px] w-[20px] scale-[1.2]" />
                                   </span>
                                 }
-                                label="Uber Eats"
+                                label=""
                                 href={ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks]}
                               />
                             ) : null}
