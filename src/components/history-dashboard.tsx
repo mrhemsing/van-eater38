@@ -341,6 +341,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                                 <span className="ml-2 inline-flex -translate-y-[1px] items-center align-middle md:-translate-y-[1px]" title="Michelin designation">
                                   <img src="/images/bib-gourmand.svg" alt="Bib Gourmand" className="h-[14px] w-[14px]" />
                                 </span>
+                              ) : null}
+                              {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
+                                <span className="ml-2 inline-flex -translate-y-[1px] items-center align-middle md:-translate-y-[1px]" title="Uber Eats available">
+                                  <img src="/images/uber-eats-logo.svg" alt="Uber Eats available" className="h-[14px] w-[14px] rounded-[2px]" />
+                                </span>
                               ) : null}{' '}
                               {isClosed(restaurant.slug) ? (
                                 <span className="ml-1 inline-flex -translate-y-[3px] items-center rounded bg-rose-500/20 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide text-rose-200">
