@@ -338,7 +338,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               ) : null}
                               {MICHELIN_LOGO_SLUGS.has(restaurant.slug) ? (
                                 <span className="ml-1 inline-flex -translate-y-[1px] items-center" title="Michelin designation">
-                                  <img src="/images/michelin-logo.svg" alt="Michelin" className="h-[14px] w-[14px]" />
+                                  <img src="/images/bib-gourmand.svg" alt="Bib Gourmand" className="h-[14px] w-[14px]" />
                                 </span>
                               ) : null}{' '}
                               {isClosed(restaurant.slug) ? (
