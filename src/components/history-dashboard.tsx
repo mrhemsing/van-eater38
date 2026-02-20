@@ -20,6 +20,13 @@ const RestaurantMap = dynamic(() => import('@/components/restaurant-map').then((
   ssr: false,
 });
 
+const MICHELIN_STAR_SLUGS = new Set([
+  'published-on-main',
+  'burdock-co',
+  'kissa-tanto',
+  'st-lawrence-restaurant',
+]);
+
 export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [selectedId, setSelectedId] = useState(versions[0]?.id);
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
@@ -317,7 +324,12 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                         >
                           <div>
                             <p className="text-lg font-medium uppercase text-neutral-100 md:text-xl">
-                              {restaurant.name}{' '}
+                              {restaurant.name}
+                              {MICHELIN_STAR_SLUGS.has(restaurant.slug) ? (
+                                <span className="ml-1 inline-flex -translate-y-[1px] items-center text-[#c20000]" title="Michelin-starred">
+                                  ✶
+                                </span>
+                              ) : null}{' '}
                               {isClosed(restaurant.slug) ? (
                                 <span className="ml-1 inline-flex -translate-y-[3px] items-center rounded bg-rose-500/20 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide text-rose-200">
                                   CLOSED
