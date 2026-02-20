@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import dynamic from 'next/dynamic';
-import { useEffect, useMemo, useState, type ReactNode } from 'react';
+import { useEffect, useLayoutEffect, useMemo, useState, type ReactNode } from 'react';
 import type { Version } from '@/lib/history';
 import { buildFrequency, isClosed, versionDiff } from '@/lib/history';
 
@@ -25,6 +25,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
   const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
   const [showAllInVersions, setShowAllInVersions] = useState(false);
+  const [isReady, setIsReady] = useState(false);
 
   const selectedIndex = versions.findIndex((v) => v.id === selectedId);
   const selectedVersion = versions[selectedIndex] ?? versions[0];
@@ -74,7 +75,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
     return url.toString();
   };
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     if (typeof window === 'undefined') return;
     const url = new URL(window.location.href);
     const mode = url.searchParams.get('mode');
@@ -89,10 +90,12 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
       setSelectedId(v);
       setShowAllInVersions(false);
     }
+
+    setIsReady(true);
   }, [versions]);
 
   useEffect(() => {
-    if (typeof window === 'undefined') return;
+    if (typeof window === 'undefined' || !isReady) return;
     const url = new URL(window.location.href);
     url.searchParams.set('mode', viewMode);
     if (showAllInVersions) {
@@ -103,11 +106,15 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
       url.searchParams.set('v', selectedVersion.id);
     }
     window.history.replaceState({}, '', url.toString());
-  }, [selectedVersion.id, showAllInVersions, viewMode]);
+  }, [isReady, selectedVersion.id, showAllInVersions, viewMode]);
 
   useEffect(() => {
     setExpandedSlugs({});
   }, [selectedId, showAllInVersions]);
+
+  if (!isReady) {
+    return <div className="mx-auto max-w-7xl px-[14px] pt-6 pb-10 md:px-7" />;
+  }
 
   return (
     <div className="mx-auto max-w-7xl overflow-x-hidden px-[14px] pt-6 pb-10 md:px-7">
