@@ -5,6 +5,7 @@ import dynamic from 'next/dynamic';
 import { useEffect, useLayoutEffect, useMemo, useState, type ReactNode } from 'react';
 import type { Version } from '@/lib/history';
 import { buildFrequency, isClosed, versionDiff } from '@/lib/history';
+import ubereatsLinks from '@/data/ubereats-links.json';
 
 function toMonthYear(dateStr: string) {
   const [year, month] = dateStr.split('-').map(Number);
@@ -399,6 +400,13 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               label={restaurant.phone || 'Not available'}
                               href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
                             />
+                            {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
+                              <DetailRow
+                                icon={<img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-[14px] w-[14px]" />}
+                                label="Uber Eats"
+                                href={ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks]}
+                              />
+                            ) : null}
                             <DetailRow
                               icon="🌐"
                               label={restaurant.website ? 'Visit website' : 'Website not available from source'}
@@ -449,7 +457,7 @@ function Stat({ label, value }: { label: string; value: string }) {
   );
 }
 
-function DetailRow({ icon, label, href, dense = false }: { icon: string; label: ReactNode; href?: string; dense?: boolean }) {
+function DetailRow({ icon, label, href, dense = false }: { icon: ReactNode; label: ReactNode; href?: string; dense?: boolean }) {
   const content = (
     <div className={`flex items-center justify-between gap-3 ${dense ? 'py-0.5' : 'py-2'}`}>
       <div className="flex items-center gap-2">
