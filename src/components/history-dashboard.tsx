@@ -353,11 +353,6 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                                 </span>
                               ) : null}
                             </p>
-                            {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
-                              <div className="-my-1 mt-0 flex leading-none md:hidden">
-                                <img src="/images/uber-eats-logo-black.svg" alt="Uber Eats available" className="block h-[55px] w-[55px] rounded-[4px]" />
-                              </div>
-                            ) : null}
                           </div>
 
                           <div className="flex items-center gap-2">
@@ -410,34 +405,6 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               label={restaurant.phone || 'Not available'}
                               href={restaurant.phone ? `tel:${restaurant.phone.replace(/[^\d+]/g, '')}` : undefined}
                             />
-                            {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
-                              <DetailRow
-                                icon={
-                                  <span className="inline-flex w-[64px] items-center justify-center overflow-hidden rounded-[4px]">
-                                    <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="w-[70px]" />
-                                  </span>
-                                }
-                                label=""
-                                href={ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks]}
-                                tight
-                                className="pt-[10px] pb-[5px]"
-                              />
-                            ) : null}
-                            <DetailRow
-                              icon="🌐"
-                              label={restaurant.website ? 'Visit website' : 'Website not available from source'}
-                              href={restaurant.website || undefined}
-                            />
-                            {restaurant.imageUrl ? (
-                              <div className="py-3">
-                                <img
-                                  src={restaurant.imageUrl}
-                                  alt={`${restaurant.name} photo`}
-                                  className="aspect-[4/3] w-full max-w-[500px] rounded-lg border border-neutral-800 object-cover"
-                                  loading="lazy"
-                                />
-                              </div>
-                            ) : null}
                           </div>
                         ) : null}
                       </article>
@@ -538,6 +505,8 @@ function ChangeCard({
     </div>
   );
 }
+
+
 
 
 
