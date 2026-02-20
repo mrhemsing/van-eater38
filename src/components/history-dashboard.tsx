@@ -410,7 +410,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                                 label=""
                                 href={ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks]}
                                 tight
-                                className="pt-2 pb-1.5"
+                                className="pt-[10px] pb-1.5"
                               />
                             ) : null}
                             <DetailRow
