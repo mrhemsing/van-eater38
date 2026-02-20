@@ -343,7 +343,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                                 </span>
                               ) : null}
                               {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
-                                <span className="ml-2 inline-flex -translate-y-[1px] items-center align-middle md:-translate-y-[1px]" title="Uber Eats available">
+                                <span className="ml-3 inline-flex -translate-y-[1px] items-center align-middle md:-translate-y-[1px]" title="Uber Eats available">
                                   <img src="/images/uber-eats-logo-black.svg" alt="Uber Eats available" className="h-[55px] w-[55px] rounded-[4px]" />
                                 </span>
                               ) : null}{' '}
