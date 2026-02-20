@@ -354,7 +354,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               ) : null}
                             </p>
                             {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
-                              <div className="mt-1 flex md:hidden">
+                              <div className="mt-0 flex md:hidden">
                                 <img src="/images/uber-eats-logo-black.svg" alt="Uber Eats available" className="h-[55px] w-[55px] rounded-[4px]" />
                               </div>
                             ) : null}
