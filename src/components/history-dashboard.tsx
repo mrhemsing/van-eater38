@@ -404,7 +404,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               <DetailRow
                                 icon={
                                   <span className="inline-flex h-[64px] w-[64px] items-center justify-center overflow-hidden rounded-[4px]">
-                                    <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-[70px] w-[70px]" />
+                                    <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="w-[70px]" />
                                   </span>
                                 }
                                 label=""
