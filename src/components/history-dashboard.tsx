@@ -403,8 +403,8 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                             {ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks] ? (
                               <DetailRow
                                 icon={
-                                  <span className="inline-flex h-[49px] w-[49px] items-center justify-center overflow-hidden rounded-[4px]">
-                                    <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-[54px] w-[54px]" />
+                                  <span className="inline-flex h-[64px] w-[64px] items-center justify-center overflow-hidden rounded-[4px]">
+                                    <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-[70px] w-[70px]" />
                                   </span>
                                 }
                                 label=""
