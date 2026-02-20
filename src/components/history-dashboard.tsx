@@ -409,6 +409,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                                 }
                                 label=""
                                 href={ubereatsLinks[restaurant.slug as keyof typeof ubereatsLinks]}
+                                tight
                               />
                             ) : null}
                             <DetailRow
@@ -461,9 +462,21 @@ function Stat({ label, value }: { label: string; value: string }) {
   );
 }
 
-function DetailRow({ icon, label, href, dense = false }: { icon: ReactNode; label: ReactNode; href?: string; dense?: boolean }) {
+function DetailRow({
+  icon,
+  label,
+  href,
+  dense = false,
+  tight = false,
+}: {
+  icon: ReactNode;
+  label: ReactNode;
+  href?: string;
+  dense?: boolean;
+  tight?: boolean;
+}) {
   const content = (
-    <div className={`flex items-center justify-between gap-3 ${dense ? 'py-0.5' : 'py-2'}`}>
+    <div className={`flex items-center justify-between gap-3 ${tight ? 'py-0' : dense ? 'py-0.5' : 'py-2'}`}>
       <div className="flex items-center gap-2">
         <span className="w-5 text-center text-base text-neutral-300">{icon}</span>
         <span>{label}</span>
