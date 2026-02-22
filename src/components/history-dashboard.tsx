@@ -305,7 +305,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             </div>
 
             <label className="mt-4 mb-3 inline-flex items-center gap-2 text-sm text-neutral-200 md:hidden">
-              <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-6 w-auto" />
+              <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-[22.8px] w-auto" />
               <input
                 type="checkbox"
                 checked={showUberEatsOnly}
