@@ -274,9 +274,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               <h3 className="text-lg font-semibold whitespace-nowrap text-white">
                 {showAllInVersions
                   ? `All Eater Vancouver 38 Restaurants (${visibleRestaurants.length})`
-                  : showUberEatsOnly
-                    ? `The 38 Best Restaurants in Vancouver (${visibleRestaurants.length} with Uber Eats)`
-                    : 'The 38 Best Restaurants in Vancouver'}
+                  : 'The 38 Best Restaurants in Vancouver'}
               </h3>
               <div className="relative inline-flex rounded-full border border-neutral-700 bg-neutral-900/70 p-1">
                 <div
