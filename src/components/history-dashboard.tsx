@@ -312,7 +312,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 className="h-4 w-4 rounded border-neutral-600 bg-neutral-900 text-orange-400"
               />
               <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-6 w-auto" />
-              Delivery only
+              ✓ Delivery only
             </label>
 
             <p className="-mt-0.5 mb-2 hidden text-sm text-neutral-400 md:block">
