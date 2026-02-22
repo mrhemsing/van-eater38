@@ -310,9 +310,9 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                 type="checkbox"
                 checked={showUberEatsOnly}
                 onChange={(e) => setShowUberEatsOnly(e.target.checked)}
-                className="h-4 w-4 rounded border-neutral-600 bg-neutral-900 text-orange-400"
+                className="translate-y-px h-4 w-4 rounded border-neutral-600 bg-neutral-900 text-orange-400"
               />
-              Delivery only
+              <span className="translate-y-px">Delivery only</span>
             </label>
 
             <p className="-mt-0.5 mb-2 hidden text-sm text-neutral-400 md:block">
