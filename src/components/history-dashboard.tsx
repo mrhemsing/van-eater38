@@ -39,6 +39,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   const [expandedSlugs, setExpandedSlugs] = useState<Record<string, boolean>>({});
   const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
   const [showAllInVersions, setShowAllInVersions] = useState(false);
+  const [showUberEatsOnly, setShowUberEatsOnly] = useState(false);
   const [isReady, setIsReady] = useState(false);
 
   const selectedIndex = versions.findIndex((v) => v.id === selectedId);
@@ -71,6 +72,11 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   );
 
   const totalUnique = frequencies.size;
+
+  const baseRestaurants = showAllInVersions ? allRestaurants : selectedVersion.restaurants;
+  const visibleRestaurants = showUberEatsOnly
+    ? baseRestaurants.filter((r) => !!ubereatsLinks[r.slug as keyof typeof ubereatsLinks])
+    : baseRestaurants;
 
   const buildShareUrl = (opts?: { versionId?: string; all?: boolean; mode?: 'list' | 'map' }) => {
     if (typeof window === 'undefined') return '';
@@ -267,8 +273,10 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             <div className="flex flex-wrap items-center justify-between gap-3">
               <h3 className="text-lg font-semibold whitespace-nowrap text-white">
                 {showAllInVersions
-                  ? `All Eater Vancouver 38 Restaurants (${allRestaurants.length})`
-                  : 'The 38 Best Restaurants in Vancouver'}
+                  ? `All Eater Vancouver 38 Restaurants (${visibleRestaurants.length})`
+                  : showUberEatsOnly
+                    ? `The 38 Best Restaurants in Vancouver (${visibleRestaurants.length} with Uber Eats)`
+                    : 'The 38 Best Restaurants in Vancouver'}
               </h3>
               <div className="relative inline-flex rounded-full border border-neutral-700 bg-neutral-900/70 p-1">
                 <div
@@ -298,15 +306,26 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
               </div>
             </div>
 
+            <label className="mt-3 inline-flex items-center gap-2 text-sm text-neutral-200 md:hidden">
+              <input
+                type="checkbox"
+                checked={showUberEatsOnly}
+                onChange={(e) => setShowUberEatsOnly(e.target.checked)}
+                className="h-4 w-4 rounded border-neutral-600 bg-neutral-900 text-orange-400"
+              />
+              <img src="/images/uber-eats-logo.svg" alt="Uber Eats" className="h-4 w-auto" />
+              Uber Eats delivery only
+            </label>
+
             <p className="-mt-0.5 mb-2 hidden text-sm text-neutral-400 md:block">
               {showAllInVersions ? 'May 2022 - December 2025' : toMonthYear(selectedVersion.date)}
             </p>
 
             {viewMode === 'map' ? (
-              <RestaurantMap restaurants={showAllInVersions ? allRestaurants : selectedVersion.restaurants} />
+              <RestaurantMap restaurants={visibleRestaurants} />
             ) : (
               <div className="mt-4 grid grid-cols-1 gap-3">
-                {[...(showAllInVersions ? allRestaurants : selectedVersion.restaurants)]
+                {[...visibleRestaurants]
                   .sort((a, b) => {
                     const aCount = frequencies.get(a.slug)?.count ?? 0;
                     const bCount = frequencies.get(b.slug)?.count ?? 0;
