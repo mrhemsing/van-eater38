@@ -440,6 +440,16 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
                               label={restaurant.website ? 'Visit website' : 'Website not available from source'}
                               href={restaurant.website || undefined}
                             />
+                            {restaurant.imageUrl ? (
+                              <div className="mt-2 overflow-hidden rounded-lg border border-neutral-800/80 bg-neutral-900/60 p-2">
+                                <img
+                                  src={restaurant.imageUrl}
+                                  alt={`${restaurant.name} photo`}
+                                  className="h-auto w-full max-w-[500px] object-contain"
+                                  loading="lazy"
+                                />
+                              </div>
+                            ) : null}
                           </div>
                         ) : null}
                       </article>
