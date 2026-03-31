@@ -465,7 +465,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
       <footer className="mt-8 pl-8 text-left text-sm text-neutral-500">
         <div className="inline-flex items-center gap-2">
           <span>© 2026</span>
-          <BAverageBadge variant="black" />
+          <BAverageBadge variant="white" />
         </div>
       </footer>
     </div>
