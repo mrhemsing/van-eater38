@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import dynamic from 'next/dynamic';
 import { useEffect, useLayoutEffect, useMemo, useState, type ReactNode } from 'react';
+import BAverageBadge from '@/components/BAverageBadge';
 import type { Version } from '@/lib/history';
 import { buildFrequency, isClosed, versionDiff } from '@/lib/history';
 import ubereatsLinks from '@/data/ubereats-links.json';
@@ -462,15 +463,10 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
       </div>
 
       <footer className="mt-8 pl-8 text-left text-sm text-neutral-500">
-        © 2026{' '}
-        <a
-          href="https://www.b-average.com/"
-          target="_blank"
-          rel="noreferrer"
-          className="text-neutral-400 hover:text-neutral-200"
-        >
-          B Average
-        </a>
+        <div className="inline-flex items-center gap-2">
+          <span>© 2026</span>
+          <BAverageBadge variant="black" />
+        </div>
       </footer>
     </div>
   );
