@@ -10,6 +10,7 @@
     "sync:data": "node scripts/sync-eater-history.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "cheerio": "^1.2.0",
     "imagetracerjs": "^1.2.6",
     "leaflet": "^1.9.4",
