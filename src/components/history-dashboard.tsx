@@ -18,6 +18,12 @@ function toMonthYear(dateStr: string) {
   });
 }
 
+function toShortDate(dateStr: string) {
+  const [year, month, day] = dateStr.split('-').map(Number);
+  if (!year || !month || !day) return dateStr;
+  return `${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}-${year}`;
+}
+
 const RestaurantMap = dynamic(() => import('@/components/restaurant-map').then((m) => m.RestaurantMap), {
   ssr: false,
 });
@@ -73,6 +79,10 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
   );
 
   const totalUnique = frequencies.size;
+  const latestVersion = versions[0];
+  const oldestVersion = versions[versions.length - 1];
+  const allVersionsRange =
+    latestVersion && oldestVersion ? `${toMonthYear(oldestVersion.date)} - ${toMonthYear(latestVersion.date)}` : '';
 
   const baseRestaurants = showAllInVersions ? allRestaurants : selectedVersion.restaurants;
   const visibleRestaurants = showUberEatsOnly
@@ -164,7 +174,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             rel="noreferrer"
             className="text-neutral-400 hover:text-neutral-200"
           >
-            12-10-2025
+            {latestVersion ? toShortDate(latestVersion.date) : 'Unknown'}
           </a>
           )
         </p>
@@ -268,7 +278,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
 
           <section className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-5">
             <p className="mb-1 text-sm text-neutral-400 md:hidden">
-              {showAllInVersions ? 'May 2022 - December 2025' : toMonthYear(selectedVersion.date)}
+              {showAllInVersions ? allVersionsRange : toMonthYear(selectedVersion.date)}
             </p>
 
             <div className="flex flex-wrap items-center justify-between gap-3">
@@ -317,7 +327,7 @@ export function HistoryDashboard({ versions }: { versions: Version[] }) {
             </label>
 
             <p className="-mt-0.5 mb-2 hidden text-sm text-neutral-400 md:block">
-              {showAllInVersions ? 'May 2022 - December 2025' : toMonthYear(selectedVersion.date)}
+              {showAllInVersions ? allVersionsRange : toMonthYear(selectedVersion.date)}
             </p>
 
             {viewMode === 'map' ? (
